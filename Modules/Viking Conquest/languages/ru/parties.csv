@@ -1,0 +1,428 @@
+﻿p_burning_buildings|If|you|see|me,|report|the|fire|bug.
+p_ship_colisions|If|you|see|me,|report|the|colision|bug.
+p_main_party|Main_Party
+p_temp_party|{!}temp_party
+p_camp_bandits|{!}camp_bandits
+p_temp_party_2|{!}temp_party_2
+p_temp_casualties|{!}casualties
+p_temp_casualties_2|{!}casualties
+p_temp_casualties_3|{!}casualties
+p_temp_wounded|{!}enemies_wounded
+p_temp_killed|{!}enemies_killed
+p_main_party_backup|{!}_
+p_encountered_party_backup|{!}_
+p_collective_friends_backup|{!}_
+p_player_casualties|{!}_
+p_enemy_casualties|{!}_
+p_ally_casualties|{!}_
+p_collective_enemy|{!}collective_enemy
+p_collective_ally|{!}collective_ally
+p_collective_friends|{!}collective_ally
+p_total_enemy_casualties|{!}_
+p_routed_enemies|{!}routed_enemies|
+p_ferry_1a|Паромная Переправа
+p_ferry_2a|Паромная Переправа
+p_ferry_3a|Паромная Переправа
+p_ferry_4a|Паромная Переправа
+p_ferry_1b|Паромная Переправа
+p_ferry_2b|Паромная Переправа
+p_ferry_3b|Паромная Переправа
+p_ferry_4b|Паромная Переправа
+p_zendar|Зендар
+p_town_1|Кентербур
+p_town_2|Сиппанхамм
+p_town_3|Дин Эйдин
+p_town_4|Риб
+p_town_5|Тунсберг
+p_town_6|Дамбартон
+p_town_7|Дублин
+p_town_8|Киррен Систер
+p_town_9|Кэрдиф
+p_town_10|Йорвик
+p_town_11|Дорестад
+p_town_12|Люнденвик
+p_town_13|Англси
+p_town_14|Дунвич
+p_town_15|Скон
+p_town_16|Витан Честер
+p_town_17|Бодмин
+p_town_18|Килкенни
+p_town_19|Килригмонд
+p_town_20|Даунпатрик
+p_town_21|Мэйстэй
+p_town_22|Кэрмагуэйд
+p_town_23|Тамворт
+p_town_24|Кашел
+p_town_25|Айлех
+p_town_26|Брихейниог
+p_town_27|Бибэйнбур
+p_town_28|Круэйган
+p_town_29|Тимэйр
+p_castle_1|замок Кэрлигэлид
+p_castle_2|замок Манчестер
+p_castle_3|замок Дочестер
+p_castle_4|замок Миддлсбур
+p_castle_5|замок Дэниссесбурна
+p_castle_6|замок Еверинг
+p_castle_7|замок Динбир
+p_castle_8|замок Викстом
+p_castle_9|замок Снотингхэм
+p_castle_10|замок Линсилайн
+p_castle_11|замок Хэм Тун
+p_castle_12|замок Хреапандум
+p_castle_13|замок Осенафорда
+p_castle_14|замок Колн Честер
+p_castle_15|замок Гегнесбер
+p_castle_16|замок Стэнфорд
+p_castle_17|замок Норвич
+p_castle_18|замок Эгелисдум
+p_castle_19|замок Рэндлайхам
+p_castle_20|замок Грандэбридж
+p_castle_21|замок Руф Честер
+p_castle_22|замок Дорнвара Честер
+p_castle_23|замок Сэробур
+p_castle_24|замок Дорч Честер
+p_castle_25|замок Вилтун
+p_castle_26|замок Хам Тун
+p_castle_27|замок Бадон
+p_castle_28|замок Искан Честер
+p_castle_29|замок Тован Блистра
+p_castle_30|замок Дин Тагель
+p_castle_31|замок Катюр
+p_castle_32|замок Кул Нам
+p_castle_33|замок Кэр Карадай
+p_castle_34|замок Гобхан
+p_castle_35|замок Дум Дуйн
+p_castle_36|замок Дум Фотэр
+p_castle_37|замок Дум Тару
+p_castle_38|замок Дум Авэрт
+p_castle_39|замок Дун Онлэй
+p_castle_40|замок Арт Мирхо
+p_castle_41|замок Дин Бич
+p_castle_42|замок Динас Бран
+p_castle_43|замок Дин Арт
+p_castle_44|замок Дин Эрт
+p_castle_45|замок Кэр Синьонт
+p_castle_46|замок Кэр Свис
+p_castle_47|замок Мэйген Сэнкуд
+p_castle_48|замок Кэр Вэнт
+p_castle_49|замок Скайфа
+p_castle_50|замок Вэберг
+p_castle_51|замок Уэльстат
+p_castle_52|замок Эйдабир
+p_castle_53|замок Скилинсайлр
+p_castle_54|замок Ордаланд
+p_castle_55|замок Адир
+p_castle_56|замок Рогаланд
+p_castle_57|замок Кэр Рэгед
+p_castle_58|замок Бэт
+p_castle_59|замок Инис Мана
+p_castle_60|замок Бьярнарой
+p_castle_61|замок Оркнеяр
+p_castle_62|замок Вэйсаферд
+p_castle_63|замок Кэннемер
+p_castle_64|замок Влэс Инге
+p_castle_65|замок Судурдж
+p_castle_66|замок Рат
+p_castle_67|замок Коба
+p_castle_68|замок Друм Мор
+p_castle_69|замок Клочэр
+p_castle_70|замок Фирмэй
+p_castle_71|замок Мача
+p_castle_72|замок Думэй
+p_castle_73|замок Мор
+p_castle_74|замок Эчада
+p_castle_75|замок Брикин
+p_castle_76|замок Кранок
+p_castle_77|замок Чомэн
+p_castle_78|замок Лун Коннахт
+p_castle_79|замок Фиачрах
+p_castle_80|замок Берхна
+p_castle_81|замок Гриан
+p_castle_82|замок Мор
+p_castle_83|замок Луачра
+p_castle_84|замок Мускрах
+p_castle_85|замок Мбарк
+p_castle_86|замок Дара
+p_castle_87|замок Лиамхэн
+p_castle_88|замок Болг
+p_castle_89|замок Треон
+p_castle_90|замок Лэйген
+p_village_1|деревня Лигалит
+p_village_2|деревня Манхэм
+p_village_3|деревня Доннхэм
+p_village_4|деревня Мидлсхэм
+p_village_5|деревня Дэйнисс
+p_village_6|деревня Гэфрин
+p_village_7|деревня Бэр
+p_village_8|деревня Викс
+p_village_9|деревня Снотингхэм
+p_village_10|деревня Линсилин
+p_village_11|деревня Хэм
+p_village_12|деревня Рипанхэм
+p_village_13|деревня Оксэна
+p_village_14|деревня Колнхэм
+p_village_15|деревня Гэгнхэм
+p_village_16|деревня Станхэм
+p_village_17|деревня Норхэм
+p_village_18|деревня Хэглисхэм
+p_village_19|деревня Рэнлсхэм
+p_village_20|деревня Грандхэм
+p_village_21|деревня Руфахэм
+p_village_22|деревня Дорнвархэм
+p_village_23|деревня Саерхэм
+p_village_24|деревня Дорсхэм
+p_village_25|деревня Вилхэм
+p_village_26|деревня Хамхэм
+p_village_27|деревня Бадонхэм
+p_village_28|деревня Эсканхэм
+p_village_29|деревня Тован
+p_village_30|деревня Тагель
+p_village_31|деревня Катур
+p_village_32|деревня Кул
+p_village_33|деревня Карадав
+p_village_34|деревня Гоб
+p_village_35|деревня Дуим
+p_village_36|деревня Фозэр
+p_village_37|деревня Таро
+p_village_38|деревня Авэрт
+p_village_39|деревня Онлэй
+p_village_40|деревня Мурчод
+p_village_41|деревня Бич
+p_village_42|деревня Бран
+p_village_43|деревня Арт
+p_village_44|деревня Эрт
+p_village_45|деревня Трэфсэн
+p_village_46|деревня Свис
+p_village_47|деревня Кэнкод
+p_village_48|деревня Винт
+p_village_49|деревня Скайфа
+p_village_50|деревня Вэберг
+p_village_51|деревня Хухельстат
+p_village_52|деревня Эйда
+p_village_53|деревня Сикирингссал
+p_village_54|деревня Орда
+p_village_55|деревня Адир
+p_village_56|деревня Рогаланд
+p_village_57|деревня Рэге
+p_village_58|деревня Бэтт
+p_village_59|деревня Манав
+p_village_60|деревня Бьярнарой
+p_village_61|деревня Оркнеяр
+p_village_62|деревня Вэйса
+p_village_63|деревня Кэннемер
+p_village_64|деревня Влэс
+p_village_65|деревня Себург
+p_village_66|деревня Маг
+p_village_67|деревня Маг Коба
+p_village_68|деревня Мор
+p_village_69|деревня Клочер
+p_village_70|деревня Феарнмэй
+p_village_71|деревня Мача
+p_village_72|деревня Думэй
+p_village_73|деревня Мор
+p_village_74|деревня Ичада
+p_village_75|деревня Брикин
+p_village_76|деревня Кранок
+p_village_77|деревня Чомэн
+p_village_78|деревня Лэйген
+p_village_79|деревня Фиачрах
+p_village_80|деревня Берхна
+p_village_81|деревня Гриан
+p_village_82|деревня Мор
+p_village_83|деревня Луачра
+p_village_84|деревня Мускрах
+p_village_85|деревня Мбарк
+p_village_86|деревня Дара
+p_village_87|деревня Лиамхэн
+p_village_88|деревня Болг
+p_village_89|деревня Треон
+p_village_90|деревня Лэйген
+p_village_91|деревня Тара
+p_village_92|деревня Кантварахэм
+p_village_93|деревня Кантвар
+p_village_94|деревня Кипанхэм
+p_village_95|деревня Кипан
+p_village_96|деревня Эйдинхэм
+p_village_97|деревня Эйдин
+p_village_98|деревня Рибнор
+p_village_99|деревня Рибсор
+p_village_100|деревня Тунас
+p_village_101|деревня Тунэс
+p_village_102|деревня Британас
+p_village_103|деревня Британэс
+p_village_104|деревня Дуинор
+p_village_105|деревня Дубсор
+p_village_106|деревня Трэфдиф
+p_village_107|деревня Кэрдиф
+p_village_108|деревня Офэр
+p_village_109|деревня Офэрхэм
+p_village_110|деревня Дор
+p_village_111|деревня Дорхэм
+p_village_112|деревня Лундэн
+p_village_113|деревня Лунденхэм
+p_village_114|деревня Трэфмун
+p_village_115|деревня Мун
+p_village_116|деревня Дун
+p_village_117|деревня Дунхэм
+p_village_118|деревня Скун
+p_village_119|деревня Балскун
+p_village_120|деревня Витан
+p_village_121|деревня Витанхэм
+p_village_122|деревня Бодмин
+p_village_123|деревня Бодтрэфмин
+p_village_124|деревня Каннигбал
+p_village_125|деревня Канниг
+p_village_126|деревня Ригмон
+p_village_127|деревня Ригмонбал
+p_village_128|деревня Келтэрбал
+p_village_129|деревня Келтэр
+p_village_130|деревня Мэйстэйбал
+p_village_131|деревня Мэйстэй
+p_village_132|деревня Мэйгад
+p_village_135|деревня Мэйгадбал
+p_village_134|деревня Том
+p_village_135|деревня Томхэм
+p_village_136|деревня Кайсил
+p_village_137|деревня Кайсилбал
+p_village_138|деревня Айлехбал
+p_village_139|деревня Айлех
+p_village_140|деревня Бриченьог
+p_village_141|деревня Бритрифьог
+p_village_142|деревня Бэбанхэм
+p_village_143|деревня Бэбан
+p_village_144|деревня Круэйганбал
+p_village_145|деревня Круэйган|
+p_village_146|деревня Тэмарбал
+p_village_147|деревня Тэмар
+p_village_148|деревня Кирренхэм
+p_village_149|деревня Киррен
+p_village_150|деревня Доккинга
+p_salt_mine||Солеварня
+p_four_ways_inn|Перекресток (таверна)
+p_test_scene|Тестовая сцена
+p_battlefields|Поля сражений
+p_frisa_beach|Фризкий пляж
+p_farmland|Усадьба Улфа
+p_boar_grove|Кобонья роща
+p_readingum|Readingum
+p_aescesdun|Aescesdun
+p_mega_danishrmy|Великая летняя армия
+p_battle_stones|Каменный вал
+p_farmland_special|Пашни
+p_roman_fort|Римский форт
+p_troll_bridge|Троллий мост
+p_circle_mystic1|Мистический круг
+p_celidon_forest|Мистичечкие лес
+p_hidden_valley|Необычные руины
+p_quarry1|Каменоломня
+p_quarry2|Каменоломня
+p_quarry3|Каменоломня
+p_quarry4|Каменоломня
+p_saltmine1|Солеварня
+p_saltmine2|Солеварня
+p_saltmine3|Солеварня
+p_saltmine4|Солеварня
+p_lumbercamp1|Лагерь лесорубов
+p_lumbercamp2|Лагерь лесорубов
+p_lumbercamp3|Лагерь лесорубов
+p_lumbercamp4|Лагерь лесорубов
+p_farmsteadsp1|Усадьба
+p_farmsteadsp2|Усадьба
+p_farmsteadsp3|Усадьба
+p_farmsteadsp4|Усадьба
+p_farmsteadsp5|Усадьба
+p_farmsteadsp6|Усадьба
+p_farmsteadsp7|Усадьба
+p_farmsteadsp8|Усадьба
+p_farmsteadsp9|Усадьба
+p_hadrian_wall1|Адрианов Вал
+p_bjorn_camp|Лагерь Бьерна
+p_snotingaham_siege|Снотингхэм в осаде
+p_odin_cave|Пещера бога Одина
+p_stonemonumento|каменный монумент
+p_forestbattle|Лесное сражение
+p_the_thing|Ассамблея
+p_dhorak_keep|Твердыня Дорак
+p_monasterio1|Монастырь Кандида
+p_monasterio2|Монастырь Виллиброрд
+p_monasterio3|Монастырь Доммок
+p_monasterio4|Монастырь Линдисфэрн
+p_monasterio5|Монастырь Апоркрозан
+p_monasterio6|Монастырь Петрус
+p_monasterio7|Монастырь Апюрнтиж
+p_monasterio8|Монастырь Лантиллидог
+p_monasterio9|Монастырь Инис Энли
+p_monasterio10|Монастырь Эвесхом
+p_monasterio11|Монастырь Индеравуд
+p_monasterio12|Монастырь Хагусталдэс
+p_monasterio13|Монастырь Бриудун
+p_monasterio14|Монастырь Гудлак
+p_monasterio15|Монастырь Хучингас
+p_monasterio16|Монастырь Клуфэшо
+p_monasterio17|Монастырь Вэрбур
+p_monasterio18|Монастырь Дэруурст
+p_monasterio19|Монастырь Итан
+p_monasterio20|Монастырь Петрокстов
+p_monasterio21|Монастырь Метешамстид
+p_monasterio22|Монастырь Кохеам
+p_monasterio23|Монастырь Патрициус
+p_monasterio24|Монастырь Дар Калгэч
+p_monasterio25|Монастырь Финиан
+p_monasterio26|Монастырь Райзеан
+p_monasterio27|Монастырь Картач
+p_monasterio28|Монастырь Сициль Мичи
+p_monasterio29|Монастырь Глен да Лоч
+p_yourlair|Убежище
+p_thiaderd_lair|Логово Тиадэра
+p_destroy1|Логово Тиадэра, разрушено
+p_destroy2|Логово Свена, разрушено
+p_destroy3|Аисэндум разрушен
+p_followers_camp|Лагерь|Союзников
+p_iniau_hideout|священная роща
+p_river_delta|дельта|реки
+p_tilting_at_windmills|Ветрянная Мелнтца
+p_multi_indigo_cradle|колыбель
+p_multi_indigo_frontier|кордон
+p_of_multi_caravan_ambush|засада на караван
+p_of_multi_crezy|лесная тропа
+p_of_multi_fjord|фьорд
+p_of_multi_hastings|Гастингс
+p_of_multi_hot_gates|Врата в ад
+p_of_multi_mini_circles|круг
+p_of_multi_rock_valley|каменная долина
+p_of_multi_small_ruins|руины
+p_of_multi_stone_circles|круг камней
+p_of_multi_thingvellir|тингвеллир
+p_battle_stones|Победный круг
+p_multi_scene_dam_10|Дам
+p_training_ground|тренировочная площадка
+p_training_ground_1|тренировочный лагерь в поле
+p_training_ground_2|тренировочный лагерь в деревне
+p_training_ground_3|тренировочный лагерь в поле
+p_training_ground_4|тренировочный лагерь на озере
+p_training_ground_5|тренировочный лагерь
+p_outpost_1|аванпост
+p_outpost_2|аванпост
+p_fort|мое убежище
+p_temp_loot_wagon|обоз
+p_looter_spawn_point|looter|sp
+p_looter_spawn_point3|looter|sp
+p_steppe_bandit_spawn_point|steppe|bandit|sp
+p_taiga_bandit_spawn_point|тундра
+p_forest_bandit_spawn_point|forest|bandit|sp
+p_forest_bandit_spawn_point2|forest|bandit|sp
+p_forest_bandit_spawn_point4|forest|bandit|sp
+p_mountain_bandit_spawn_point|mountain|bandit|sp
+p_mountain_bandit_spawn_point3|mountain|bandit|sp
+p_new_sp|new|sp
+p_new_sp2|new|sp
+p_new_sp3|new|sp
+p_new_sp4|new|sp
+p_sea_raider_spawn_point_1|sea|raider|sp
+p_sea_raider_spawn_point_2|sea|raider|sp
+p_sea_raider_spawn_point_3|sea|raider|sp
+p_desert_bandit_spawn_point|пустыни
+p_ship_raider_spawn_point_1|sea|pirate|sp
+p_ship_raider_spawn_point_2|sea|pirate|sp
+p_ship_raider_spawn_point_3|sea|pirate|sp
