@@ -26,6 +26,7 @@ dlga_fighter_talk_train_parry_3:fighter_pretalk|Вообще-то я хочу в
 dlga_fighter_talk_train_combat:fighter_talk_train_combat_2|Тренировочный бой - прекрасное средство подготовиться к настоящему сражению. Мы будем драться, не стараясь убить друг друга, пока один из нас не упадет на землю. Конечно, так можно получить синяки, но это лучше, чем погибнуть от меча в первом же бою.
 dlga_fighter_talk_train_combat_2:close_window|Давай начнем тренировку.
 dlga_fighter_talk_train_combat_2:fighter_pretalk|Вообще-то я хочу выбрать кое-что другое.
+dlga_fighter_talk_train_combat_2a:fighter_pretalk|Вообще-то я хочу выбрать кое-что другое.
 dlga_start:fighter_parry_try_again|Хорошо. У тебя получается отражать мою атаку. Возможно, тебе захочется повторить упражнение, но делать все быстрее. Повторить?
 dlga_start:fighter_parry_try_again.1|Ну что, не очень-то получается? (Помните - для постановки блока нужно нажимать и удерживать правую кнопку мыши.) Повторить?
 dlga_fighter_parry_try_again:fighter_talk_train_parry|Да, давай попробуем еще раз.
@@ -46,6 +47,7 @@ dlga_start:ranged_end|Ну что ж, теперь ты владеешь осн�
 dlga_ranged_end:close_window|А теперь ты можешь поговорить с учителями ближнего боя или верховой езды, если еще не удалось этого сделать. Они тоже могут многому научить.
 dlga_start:archer_talk|День добрый, дружище. Я обучаю искусству дальнего боя всякого, кто желает учиться. Если тебе нужен наставник, скажи мне, и я научу тебя обращаться с луком, арбалетом и дротиком.
 dlga_archer_talk:archer_challenge|Да, покажи мне, как обращаться с оружием дальнего действия.
+dlga_archer_talk2:close_window|Нет, не сейчас.
 dlga_archer_talk:close_window|Нет, не сейчас.
 dlga_archer_challenge:archer_challenge_2|Прекрасно. Сначала я дам тебе урок стрельбы из лука. Лук - это сложное оружие, но овладев им, ты сможешь стрелять быстро и метко. Возьми вон тот лук со стрелами и порази эти мишени.
 dlga_archer_challenge_2:close_window|Хорошо, будет сделано.
@@ -574,10 +576,6 @@ dlga_female_pc_marriage_vow:close_window|Постойте, мне надо по�
 dlga_lord_groom_wedding_complete:close_window|Объявляю вас мужем и женой. Да начнется праздник!
 dlga_start:close_window.10|Ха! Теперь-то вы не столь галантны. Избавьте меня от вашего общества. 
 dlga_start:close_window.11|Хорошо. Вы победили. Пусть все присутствующие засвидетельствую мое поражение. Я же впредь не буду добиваться расположения {s10}. Что, бессердечный ублюдок, вы довольны?
-dlga_start:close_window.12|Поднимайтесь. Пусть все присутствующие засвидетельствуют мою победу. Отныне и впредь вы не можете добиваться расположения {s10}. Я позволяю вам повидаться с ней в последний раз - если хотите, можете с ней проститься. Если же вы и дальше будете искать с ней встреч, пусть всякий знает, что вы подлец и бесчестный человек.
-dlga_start:close_window.13|Как же замечательно - еще немного, и мы поженимся! Однако не забывайте, в оставшиеся до свадьбы дни нам не пристало часто бывать вместе. 
-dlga_start:close_window.14|Хм, {playername}, вы, наверное, не знаете наших свадебных обычаев, но мне казалось, что кто-нибудь вам это расскажет... Поговорите сперва с {моим/моей} {s11} {s4}.
-dlga_start:close_window.15|Я не знаю, где сейчас {s11} {s10}, а он по традиции должен быть распорядителем на моей свадьбе. Пожалуй, нам следует подождать, пока мы его не разыщем.
 dlga_start:player_siege_castle_commander_1|Что вам нужно?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Сдавайтесь! Вам уже не на что надеяться!
 dlga_player_siege_castle_commander_1:close_window|Ничего. Я пойду.
@@ -1524,9 +1522,6 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Пора рассылать �
 dlga_spouse_feast_confirm:spouse_pretalk|Тогда давайте обождем.
 dlga_spouse_feast_confirm_yes:spouse_pretalk|Я разошлю гонцов сразу, как только наша вотчина будет готова принять гостей. Пожалуй, вам лучше заняться пополнением наших кладовых, дабы никто не усомнился в нашем гостеприимстве.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Очень хорошо. Пусть праздник начнется сразу же при дворе {reg4?здесь:} в {s9}. Вам вероятно следует продолжать пополнять наши запасы, так чтобы подтвердить нашу репутацию.
-dlga_start:close_window.16|Достопочтенный {s12} позволил вернуться нам домой, к семьям. Мы скоро уедем. 
-dlga_start:close_window.17|Мы скоро уедем в {s4}. Отрадно знать, что в нашем мире еще есть люди, не забывшие о чести. 
-dlga_start:close_window.18|Ну что ж, {playername}, вы вызвали {s10} на поединок и проиграли. В соответствии с нашими обычаями, я более не могу вас принимать. Прощайте, {playername}.
 dlga_start:close_window.19|О, {playername}! Как приятно с вами встретиться! Впрочем, боюсь, мне надо идти. 
 dlga_start:kingdom_lady_captive|Как же мне одиноко! Как скучаю я по родимой семье!
 dlga_start:kingdom_lady_captive.1|{Господин/Госпожа}, держа даму в таких условиях, вы поступаете низко...
@@ -3480,14 +3475,6 @@ dlga bardo cancion2:close window|Ваша лучшая песня.
 dlga bardo cancion2:bardo pretalk|Неважно. Я хочу спросить у вас кое-что еще.
 dlga bardo talk:bardo bt|Я хотел бы знать, о «Сокровищах Британии».
 dlga bardo bt:bardo bt2|Ну, если вы действительно хотите знать ... тогда слушайте меня! Есть тринадцать Сокровищ Британии: One: Dyrnwyn, White Hilt, the sword of Rhydderch Hael. If a well-born man draw it, it bursts into flame from its hilt to its tip. Moreover, anyone who asks for it receives it. Because of this peculiarity, anyone Rhydderch would offer it to would reject it. Therefore he was called Rhydderch the Generous.^^Two: The Hamper of Gwyddno Garanhir. Food for one man would be put in it, but when it was opened again, food for a hundred men would be found in it.
-
-
-
-
-
-
-
-
 dlga_bardo_bt2:bardo_bt3|Три: Рог изобилия Bran Galed с севера. Все, напитки что может пожелать могут быть найдены в нем.^Четыре:колесница Морган. Везде, где путешественник, возможно, пожелает оказаться, там он и  окажется, и очень быстро.^Пять: Halter из Clydno Eiddyn.Эта проблема была решена с помощью скоб к подножию его кровать.Какого бы коня, он только не пожелал увидеть, он найдет его в поводе.^Шесть: нож Лафродед.Это позволит двадцать четыре мужчинам, поесть за столом. Семь: котел дирнвч великан.Если смелый человек положить в него мясо , то оно будет мгновенно приготовлено.
 dlga_bardo_bt3:bardo_bt4|Восемь: Точильный камень ( Ветстоун ) из Тудвал. Любой меч затачивает на бруске, не было сбоев, чтобы убить любого человека, от которого она обратила крови.^Девять: шерсть Падарн. Если хорошо-родился человек надел ее, это будет правильный Размер для него.^Десять и одиннадцать: кувшин и блюдо Rhygenydd священнослужителя. Любую пищу какую хочеш пожелать, он  нашел бы в них.^Двенадцать: на шахматной доске Gwenddoleu ap Ceidio. Если куски были установлены, они будут играть сами по себе.Совет был из золота, и мужи серебра.^Тринадцать: мантия Артура Корнуолл. Тот, кто находится под ней не видно, но он сам может видеть всех.
 dlga_bardo_bt4:bardo_bt5|Я бы хотел, чтобы нашлись эти сокровища.
@@ -3590,11 +3577,11 @@ dlga_elf_treasure4:elf_treasure5|Кто это пронзительный оди
 
 
 
-dlga_elf_treasure5:elf_treasure6 69631 2543  0 Sword.  2544  0 NO_VOICEOVER 
-dlga_elf_treasure5:elf_treasure6.1 69631 2543  0 Axe.  2544  0 NO_VOICEOVER 
-dlga_elf_treasure5:elf_treasure7 69631 2543  0 Hammer.  2545  0 NO_VOICEOVER 
-dlga_elf_treasure5:elf_treasure6.2 69631 2543  0 Me.  2544  0 NO_VOICEOVER 
-dlga_elf_treasure5:elf_treasure6.3 69631 2543  0 Nothing.  2544  0 NO_VOICEOVER 
+dlga_elf_treasure5:elf_treasure6|Sword.
+dlga_elf_treasure5:elf_treasure6.1|Axe.
+dlga_elf_treasure5:elf_treasure7|Hammer.
+dlga_elf_treasure5:elf_treasure6.2|Me.
+dlga_elf_treasure5:elf_treasure6.3 69631 2543  0 Nothing.
 dlga_elf_treasure6:elf_treasure8 4095 2544  0 That's_not_the_correct_answer._Your_silver_is_mine._Let's_have_more_fun!  2546  1 1529 2 360287970189639680 5000 NO_VOICEOVER 
 dlga_elf_treasure7:elf_treasure8 4095 2545  0 Yes,_the_hammer_is_used_for_working_gold,_I_love_gold!_It_shouts_out_loud_when_it_hits_the_hard_anvil,_and_that_is_its_road._Take_your_award_and_let's_continue.  2546  1 1530 3 0 288230376151712530 0 NO_VOICEOVER 
 dlga_elf_treasure8:elf_treasure9 4095 2546  0 What_is_that_wonder^I_saw_in_my_ruins,^Eight_feet_it_has^and_four_eyes^and_bears_knees_above_its_belly.  2547  0 NO_VOICEOVER 
@@ -3657,17 +3644,6 @@ dlga_bandit_treasure7:bandit_treasure8.3 69631 2572  0 Water.  2573  0 NO_VOICEO
 dlga_bandit_treasure7:bandit_treasure8.4 69631 2572  0 Nothing.  2573  0 NO_VOICEOVER 
 dlga_bandit_treasure7:bandit_treasure8.5 69631 2572  0 I_don't_want_to_play.  2573  0 NO_VOICEOVER 
 dlga_bandit_treasure8:close_window 4095 2573  0 That's_not_the_correct_answer._And_now_you_have_a_problem,_that_my_friend_and_I_will_help_to_solve.  6  1 2133 2 144115188075856140 1 NO_VOICEOVER 
-
-
-
-
-
-
-
-
-
-
-
 dlga_deserter_talk:deserters_2bribe 69631 2176  0 You_know_who_you_talking_about?_I_will_not_kill_you_if_you_join_me.  2178  0 NO_VOICEOVER 
 dlga_deserters_2bribe:close_window 4095 2178  2 2136 3 1224979098644774912 0 20 32 2 1224979098644774912 10 I_care_very_little_who_you_are._It's_time_to_die.  6  3 1270 3 144115188075857180 432345564227567630 -99 1270 3 144115188075857180 432345564227567631 -99 1302 0 NO_VOICEOVER 
 dlga_deserters_2bribe:deserters_2bribeg 4095 2178  3 2136 3 1224979098644774912 0 20 32 2 1224979098644774912 10 2147483680 2 144115188075856202 -20 Yes,_I've_heard_of_you._They_say_your_men_collect_the_best_loot._Forgive_us,_and_we_will_be_delighted_to_join_such_a_fierce_leader  2179  0 NO_VOICEOVER 
@@ -3686,8 +3662,62 @@ dlga_tavernkeeper_messenger_system3:tavernkeeper_messenger_system4 4095 2193  2 
 dlga_tavernkeeper_messenger_system4:close_window 69631 2194  0 It_is_this...  6  4 2133 2 144115188075855986 419 2133 2 144115188075855987 0 1936 0 900 1 1513209474796486730 NO_VOICEOVER 
 
 
-
-
+dlga_agathinos_conversationcamp3:agathinos_conversationcamp4 4095 182  0 Heraclio_is_spending_a_few_days_with_us_before_returning_to_Nicea._I_haven't_seen_him_for_a_very_long_time_--_not_since_those_painful,_torturous_days_as_slaves_of_the_Norwegians._He_will_leave_soon,_but_he_wanted_to_meet_you_before_he_goes.  183  0 NO_VOICEOVER 
+dlga_agathinos_conversationcamp4:agathinos_conversationcamp5 69631 183  0 Nice_to_meet_you,_Heraclio.  184  0 NO_VOICEOVER 
+dlga_agathinos_conversationcamp4:close_window 69631 183  0 I_have_no_time_for_this._Farewell.  6  1 1 3 936748722493063504 144115188075855902 -5 NO_VOICEOVER 
+dlga_agathinos_conversationcamp5:agathinos_conversationcamp6 4095 184  0 --Aghatinos_changes_his_voice,_making_it_sharp--^^My_brother_from_another_mother,_the_illustrious_engineer_Agathinos,_has_told_me_a_lot_about_you._He_thinks_you'll_be_Brytenwalda,_but_I_think_that_you're_just_a_warlord.  185  1 1 3 936748722493063504 144115188075855902 5 NO_VOICEOVER 
+dlga_agathinos_conversationcamp6:agathinos_conversationcamp7 69631 185  0 Agathinos_is_right._I_will_be_Brytenwalda_some_day.  186  1 1 3 936748722493063504 144115188075855902 5 NO_VOICEOVER 
+dlga_agathinos_conversationcamp6:agathinos_conversationcamp7.1 69631 185  0 You_are_right,_I_am_simply_a_man_of_war.  186  1 1 3 936748722493063504 144115188075855902 -5 NO_VOICEOVER 
+dlga_agathinos_conversationcamp7:close_window 4095 186  0 --Before_your_eyes,_Agathinos_starts_arguing_with_himself,_changing_his_voice_and_without_paying_much_attention_to_you.--  6  0 NO_VOICEOVER 
+dlga_conversation_companioncamp:brunhildvsegil_conv1 4095 91  3 2200 1 144115188075855902 31 2 144115188075855902 360287970189639977 540 3 144115188075855902 161 1 Are_you_serious,_Egil?_Did_you_really_make_out_with_a_camp_follower?_I_thought_you_were_different_and_that_you_really_cared_about_us,_but_now_I_see_I_was_wrong._You_are_just_a_bastard_in_every_meaning.  187  0 NO_VOICEOVER 
+dlga_brunhildvsegil_conv1:brunhildvsegil_conv2 310382591 187  0 Brunhild,_Honey,_you_are_just_a_slave_and_I'm_the_son_of_the_king._Our_story_can't_be_real._We_were_just_having_fun,_nothing_else._I_thought_you_knew_that._You_would_have_to_be_an_idiot_to_think_you_can_have_a_king's_son_just_like_that._You_will_always_be_my_favourite,_but_I_have_and_I_will_always_have_my_good_times_with_others..._Who_knows?_Maybe_someday_I_will_find_a_lady_to_marry.  188  2 500 3 144115188075855902 162 2 500 3 144115188075855902 161 0 NO_VOICEOVER 
+dlga_brunhildvsegil_conv2:brunhildvsegil_conv3 69631 188  0 Calm_down!  189  0 NO_VOICEOVER 
+dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1 69631 188  0 (Say_nothing)  189  0 NO_VOICEOVER 
+dlga_brunhildvsegil_conv3:brunhildvsegil_conv4 4095 189  0 Do_you_really_think_that?_You_are_not_so_superior_to_me._Your_father_might_be_a_king,_but_your_mother_was_nothing_but_a_slave,_like_me._You_will_never_get_anyone_better_than_me,_and_you_will_lose_me_if_your_attitude_doesn't_change.  190  0 NO_VOICEOVER 
+dlga_brunhildvsegil_conv4:brunhildvsegil_conv5 310382591 190  0 I_don't_need_to_be_officially_recognised_as_an_heir._Everyone_knows_that_I'm_the_son_of_the_king_of_Danmark._Every_single_lady_in_the_kingdom_sighs_for_me._Don't_get_me_wrong,_I_love_you_and_I_really_like_what_we_have,_but_I_can_have_so_much_more.  191  0 NO_VOICEOVER 
+dlga_brunhildvsegil_conv5:close_window 69631 191  0 ...^^--Nothing_to_do_here._You_run_while_you_can.--  6  0 NO_VOICEOVER 
+dlga_conversation_companioncamp:clovisvshegil_conv1 4095 91  3 2200 1 144115188075855902 31 2 144115188075855902 360287970189639983 540 3 144115188075855902 161 1 You_people_think_that_strong_arms_can_win_any_battle,_but_it's_not_always_the_case._A_good_formation_or_a_smart_strategy_is_much_more_important_than_bold_warriors._Even_in_a_duel,_the_strength_of_a_soldier_is_not_the_key_factor_that_makes_him_win_or_lose.  192  0 NO_VOICEOVER 
+dlga_clovisvshegil_conv1:clovisvshegil_conv2 321916927 192  0 That_is_what_you_weak_people_always_think,_and_that's_why_we,_the_bravest_soldiers_of_all_Svia,_or_even_just_simple_Danes,_pillage_your_lands._If_you_spent_more_time_training_and_becoming_good_warriors_instead_of_dancing_around_one_another,_you_would_have_a_real_kingdom_instead_of_those_tiny_lands_you_have_in_Frankia..._for_now.  193  2 500 3 144115188075855902 162 1 500 3 144115188075855902 161 0 NO_VOICEOVER 
+dlga_clovisvshegil_conv2:clovisvshegil_conv3 4095 193  0 Try_to_come_openly,_without_any_surprises,_and_we'll_see_what_happens._I_swear_that_your_undisciplined_men_will_fall_in_a_few_moments_and_that_none_of_you_would_survive,_because_you_don't_know_when_one_needs_to_retreat.  194  0 NO_VOICEOVER 
+dlga_clovisvshegil_conv3:clovisvshegil_conv4 321916927 194  0 Ha!_Cowards!_We_prefer_to_be_brave_and_dead_instead_of_being_shamed_as_losers._Victory_or_death!  195  0 NO_VOICEOVER 
+dlga_clovisvshegil_conv4:clovisvshegil_conv5 69631 195  0 Frankia_makes_better_warriors_than_Svia.  196  0 NO_VOICEOVER 
+dlga_clovisvshegil_conv4:clovisvshegil_conv5_2 69631 195  0 Svia_makes_better_warriors_than_Frankia.  197  0 NO_VOICEOVER 
+dlga_clovisvshegil_conv4:clovisvshegil_conv5_3 69631 195  0 I_think_you_both_are_wrong._A_good_army_need_both_strict_discipline_and_strong_warriors.  198  0 NO_VOICEOVER 
+dlga_clovisvshegil_conv5:clovisvshegil_conv6 4095 196  0 Ha!_The_Warlord_thinks_like_me.  199  1 1 3 936748722493063504 144115188075855902 10 NO_VOICEOVER 
+dlga_clovisvshegil_conv6:close_window 321916927 199  0 I'll_spare_further_words.  6  1 1 3 936748722493063504 360287970189639987 -10 NO_VOICEOVER 
+dlga_clovisvshegil_conv5_2:clovisvshegil_conv6_2 321916927 197  0 Exactly._Ha!  200  1 1 3 936748722493063504 360287970189639987 10 NO_VOICEOVER 
+dlga_clovisvshegil_conv6_2:close_window 4095 200  0 Who_was_asking?_I_thought_this_was_a_private_discussion.  6  1 1 3 936748722493063504 144115188075855902 -10 NO_VOICEOVER 
+dlga_clovisvshegil_conv5_3:clovisvshegil_conv6_3 321916927 198  0 ...  201  1 1 3 936748722493063504 360287970189639987 -5 NO_VOICEOVER 
+dlga_clovisvshegil_conv6_3:close_window 4095 201  0 ...  6  1 1 3 936748722493063504 144115188075855902 -5 NO_VOICEOVER 
+dlga_conversation_companioncamp:bedavsagathinos_conv1 324014079 91  3 2200 1 144115188075855902 31 2 144115188075855902 360287970189639990 540 3 144115188075855902 161 1 --Agathinos_stares_with_great_interest_at_one_of_the_women_from_the_camp...--  202  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv1:bedavsagathinos_conv2 311431167 202  0 --...Brunhild.--  203  2 500 3 144115188075855902 162 2 500 3 144115188075855902 161 0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv2:bedavsagathinos_conv3 4095 203  0 --Spits_on_the_ground.--^^The_Greeks_are_lustful_people.  204  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv3:bedavsagathinos_conv4 324014079 204  0 What_makes_you_think_so?  205  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv4:bedavsagathinos_conv5 4095 205  0 Even_your_priests_live_in_sin._The_Council_of_Elvira_forbade_clerics_to_cohabit_with_their_wives._Otherwise,_how_can_they_celebrate_the_daily_Eucharist?_If_they_yield_to_the_temptation_of_the_flesh,_what_you_can_expect_from_their_flock?  206  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv5:bedavsagathinos_conv6 324014079 206  0 Do_not_confuse_celibacy_with_continence._The_Council_of_Elvira_did_not_forbid_marriage_to_the_clergy,_just_the_sharing_of_a_bed_before_sacred_offices.  207  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv6:bedavsagathinos_conv7 4095 207  0 Sex_is_a_carnal_act._That_takes_us_away_from_the_path_of_Christ._Virginity_is_an_obligation_for_any_true_man_of_God._Am_I_not_right,_{playername}?  208  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv7:bedavsagathinos_conv8 69631 208  0 I_agree_with_you,_Bede._These_people_have_to_be_perverts.  209  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv7:bedavsagathinos_conv9 69631 208  0 And_what's_wrong_with_sex?_I_know_priests_with_more_children_than_Noah.  210  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv7:bedavsagathinos_conv10 69631 208  0 I_don't_want_to_get_involved._This_is_an_argument_between_you_and_Agathinos.  211  0 NO_VOICEOVER 
+dlga_bedavsagathinos_conv8:close_window 4095 209  0 Well_said._You_step_fully_and_still_in_the_kingdom_of_heaven.  6  2 1 3 936748722493063504 144115188075855902 10 1 3 936748722493063504 360287970189639989 -5 NO_VOICEOVER 
+dlga_bedavsagathinos_conv9:bedavsagathinos_conv9_2 324014079 210  0 Ha!_That_was_good!  212  1 1 3 936748722493063504 360287970189639989 10 NO_VOICEOVER 
+dlga_bedavsagathinos_conv9_2:close_window 4095 212  0 Why_do_I_even_bother..._I'm_surrounded_by_lust.  6  1 1 3 936748722493063504 144115188075855902 -10 NO_VOICEOVER 
+dlga_bedavsagathinos_conv10:close_window 4095 211  0 I_asked_you_because_I_thought_you_were_a_brave_man_and_not_a_coward_who_evades_a_straight_answer._Farewell.  6  1 1 3 936748722493063504 144115188075855902 -5 NO_VOICEOVER 
+dlga_start:ragnarssons_1 49283390 0  2 200 1 504403158265495636 546 3 504403158265495636 11 3 I_have_sent_a_notice_of_your_arrival_to_the_sons_of_Ragnar._You_are_bold_to_go_with_all_these_Mercians._Who_sent_you?  213  0 NO_VOICEOVER 
+dlga_start:alfredthegreat1 72352098 0  2 200 1 504403158265495636 546 3 504403158265495636 11 6 Emissary_of_the_Danish,_I_present_you_to_Aelfred_of_West_Seaxe,_son_of_Aethelwulf,_Aetheling,_Ealdorman,_God_loved,_and_brother_of_and_designated_successor_to_the_great_Athelred,_King_of_West_Seaxe_and_Brytenwalda._Bow_to_someone_who_is_above_you.  214  0 NO_VOICEOVER 
+dlga_start:close_window.12 4095 0  4 2211 1 1224979098644774912 31 2 1224979098644774912 720575940379280183 2200 1 144115188075855902 2147483679 2 144115188075855902 360287970189640941 Sorry,_this_is_not_a_good_time_to_talk._The_leaders_are_up_in_the_center_of_the_village.  6  0 NO_VOICEOVER 
+dlga_start:close_window.13 296 0  2 2211 1 1224979098644774912 31 2 1224979098644774912 720575940379280195 I_am_keeping_watch.  6  0 NO_VOICEOVER 
+dlga_start:close_window.14 297 0  2 2211 1 1224979098644774912 31 2 1224979098644774912 720575940379280195 I_am_keeping_watch.  6  0 NO_VOICEOVER 
+dlga_start:close_window.15 300 0  2 2211 1 1224979098644774912 31 2 1224979098644774912 720575940379280195 I_am_keeping_watch.  6  0 NO_VOICEOVER 
+dlga_start:close_window.16 302 0  2 2211 1 1224979098644774912 31 2 1224979098644774912 720575940379280195 I_am_keeping_watch.  6  0 NO_VOICEOVER 
+dlga_start:close_window.17 4095 0  2 31 2 144115188075855902 360287970189639720 31 2 144115188075855973 648518346341351719 I_am_just_a_servant._Talk_to_Ulf.  6  0 NO_VOICEOVER 
+dlga_fighter_talk_train_combat_2a:fighter_talk_train_combat_2b 69631 229  0 Let's_begin_then._I_am_ready.  231  7 2133 2 144115188075855949 144115188075855902 2133 2 144115188075855943 0 2133 2 144115188075855944 0 1700 1 1224979098644774912 1774 2 1224979098644774912 288230376151712524 1779 2 1224979098644774912 288230376151711761 1747 2 1224979098644774912 288230376151711761 NO_VOICEOVER 
+dlga_fighter_talk_train_combat_2b:close_window 4095 231  0 Good_luck.  6  0 NO_VOICEOVER 
+dlga_event_triggered:award_fief_to_vassal 4095 5  19 31 2 144115188075856100 20 2133 2 1224979098644774912 0 2133 2 1224979098644774913 360287970189640150 6 3 1224979098644774914 360287970189639975 1224979098644774913 540 3 1224979098644774914 2 2 2147483679 2 360287970189639680 1224979098644774914 2173 2 1224979098644774915 1224979098644774914 31 2 1224979098644774915 432345564227567631 2105 2 1224979098644774912 1 2133 2 1224979098644774913 0 3 0 4 0 32 2 1224979098644774912 0 2320 2 2 216172782113786751 5 0 2320 2 2 216172782113786752 3 0 2330 2 1 144115188075855938 2320 2 5 216172782113786753 {!}{s5}  215  0 NO_VOICEOVER 
+dlga_award_fief_to_vassal:award_fief_to_vassal_2 69631 215  9 1 2 936748722493063414 360287970189639680 2330 2 1 144115188075855938 4 0 33 3 144115188075855902 360287970189640144 360287970189640150 2320 2 12 216172782113786475 5 0 2319 1 12 3 0 2320 2 5 216172782113786754 {!}My_idea_is_to_just_sack_the_place_and_leave.  217  1 2133 2 144115188075855939 144115188075855973 NO_VOICEOVER 
+dlga_award_fief_to_vassal:award_fief_to_vassal_2.1 81919 215  19 50 1 1224979098644774912 540 3 1224979098644774912 2 2 2147483679 2 360287970189639680 1224979098644774912 2173 2 1224979098644774913 1224979098644774912 31 2 1224979098644774913 432345564227567631 2322 2 11 1224979098644774912 1 2 936748722493063414 1224979098644774912 4 0 540 3 1224979098644774912 53 3 2320 2 12 216172782113786472 5 0 2319 1 12 3 0 4 0 31 2 72057594037927936 0 2320 2 1 216172782113786473 5 0 2320 2 1 216172782113786474 3 0 {!}{s11}_{s1}.  217  1 50 1 144115188075855915 NO_VOICEOVER 
+dlga_award_fief_to_vassal:award_fief_to_vassal_2.2 69631 215  25 1 2 936748722493063414 360287970189639680 2330 2 1 144115188075855938 4 0 33 3 144115188075855902 360287970189640144 360287970189640150 2320 2 12 216172782113786475 5 0 2319 1 12 3 0 2133 2 1224979098644774912 0 2133 2 1224979098644774913 360287970189640150 6 3 1224979098644774914 360287970189639975 1224979098644774913 540 3 1224979098644774914 2 2 2147483679 2 360287970189639680 1224979098644774914 2173 2 1224979098644774915 1224979098644774914 31 2 1224979098644774915 432345564227567631 2105 2 1224979098644774912 1 2133 2 1224979098644774913 0 3 0 4 0 32 2 1224979098644774912 0 2320 2 2 216172782113786755 5 0 2319 1 2 3 0 2320 2 5 216172782113786754 {!}{s5}  217  1 2133 2 144115188075855915 360287970189639680 NO_VOICEOVER 
+dlga_award_fief_to_vassal_2:close_window.1 4095 217  0 As_you_wish,_{reg59?my_lady:sire}._{reg6?I:{reg7?You:{s11}}}_will_be_the_new_{reg3?lady:lord}_of_{s1}.  6  25 2133 2 1224979098644774912 144115188075855915 1 4 936748722493063463 144115188075855938 1224979098644774912 0 4 0 542 3 144115188075856330 64 144115188075855938 502 3 144115188075856330 64 -1 3 0 2133 2 72057594037927942 0 2133 2 72057594037927943 0 4 0 31 2 1224979098644774912 144115188075855902 2133 2 72057594037927942 1 5 0 31 2 1224979098644774912 360287970189639680 2133 2 72057594037927943 1 5 0 2322 2 11 1224979098644774912 3 0 2330 2 1 144115188075855938 1506 2 72057594037927939 1224979098644774912 2109 2 72057594037927939 2 2133 2 144115188075855938 -1 4 0 31 2 144115188075856219 864691128455135351 2060 1 144115188075856219 3 0 NO_VOICEOVER 
 
 
 
