@@ -2074,120 +2074,128 @@ str_coop_random_med_plain_forest|Лесная равнина
 str_coop_random_med_snow_forest|Зимний лес
 str_coop_random_med_desert_forest|Пустынный лес
 str_multi_scene_end|конец мульти-сцены
-str_multi_game_type_1|Сражение
-str_multi_game_type_2|Командное сражение
+str_multi_game_type_1|Бой до смерти
+str_multi_game_type_2|Командный бой до смерти
 str_multi_game_type_3|Битва
-str_multi_game_type_4|Уничтожение
-str_multi_game_type_5|Захват флага
-str_multi_game_type_6|Завоевание
-str_multi_game_type_7|Осада
-str_multi_game_type_8|Дуэель
-str_multi_game_type_9|Co-op Битва
-str_multi_game_type_10|Co-op Осада
-str_multi_game_types_end|конец мульти-игры
-str_poll_kick_player_s1_by_s0|{s0} начать голосование на исключение игрока {s1}.
-str_poll_ban_player_s1_by_s0|{s0} начать голосование забанить игрока {s1}.
-str_poll_change_map_to_s1_by_s0|{s0} начать голосование о смене карты {s1}.
-str_poll_change_map_to_s1_and_factions_to_s2_and_s3_by_s0|{s0} начать голосование о смене карты {s1} и фракции {s2} и {s3}.
-str_poll_change_number_of_bots_to_reg0_and_reg1_by_s0|{s0} начать голосование о количестве ботов {reg0} и {reg1}.
-str_poll_kick_player|Голосование за исключение {s0}: 1 = Да, 2 = Нет
-str_poll_ban_player|Голосоваать за бан {s0}: 1 = Да, 2 = Нет
-str_poll_change_map|Сменить карту {s0}: 1 = Да, 2 = Нет
-str_poll_change_map_with_faction|Сменить карту {s0} и фракцию {s1} против {s2}: 1 = Да, 2 = Нет
-str_poll_change_number_of_bots|Голосовать о изменении количества ботов {reg0} для {s0} и {reg1} для {s1}: 1 = Да, 2 = Нет
-str_poll_time_left|({reg0} seconds left)
-str_poll_result_yes|Принято большим количеством игроков.
-str_poll_result_no|Отвергнуто большинством.
-str_total_item_cost_reg0|Общая стоимость: {reg0}
+str_multi_game_type_4|Осада
+str_multi_game_type_5|Дуэль
+str_multi_game_type_6|Морской бой
+str_multi_game_type_7|Чемпион Тора
+str_multi_game_type_8|Вторжение Викингов
+str_multi_game_types_end|конец типов мульти-игр
+str_multi_game_type_9|Битва главнокомандующих
+str_multi_game_type_desc_1|^Каждый сам за себя!^^Зарабатывайте деньги и славу с каждым убийством.^^
+str_multi_game_type_desc_2|^Две команды; возрождения неограничены.^^Зарабатывайте деньги и очки для команды с каждым убийством.^
+str_multi_game_type_desc_3|^Две команды; без возрождений.^^Здесь нужно сфокусироваться на сохранении не только себя, но и участников команды.
+str_multi_game_type_desc_4|^Одна команда укрепленная, защищает свой флаг от другой команды на время. Возрождения замедлены для защитников.^
+str_multi_game_type_desc_5|^Найдите другого игрока.^^Представьтесь.^^Убейте или будьте убитым.^
+str_multi_game_type_desc_6|^Это режим битвы, только на воде!^^^^
+str_multi_game_type_desc_7|^Найдите и убейте Чемпиона, чтобы получить милость Тора!^^Очки даются только за убийство Чемпиона Тора и за убийство других игроков будучи Чемпионом Тора.^^^
+str_multi_game_type_desc_8|^Объединитесь с другими игроками против полчищ врагов!^^^
+str_multi_game_type_descs_end|^^^              Особенности^^- Флаг: воодушевляет рядом стоящих товарищей 10%^^- Священник: лечит рядом стоящих товарищей^^- Рог (кнопка удара): лечит И воодушевляет товарищей, на расстоянии^^- Берсерк (Key B): временно увеличивает навыки ближнего боя^^- Shield Taunt (ПКМ + Клавиша Q): выражает презрение к противнику^^
+str_poll_kick_player_s1_by_s0|{s0} устраивает голосование, чтобы удалить игрока {s1}.
+str_poll_ban_player_s1_by_s0|{s0} устраивает голосование, чтобы изгнать игрока {s1}.
+str_poll_change_map_to_s1_by_s0|{s0} устраивает голосование, чтобы сменить карту на {s1}.
+str_poll_change_map_to_s1_and_factions_to_s2_and_s3_by_s0|{s0} устраивает голосование, чтобы сменить карту на {s1} и заменить фракции на {s2} и {s3}.
+str_poll_change_number_of_bots_to_reg0_and_reg1_by_s0|{s0} устраивает голосование, чтобы изменить число ботов с {reg0} до {reg1}.
+str_poll_kick_player|Удалить игрока {s0}: 1 = Да, 2 = Нет
+str_poll_ban_player|Изгнать игрока {s0}: 1 = Да, 2 = Нет
+str_poll_change_map|Сменить карту на {s0}: 1 = Да, 2 = Нет
+str_poll_change_map_with_faction|Сменить карту на {s0} и фракции на {s1} и {s2}: 1 = Да, 2 = Нет
+str_poll_change_number_of_bots|Изменить число ботов на {reg0} для фракции {s0} и {reg1} для фракции {s1}: 1 = Да, 2 = Нет
+str_poll_time_left|(осталось {reg0} сек.)
+str_poll_result_yes|Большинство проголосовало за.
+str_poll_result_no|Большинство проголосовало против.
+str_total_item_cost_reg0|стоимость: {reg
 str_server_name|Имя сервера:
-str_game_password|Игровой пароль:
+str_game_password|Пароль игры:
 str_map|Карта:
 str_game_type|Тип игры:
-str_max_number_of_players|Максимальное количество игроков:
-str_number_of_bots_in_team_reg1|Количество ботов в команде {reg1}:
-str_team_reg1_faction|Команда {reg1} фракции:
-str_enable_valve_anti_cheat|Включить Valve Anti-Chea (Требуется зарегистрированная учетная запись в Steam)
-str_allow_friendly_fire|Разрешить использовать луки
-str_allow_melee_friendly_fire|Разрешить ближний бой
-str_friendly_fire_damage_self_ratio|Атаковать самостоятельно (%):
-str_friendly_fire_damage_friend_ratio|Нанесение ущерба дружественному отряду (%):
+str_max_number_of_players|Максимум игроков:
+str_number_of_bots_in_team_reg1|Число ботов в команде {reg1}:
+str_team_reg1_faction|Фракция команды {reg1}:
+str_enable_valve_anti_cheat|Античит Valve (требуется действующий аккаунт Steam)
+str_allow_friendly_fire|Стрельба по своим
+str_allow_melee_friendly_fire|Удары по своим
+str_friendly_fire_damage_self_ratio|Урон по себе (%):
+str_friendly_fire_damage_friend_ratio|Урон по своим (%):
 str_spectator_camera|Камера зрителя:
-str_control_block_direction|Направление блока:
-str_map_time_limit|Время карты (минуты):
-str_round_time_limit|Раунд (секунды):
-str_players_take_control_of_a_bot_after_death|Переключить на бота смерти:
-str_team_points_limit|Командный лимит точек:
-str_point_gained_from_flags|Лимит очков команды на захват флагов (%):
-str_point_gained_from_capturing_flag|Набранных очков захвата флага:
-str_respawn_period|Возрождение (секунды):
-str_add_to_official_game_servers_list|Добавить в официальный список игровых серверов
+str_control_block_direction|Указание управляющего блока:
+str_map_time_limit|Ограничение по времени (в минутах):
+str_round_time_limit|Ограничение раунда по времени (в секундах):
+str_players_take_control_of_a_bot_after_death|Переключение на бота после смерти:
+str_team_points_limit|Лимит командных очков:
+str_point_gained_from_flags|Командные очки за флаги (%):
+str_point_gained_from_capturing_flag|Очки за захват флагов:
+str_respawn_period|Время возрождения (в секундах):
+str_add_to_official_game_servers_list|В официальный список серверов
 str_combat_speed|Скорость боя:
-str_combat_speed_0|Очень медленная
-str_combat_speed_1|Медленная
-str_combat_speed_2|Обычная
-str_combat_speed_3|Быстрая
-str_combat_speed_4|Самая быстрая
+str_combat_speed_0|Минимальная
+str_combat_speed_1|Низкая
+str_combat_speed_2|Средняя
+str_combat_speed_3|Высокая
+str_combat_speed_4|Максимальная
 str_off|Выкл
 str_on|Вкл
-str_defender_spawn_count_limit|Количество защитников:
-str_unlimited|Неограниченное
-str_automatic|Автоматическая
-str_by_mouse_movement|Скорость мышки
-str_free|Бесплатный
-str_stick_to_any_player|Заблокировать игрока
-str_stick_to_team_members|Блокировка для членов команды
-str_stick_to_team_members_view|Блокировать объединение команды
-str_make_factions_voteable|Разрешить голосование на смену карты
-str_make_kick_voteable|Разрешить голосование о исключении
-str_make_ban_voteable|Разрешить голосование на блокировку
-str_bots_upper_limit_for_votes|Ограниченное число голосований:
-str_make_maps_voteable|Разрешить голосование о смене карты
-str_valid_vote_ratio|Голосовать начать заново (%):
-str_auto_team_balance_limit|Авто балланс команды (разн.):
-str_welcome_message|Приветствие:
-str_initial_gold_multiplier|Стартовое золото (%):
-str_battle_earnings_multiplier|Боевой бонус (%):
-str_round_earnings_multiplier|Золото за раунд (%):
-str_allow_player_banners|Разрешить свои баннеры
-str_force_default_armor|Минимальная сила брони
-str_respawning_in_reg0_seconds|Возрождение через {reg0} секунд...
-str_no_more_respawns_remained_this_round|Нет жизни не осталось для этого раунда
-str_reg0_respawns_remained|({reg0} жизней осталось)
-str_this_is_your_last_respawn|(Это твоя последняя жизнь)
+str_defender_spawn_count_limit|Число возрождений защитников:
+str_unlimited|Бесконечное
+str_automatic|Автоматическое
+str_by_mouse_movement|По движению мыши
+str_free|Свободное
+str_stick_to_any_player|Закреплено за игроком
+str_stick_to_team_members|Закреплено за членами команды
+str_stick_to_team_members_view|Закреплено за видом членов команды
+str_make_factions_voteable|Сделать фракции объектами голосования
+str_make_kick_voteable|Исключать игроков голосованием
+str_make_ban_voteable|Закрывать доступ на сервер голосованием
+str_bots_upper_limit_for_votes|Добавлять ботов голосованием:
+str_make_maps_voteable|Менять карты голосованием
+str_valid_vote_ratio|Необходимое количество голосов (%):
+str_auto_team_balance_limit|Порог автобаланса команд (разница):
+str_welcome_message|Приветственное сообщение:
+str_initial_gold_multiplier|Начальное золото (%):
+str_battle_earnings_multiplier|Бонус золота в бою (%):
+str_round_earnings_multiplier|Бонус золота за раунд (%):
+str_allow_player_banners|Разрешить личные флаги
+str_force_default_armor|Обязать ношение брони
+str_respawning_in_reg0_seconds|Появление через {reg0} сек...
+str_no_more_respawns_remained_this_round|Жизни на этот раунд израсходованы
+str_reg0_respawns_remained|(Осталось жизней: {reg0})
+str_this_is_your_last_respawn|(Это ваша последняя жизнь)
 str_wait_next_round|(Ждите следующего раунда)
 str_yes_wo_dot|Да
 str_no_wo_dot|Нет
-str_we_resign|У нас нет сил больше драться с вами. Мы сдаемся, вы победили {playername}.
-str_i_resign|Я не хочу сегодня умереть. Поэтому подчинюсь.
-str_s1_returned_flag|{s1} вернулся под их флагом на базу!
-str_s1_auto_returned_flag|{s1} флаг автоматически будет возвращен на базу!
-str_s1_captured_flag|{s1} захватил вражеский флаг!
-str_s1_taken_flag|{s1} взял вражеский флаг!
-str_s1_neutralized_flag_reg0|{s1} обезвредил флаг {reg0}.
-str_s1_captured_flag_reg0|{s1} захватил флаг {reg0}!
-str_s1_pulling_flag_reg0|{s1} начал захват флага {reg0}.
-str_s1_destroyed_target_0|{s1} цель A уничтожена!
-str_s1_destroyed_target_1|{s1} цель B уничтожена!
-str_s1_destroyed_catapult|{s1} катапульты уничтожены!
-str_s1_destroyed_trebuchet|{s1} требюше уничтожены!
-str_s1_destroyed_all_targets|{s1} все цели уничтожены!
-str_s1_saved_1_target|{s1} запомнить цель.
-str_s1_saved_2_targets|{s1} запомнить все цели.
-str_s1_defended_castle|{s1} защищать свою крепость!
-str_s1_captured_castle|{s1} захватил замок!
-str_auto_team_balance_in_20_seconds|Авто-баланс будет выполнен в течение 20 секунд.
-str_auto_team_balance_next_round|Авто-баланс будет выполнен в следующем раунде.
-str_auto_team_balance_done|Команды были автоматически сбалансированы.
-str_s1_won_round|{s1} выиграл раунд!
-str_round_draw|Время истекло. Ничья.
-str_round_draw_no_one_remained|Никому. Ничья.
-str_death_mode_started|Спешите! Стать хозяином поля!
-str_reset_to_default|Сброс к заводским
+str_we_resign|У нас не осталось сил для продолжения боя. Мы сдаемся на вашу милость, {playername}.
+str_i_resign|Я не хочу умирать сегодня, я сдаюсь.
+str_s1_returned_flag|{s1} - игроки вернули флаг на свою базу!
+str_s1_auto_returned_flag|{s1} - флаг автоматически вернулся на базу!
+str_s1_captured_flag|{s1} - игроки захватили чужой флаг!
+str_s1_taken_flag|{s1} - игроки забрали чужой флаг!
+str_s1_neutralized_flag_reg0|{s1} - игроки обезвредили флаг стороны {reg0}.
+str_s1_captured_flag_reg0|{s1} - игроки захватили флаг стороны {reg0}!
+str_s1_pulling_flag_reg0|{s1} - игроки начали перемещать флаг стороны {reg0}.
+str_s1_destroyed_target_0|{s1} - игроки уничтожили цель 1!
+str_s1_destroyed_target_1|{s1} - игроки уничтожили цель 2!
+str_s1_destroyed_catapult|{s1} - игроки уничтожили катапульту!
+str_s1_destroyed_trebuchet|{s1} - игроки уничтожили требушет!
+str_s1_destroyed_all_targets|{s1} - игроки уничтожили все цели!
+str_s1_saved_1_target|{s1} - игроки сберегли одну цель.
+str_s1_saved_2_targets|{s1} - игроки сберегли все цели.
+str_s1_defended_castle|{s1} - игроки защитили свой замок!
+str_s1_captured_castle|{s1} - игроки захватили замок!
+str_auto_team_balance_in_20_seconds|Автобаланс: будет выполнен за 20 секунд.
+str_auto_team_balance_next_round|Автобаланс: будет выполнен в следующем раунде.
+str_auto_team_balance_done|Команды автоматически сбалансированы.
+str_s1_won_round|{s1} - победа в раунде!
+str_round_draw|Время вышло. Раунд завершился ничьей.
+str_round_draw_no_one_remained|Все погибли. Раунд завершился ничьей.
+str_death_mode_started|Не мешкайте! Захватите поле боя!
+str_reset_to_default|К настройкам по умолчанию
 str_player_name|Имя игрока
 str_kills|Убийств
 str_deaths|Смертей
-str_ping|Ping
-str_dead|Мертвых
+str_ping|Пинг
+str_dead|Труп
 str_reg0_dead|{reg0} Мертвых
 str_bots_reg0_agents|Боты ({reg0} агентов)
 str_bot_1_agent|Бот (1 агент)
@@ -2203,28 +2211,28 @@ str_close_door|Закрыть двери
 str_raise_ladder|Поднять лестницу
 str_drop_ladder|Сбросить лестницу
 str_back|Назад
-str_start_map|Начальная карта
-str_choose_an_option|Выберите опцию:
-str_choose_a_poll_type|Выберите голосование:
-str_choose_faction|Выберите тип опроса
+str_start_map|Запуск карты
+str_choose_an_option|Выберите настройку:
+str_choose_a_poll_type|Выберите тип голосования:
+str_choose_faction|Выбор фракции
 str_choose_a_faction|Выберите фракцию:
-str_choose_troop|Выберите отряд
+str_choose_troop|Выбор класса войск
 str_choose_a_troop|Выберите класс войск:
-str_choose_items|Выберите доспехи
-str_options|Опции
-str_redefine_keys|переназначение клавиш
-str_submit_a_poll|Отправить на голосование
+str_choose_items|Выбор снаряжения
+str_options|Настройки
+str_redefine_keys|Изменение управления
+str_submit_a_poll|Создание голосования
 str_administrator_panel|Панель администратора
-str_kick_player|Исключить игрока
-str_ban_player|Банить игрока
-str_mute_player|Сделать немым
-str_unmute_player|Включить игрока
-str_quit|Выйти
-str_poll_for_changing_the_map|Изменить карту
-str_poll_for_changing_the_map_and_factions|Изменить карту и фракцию
-str_poll_for_changing_number_of_bots|Изменить количество ботов в команде
-str_poll_for_kicking_a_player|Исключить игрока
-str_poll_for_banning_a_player|Бан игроку
+str_kick_player|Удалить игрока
+str_ban_player|Изгнать игрока
+str_mute_player|Лишение голоса
+str_unmute_player|Наделение голосом
+str_quit|Выход
+str_poll_for_changing_the_map|Другая карта
+str_poll_for_changing_the_map_and_factions|Другая карта и фракции
+str_poll_for_changing_number_of_bots|Другое число ботов в командах
+str_poll_for_kicking_a_player|Удаление игрока
+str_poll_for_banning_a_player|Изгнание игрока
 str_choose_a_player|Выберите игрока:
 str_choose_a_map|Выберите карту:
 str_choose_a_faction_for_team_reg0|Выберите фракцию для команды {reg0}:
@@ -2232,12 +2240,12 @@ str_choose_number_of_bots_for_team_reg0|Выберите количество б
 str_spectator|Зритель
 str_spectators|Зрители
 str_command|Команда:
-str_profile_banner_selection_text|Выберите баннер для вашего профиля:
-str_use_default_banner|Используйте баннер фракции
-str_party_morale_is_low|Мораль некоторых войск очень низкая!
+str_profile_banner_selection_text|Выберите флаг из своего профиля:
+str_use_default_banner|Использовать флаг фракции
+str_party_morale_is_low|Боевой дух некоторых бойцов упал!
 str_weekly_report|Еженедельный отчет
-str_has_deserted_the_party|дезертировал.
-str_have_deserted_the_party|дезертировали.
+str_has_deserted_the_party|покидает группу.
+str_have_deserted_the_party|покидают группу.
 str_space| 
 str_us_|мы 
 str_allies_|союзники
