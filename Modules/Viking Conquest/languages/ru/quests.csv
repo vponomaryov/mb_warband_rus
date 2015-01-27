@@ -1,5 +1,4 @@
-questsfile version 1
-132
+﻿qst_fake|Fake
 qst_deliver_message|Доставить сообщение {s13} {!}{s9} попросил вас доставить сообщение для {s13}. {s13} был в {s4} когда вы взяли это задание.  
 qst_deliver_message_to_enemy_lord|Доставить сообщение {s13} {!}{s9} попросил вас доставить сообщение для {s13} от {s15}._{s13} был в {s4} когда вы взяли это задание.. 
 qst_raise_troops|Выступить {reg1} {s14} {!}{s9} просил вас взять {reg1} {s14} и привести их к нему. 
@@ -96,6 +95,12 @@ qst_douar_an_enez|Месть: Доуар Энез.
 qst_aescesdun|Ьитва: Аэскесдун.
 qst_svenbn_final|Месть:Свен Бычья-Шея.
 qst_old_roman|Адрианов Вал: Спасти голодающих.
+qst_vc_menu|Системное меню Viking Conquest.
+qst_vc_wounds|Система повреждений Viking conquest.
+qst_sea_battle_spawn|система возрождения.
+qst_team_0_ships|система возрождения.
+qst_team_1_ships|система возрождения.
+qst_blank_quest_6|Захватите и приведите {reg5} женщин к {s3}
 qst_collect_men|Месть: Посетить Доккингу. 
 qst_learn_where_merchant_brother_is|Месть: Поговорить с Ярлом Кэннемера. 
 qst_save_relative_of_merchant|Напасть на догово бандитов. 

@@ -15,24 +15,18 @@ pt_sea_raiders|франконские налетчики
 pt_sea_raiders2|данийские налетчики
 pt_sea_band|отряд воинов
 pt_deserters|вольные люди
+pt_frank_looters_1|Воры
+pt_frank_looters_2|Воры
 pt_merchant_caravan|торговый караван
 pt_troublesome_bandits|надоедливые бандиты
 pt_bandits_awaiting_ransom|бандиты, ожидающие выкуп
 pt_kidnapped_girl|похищенная девушка
 pt_village_farmers|крестьяне
-pt_new_template|отряд Неко
-pt_cado_template|отряд Кадо
-pt_arrians|ариане
-pt_eadfrith|боевой отряд идфритов
 pt_spy_partners|неприметные путники
 pt_runaway_serfs|беглые серфы
 pt_spy|простой горожанин
 pt_sacrificed_messenger|казненный гонец
-pt_forager_party|фуражиры
 pt_scout_party|разведчики
-pt_patrol_party|патруль
-pt_patrols_end|патруль
-pt_player_loot_wagon|обоз с провиантом
 pt_messenger_party|гонец
 pt_raider_party|налетчики
 pt_raider_captives|узники налетчиков
@@ -40,12 +34,6 @@ pt_kingdom_caravan_party|караван
 pt_prisoner_train_party|конвой
 pt_default_prisoners|должники
 pt_routed_warriors|вражеский патруль
-pt_deer_herd|стадо оленей
-pt_boar_herd|стадо кабанов
-pt_wolf_herd|стая волков
-pt_coat_herd|стадо коз
-pt_coatb_herd|стадо коз
-pt_wilddonkey_herd|стадо диких ослов
 pt_center_reinforcements|подкрепление
 pt_kingdom_hero_party|военный отряд
 pt_steppe_bandit_lair|убежище скоттов
@@ -57,22 +45,33 @@ pt_sea_raider_lair|место высадки франков
 pt_sea_raider_lair2|место высадки данов
 pt_looter_lair|укрытие похитителей
 pt_leaded_looters|банда грабителей
-pt_dplmc_spouse|ваша вторая половина
-pt_dplmc_gift_caravan|ваш караван
-pt_dplmc_recruiter|вербовщик
-pt_skirmish_party|застрельщики
-pt_spy_party|осторожный путник
-pt_player_loot_wagon|обоз с провиантром
-pt_escaped_companion|уставший товарищ
-pt_funeral_pyre|погребальный костер
-pt_personal_messenger|гонец
-pt_entrench|укрепление
 pt_sacerdotes_party|христианский проповедник
 pt_paganos_party|языческие жрецы
 pt_sea_raiders_ships|франконские пираты
 pt_sea_raiders_ships2|данийские пираты
 pt_sea_raiders_ships3|скоттские пираты
-pt_bishop_party|епископ
-pt_iniau|разведчики иньеу
-pt_sea_traders|морские торговцы
+pt_sea_raiders_ships4|Норвежские викинги
+pt_sea_raiders_ships5|Шведские викинги
+pt_sea_raiders_ships6|Викинги
+pt_chimney_smoke|Дым
+pt_epic_fleet|Эпический флот Викингов
+pt_port|порт
+pt_ferry_port|порт
+pt_landet_ships|Ваши корабли
+pt_fisher_ship|Рыбак
+pt_traveller_ship|Путешественник
+pt_slave_trader_ship|Работорговец
+pt_sea_king_danish|Морской Король
+pt_sea_king_norweg|Морской король
+pt_walrus_hunter|Walrus hunter
+pt_viking_raider|Viking raider
 pt_ambushers|засада
+pt_ship|Корабль
+pt_sven_doccinga_ca|Sven's Raiders
+pt_sven_lair_deffense|Sven's Hideout
+pt_kennemer_revenge|Налетчики
+pt_sigurd_farm_men|Люди Сигурда
+pt_wessex_foragers|West Seaxe Foragers
+pt_wessex_patrol|West Seaxe Patrol
+pt_norway_looters|Воры
+pt_jetty_port|порт

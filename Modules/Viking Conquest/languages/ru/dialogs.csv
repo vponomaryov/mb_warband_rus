@@ -1,5 +1,4 @@
-﻿dialogsfile version 2
-5526
+﻿dlga_fake|Fake
 dlga_port_chief_travel:close_window|К сожалению, в настоящее время в порту нет пассажирских кораблей.
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Я желаю отсрочить назначение лорда.
 dlga_award_fief_to_vassal_defer:close_window|Как пожелаете, {Сир/Миледи}. Вы можете решить этот вопрос позже.

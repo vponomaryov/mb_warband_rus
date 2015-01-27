@@ -1,34 +1,4 @@
-﻿p_burning_buildings|If|you|see|me,|report|the|fire|bug.
-p_ship_colisions|If|you|see|me,|report|the|colision|bug.
-p_main_party|Main_Party
-p_temp_party|{!}temp_party
-p_camp_bandits|{!}camp_bandits
-p_temp_party_2|{!}temp_party_2
-p_temp_casualties|{!}casualties
-p_temp_casualties_2|{!}casualties
-p_temp_casualties_3|{!}casualties
-p_temp_wounded|{!}enemies_wounded
-p_temp_killed|{!}enemies_killed
-p_main_party_backup|{!}_
-p_encountered_party_backup|{!}_
-p_collective_friends_backup|{!}_
-p_player_casualties|{!}_
-p_enemy_casualties|{!}_
-p_ally_casualties|{!}_
-p_collective_enemy|{!}collective_enemy
-p_collective_ally|{!}collective_ally
-p_collective_friends|{!}collective_ally
-p_total_enemy_casualties|{!}_
-p_routed_enemies|{!}routed_enemies|
-p_ferry_1a|Паромная Переправа
-p_ferry_2a|Паромная Переправа
-p_ferry_3a|Паромная Переправа
-p_ferry_4a|Паромная Переправа
-p_ferry_1b|Паромная Переправа
-p_ferry_2b|Паромная Переправа
-p_ferry_3b|Паромная Переправа
-p_ferry_4b|Паромная Переправа
-p_zendar|Зендар
+﻿p_zendar|Зендар
 p_town_1|Кентербур
 p_town_2|Сиппанхамм
 p_town_3|Дин Эйдин
@@ -280,7 +250,7 @@ p_village_129|деревня Келтэр
 p_village_130|деревня Мэйстэйбал
 p_village_131|деревня Мэйстэй
 p_village_132|деревня Мэйгад
-p_village_135|деревня Мэйгадбал
+p_village_133|Треф Мегвайд Вест
 p_village_134|деревня Том
 p_village_135|деревня Томхэм
 p_village_136|деревня Кайсил
@@ -292,13 +262,13 @@ p_village_141|деревня Бритрифьог
 p_village_142|деревня Бэбанхэм
 p_village_143|деревня Бэбан
 p_village_144|деревня Круэйганбал
-p_village_145|деревня Круэйган|
+p_village_145|Бал Круаган Вест
 p_village_146|деревня Тэмарбал
 p_village_147|деревня Тэмар
 p_village_148|деревня Кирренхэм
 p_village_149|деревня Киррен
 p_village_150|деревня Доккинга
-p_salt_mine||Солеварня
+p_salt_mine|Соляная шахта
 p_four_ways_inn|Перекресток (таверна)
 p_test_scene|Тестовая сцена
 p_battlefields|Поля сражений
@@ -308,7 +278,7 @@ p_boar_grove|Кобонья роща
 p_readingum|Readingum
 p_aescesdun|Aescesdun
 p_mega_danishrmy|Великая летняя армия
-p_battle_stones|Каменный вал
+p_battle_stones|Победный круг
 p_farmland_special|Пашни
 p_roman_fort|Римский форт
 p_troll_bridge|Троллий мост
@@ -344,6 +314,12 @@ p_stonemonumento|каменный монумент
 p_forestbattle|Лесное сражение
 p_the_thing|Ассамблея
 p_dhorak_keep|Твердыня Дорак
+p_training_ground|тренировочная площадка
+p_training_ground_1|тренировочный лагерь в поле
+p_training_ground_2|тренировочный лагерь в деревне
+p_training_ground_3|тренировочный лагерь в поле
+p_training_ground_4|тренировочный лагерь на озере
+p_training_ground_5|тренировочный лагерь
 p_monasterio1|Монастырь Кандида
 p_monasterio2|Монастырь Виллиброрд
 p_monasterio3|Монастырь Доммок
@@ -378,51 +354,51 @@ p_thiaderd_lair|Логово Тиадэра
 p_destroy1|Логово Тиадэра, разрушено
 p_destroy2|Логово Свена, разрушено
 p_destroy3|Аисэндум разрушен
-p_followers_camp|Лагерь|Союзников
-p_iniau_hideout|священная роща
-p_river_delta|дельта|реки
-p_tilting_at_windmills|Ветрянная Мелнтца
-p_multi_indigo_cradle|колыбель
-p_multi_indigo_frontier|кордон
-p_of_multi_caravan_ambush|засада на караван
-p_of_multi_crezy|лесная тропа
-p_of_multi_fjord|фьорд
-p_of_multi_hastings|Гастингс
-p_of_multi_hot_gates|Врата в ад
-p_of_multi_mini_circles|круг
-p_of_multi_rock_valley|каменная долина
-p_of_multi_small_ruins|руины
-p_of_multi_stone_circles|круг камней
-p_of_multi_thingvellir|тингвеллир
-p_battle_stones|Победный круг
-p_multi_scene_dam_10|Дам
-p_training_ground|тренировочная площадка
-p_training_ground_1|тренировочный лагерь в поле
-p_training_ground_2|тренировочный лагерь в деревне
-p_training_ground_3|тренировочный лагерь в поле
-p_training_ground_4|тренировочный лагерь на озере
-p_training_ground_5|тренировочный лагерь
-p_outpost_1|аванпост
-p_outpost_2|аванпост
-p_fort|мое убежище
-p_temp_loot_wagon|обоз
-p_looter_spawn_point|looter|sp
-p_looter_spawn_point3|looter|sp
-p_steppe_bandit_spawn_point|steppe|bandit|sp
+p_followers_camp|Лагерь последователей
+p_ferry_1a|Паромная Переправа
+p_ferry_2a|Паромная Переправа
+p_ferry_3a|Паромная Переправа
+p_ferry_4a|Паромная Переправа
+p_ferry_1b|Паромная Переправа
+p_ferry_2b|Паромная Переправа
+p_ferry_3b|Паромная Переправа
+p_ferry_4b|Паромная Переправа
+p_jetty_1|пристань 1
+p_jetty_2|пристань 2
+p_jetty_3|пристань 3
+p_jetty_4|пристань 4
+p_jetty_5|пристань 5
+p_jetty_6|пристань 6
+p_looter_spawn_point|их убежище
+p_looter_spawn_point2|их убежище
+p_looter_spawn_point3|их убежище
+p_steppe_bandit_spawn_point|их лагерь
 p_taiga_bandit_spawn_point|тундра
-p_forest_bandit_spawn_point|forest|bandit|sp
-p_forest_bandit_spawn_point2|forest|bandit|sp
-p_forest_bandit_spawn_point4|forest|bandit|sp
-p_mountain_bandit_spawn_point|mountain|bandit|sp
-p_mountain_bandit_spawn_point3|mountain|bandit|sp
-p_new_sp|new|sp
-p_new_sp2|new|sp
-p_new_sp3|new|sp
-p_new_sp4|new|sp
-p_sea_raider_spawn_point_1|sea|raider|sp
-p_sea_raider_spawn_point_2|sea|raider|sp
-p_sea_raider_spawn_point_3|sea|raider|sp
+p_forest_bandit_spawn_point|их логово
+p_forest_bandit_spawn_point2|их логово
+p_forest_bandit_spawn_point4|их логово
+p_mountain_bandit_spawn_point|их лагерь
+p_mountain_bandit_spawn_point3|их лагерь
+p_new_sp|приход
+p_new_sp2|приход
+p_new_sp3|приход
+p_new_sp4|село
+p_sea_raider_spawn_point_1|их крепость
+p_sea_raider_spawn_point_2|их крепость
+p_sea_raider_spawn_point_3|их крепость
 p_desert_bandit_spawn_point|пустыни
-p_ship_raider_spawn_point_1|sea|pirate|sp
-p_ship_raider_spawn_point_2|sea|pirate|sp
-p_ship_raider_spawn_point_3|sea|pirate|sp
+p_frank_looters_sp_1|их логово
+p_frank_looters_sp_2|их логово
+p_ship_raider_spawn_point_1|высадка
+p_ship_raider_spawn_point_2|высадка
+p_ship_raider_spawn_point_3|высадка
+p_ship_raider_spawn_point_4|крепость
+p_ship_raider_spawn_point_5|крепость
+p_ship_raider_spawn_point_6|крепость
+p_testing_spawn_point|море
+p_landing_point|место высадки
+p_landing_point2|место высадки 2
+p_the_fleet|Флот
+p_transporter|Транспортировщик
+p_troop_camp_1|Лагерь
+p_troop_camp_2|Лагерь
