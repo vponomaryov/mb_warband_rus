@@ -2366,18 +2366,18 @@ itm_noswing_heavy_spear2|Тяжелое копье
 itm_noswing_heavy_spear2_pl|Тяжелое копье 
 itm_noswing_heavy_spear3|Тяжелое копье 
 itm_noswing_heavy_spear3_pl|Тяжелое копье 
-itm_noswing_long_light_spear1|Легкое длинное копье
-itm_noswing_long_light_spear1_pl|Легкое длинное копье 
-itm_noswing_long_light_spear2|Легкое длинное копье 
-itm_noswing_long_light_spear2_pl|Легкое длинное копье
-itm_noswing_long_war_spear1|Длинное воен.копье 
-itm_noswing_long_war_spear1_pl|Длинное воен.копье  
-itm_noswing_long_war_spear2|Длинное воен.копье  
-itm_noswing_long_war_spear2_pl|Длинное воен.копье  
-itm_noswing_long_heavy_spear1|Тяжолое длин.копье 
-itm_noswing_long_heavy_spear1_pl|Тяжолое длин.копье 
-itm_noswing_long_heavy_spear2|Тяжолое длин.копье  
-itm_noswing_long_heavy_spear2_pl|Тяжолое длин.копье 
+itm_noswing_long_light_spear1|Легкое Длинное Копье
+itm_noswing_long_light_spear1_pl|Легкое Длинное Копье
+itm_noswing_long_light_spear2|Легкое Длинное Копье
+itm_noswing_long_light_spear2_pl|Легкое Длинное Копье
+itm_noswing_long_war_spear1|Длинное Военное Копье 
+itm_noswing_long_war_spear1_pl|Длинное Военное Копье 
+itm_noswing_long_war_spear2|Длинное Военное Копье 
+itm_noswing_long_war_spear2_pl|Длинное Военное Копье 
+itm_noswing_long_heavy_spear1|Длинное Тяжелое Копье 
+itm_noswing_long_heavy_spear1_pl|Длинное Тяжелое Копье 
+itm_noswing_long_heavy_spear2|Длинное Тяжелое Копье 
+itm_noswing_long_heavy_spear2_pl|Длинное Тяжелое Копье 
 itm_noswing_new_mace|Луч
 itm_noswing_new_mace_pl|Луч
 itm_noswing_premium_spear1|Гунгнир
@@ -2402,4 +2402,3 @@ itm_noswing_throwing_spear2_melee|Метательное копье
 itm_noswing_throwing_spear2_melee_pl|Метательное копье
 itm_noswing_torch|Факелы 
 itm_noswing_torch_pl|Факелы
-itm_guard_helmet_pl|данийский шлем лорда
