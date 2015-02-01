@@ -4,7 +4,6 @@ trp_multiplayer_profile_troop_female|multiplayer profile troop female
 trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female
 trp_temp_troop|Временный отряд
 trp_temp_troop_pl|Временный отряд
-
 trp_find_item_cheat|find item cheat
 trp_find_item_cheat_pl|find item cheat
 trp_random_town_sequence|Random Town Sequence
@@ -510,35 +509,21 @@ trp_tavern_minstrel_4_pl|Менестрель
 trp_tavern_minstrel_5|Странствующий Бард
 trp_tavern_minstrel_5_pl|Менестрель
 trp_quastuosa_1|Счастливая Вдова
-
-trp_quastuosa_1_pl|Шлюха
+trp_quastuosa_1_pl|Счастливая Вдова
 trp_quastuosa_2|Счастливая Вдова
-
 trp_quastuosa_2_pl|Счастливая Вдова
-
 trp_quastuosa_3|Счастливая Вдова
-
 trp_quastuosa_3_pl|Счастливая Вдова
-
 trp_quastuosa_4|Счастливая Вдова
-
 trp_quastuosa_4_pl|Счастливая Вдова
-
 trp_quastuosa_5|Счастливая Вдова
-
 trp_quastuosa_5_pl|Счастливая Вдова
-
 trp_quastuosa_6|Счастливая Вдова
-
 trp_quastuosa_6_pl|Счастливая Вдова
-
 trp_quastuosa_7|Счастливая Вдова
-
 trp_quastuosa_7_pl|Счастливая Вдова
-
 trp_quastuosa_end|Счастливая Вдова
 trp_quastuosa_end_pl|Счастливая Вдова
-
 trp_bardo_1|Королевский скальд
 trp_bardo_1_pl|Королевские скальды
 trp_bardo_2|Королевский скальд
@@ -614,7 +599,6 @@ trp_npc9_pl|Кловис
 trp_npc10|Кеавлин
 trp_npc10_pl|Кеавлин
 trp_npc11|Сольвейг
-
 trp_npc11_pl|Сольвейг
 trp_npc12|Асбьорн
 trp_npc12_pl|Асбьорн
@@ -703,7 +687,6 @@ trp_knight_3_5_pl|Ярл Хельги Кетильсон
 trp_knight_3_6|Хэрсир Айстейн Олофсон
 trp_knight_3_6_pl|Хэрсир Айстейн Олофсон
 trp_knight_3_7|Хэрсир Сигтриг Иваррсон
-
 trp_knight_3_7_pl|Хэрсир Сигтриг Иваррсон
 trp_knight_3_8|Хэрсир Торстэйн Олафссон
 trp_knight_3_8_pl|Хэрсир Торстэйн Олафссон
@@ -712,7 +695,6 @@ trp_knight_4_1_pl|Ярл Гаральд Хеммингсон
 trp_knight_4_2|Ярл Готрик Гаральдсон
 trp_knight_4_2_pl|Ярл Готрик Гаральдсон
 trp_knight_4_3|Ярл Хродульф Гаральдсон
-
 trp_knight_4_3_pl|Ярл Хродульф Гаральдсон
 trp_knight_5_1|Аэтелинг Альфред Аэтельвульфинг
 trp_knight_5_1_pl|Аэтелинг Альфред Аэтельвульфинг
@@ -747,7 +729,6 @@ trp_knight_6_4_pl|Эйнфрит
 trp_knight_6_5|Эквалбд
 trp_knight_6_5_pl|Эквалбд
 trp_knight_7_1|Эалдорман Кеовульф Кеовульфинг
-
 trp_knight_7_1_pl|Эалдорман Кеовульф Кеовульфинг
 trp_knight_7_2|Эалдорман Хэреберт
 trp_knight_7_2_pl|Эалдорман Хэреберт
@@ -764,19 +745,16 @@ trp_knight_7_7_pl|Эалдорман Беорнот
 trp_knight_7_8|Эалдорман Сигберт
 trp_knight_7_8_pl|Эалдорман Сигберт
 trp_knight_7_9|Дритен Аэтельвульф Аэтельрединг
-
 trp_knight_7_9_pl|Дритен Аэтельвульф Аэтельрединг
 trp_knight_8_1|Кунинг Эгберт
 trp_knight_8_1_pl|Кунинг Эгберт
 trp_knight_8_2|Ярл Ратбарт Рагнарсон
 trp_knight_8_2_pl|Хэрсир Ратбарт Рагнарсон
 trp_knight_8_3|Эалдорман Эалдред
-
 trp_knight_8_3_pl|Эалдорман Эалдред
 trp_knight_8_4|Ярл Сидрак Старший
 trp_knight_8_4_pl|Ярл Сидрак
 trp_knight_8_5|Эалдорман Ригсиг
-
 trp_knight_8_5_pl|Эалдорман Ригсиг
 trp_knight_8_6|Эалдорман Эгберт Второй
 trp_knight_8_6_pl|Эалдорман Эгберт
@@ -785,7 +763,6 @@ trp_knight_8_7_pl|Ярл Бьерн Ярнсида
 trp_knight_8_8|Хэрсир Гутрэд Кнутр
 trp_knight_8_8_pl|Гутрэд Кнутр
 trp_knight_8_9|Хэрсир Регнальд
-
 trp_knight_8_9_pl|Хэрсир Регнальд
 trp_knight_8_10|Хэрсир Харальд
 trp_knight_8_10_pl|Ярл Харальд
@@ -801,31 +778,22 @@ trp_knight_8_15|Ярл Баксекг
 trp_knight_8_15_pl|Ярл Баксекг
 trp_knight_9_1|Маэль Анаравд мап Родри
 trp_knight_9_1_pl|Маэль Анаравд мап Родри
-
 trp_knight_9_2|Маэль Кадель мап Родри
-
 trp_knight_9_2_pl|Маэль Кадель мап Родри
 trp_knight_9_3|Маэль Мерфин мап Родри
 trp_knight_9_3_pl|Маэль Мерфин мап Родри
-
 trp_knight_9_4|Ри Гвгон мап Мэуриг
-
 trp_knight_9_4_pl|Ри Гвгон мап Мэуриг
 trp_knight_9_5|Гуледик Гриад мап Мерфин
 trp_knight_9_5_pl|Гуледик Гриад мап Мерфин
-
 trp_knight_9_6|Маэль Тудвал мап Родри
-
 trp_knight_9_6_pl|Маэль Тудвал мап Родри
 trp_knight_9_7|Гуледик Хифайд мап Бледри
 trp_knight_9_7_pl|Гуледик Хифайд мап Бледри
-
 trp_knight_9_8|Тиерн Овэйн мап Гивель
-
 trp_knight_9_8_pl|Тиерн Овэйн мап Гивель
 trp_knight_9_9|Тиерн Лофан мап Кильмин Броэту
 trp_knight_9_9_pl|Тиерн Лофан мап Кильмин Броэту
-
 trp_knight_10_1|Маэль Гуледик
 trp_knight_10_1_pl|Маэль Гуледик
 trp_knight_11_1|Маэль Рун мап Артгал
@@ -865,7 +833,6 @@ trp_knight_14_3_pl|Ард Мохейрдж мак Индрехтейг
 trp_knight_14_4|Тиарна Айнбит мак Аэдо
 trp_knight_14_4_pl|Тиарна Айнбит мак Аэдо
 trp_knight_14_5|Тиарна Кумасках мак Каталан
-
 trp_knight_14_5_pl|Тиарна Кумасках мак Каталан
 trp_knight_15_1|Ард Тиарна Айлил мак Дунлейдж
 trp_knight_15_1_pl|Ард Тиарна Айлил мак Дунлейдж
@@ -874,7 +841,6 @@ trp_knight_15_2_pl|Ард Тиарна Кэйпри мак Дунлейдж
 trp_knight_15_3|Тиарна Муредач мак Брэйн
 trp_knight_15_3_pl|Тиарна Муредач мак Брэйн
 trp_knight_15_4|Тиарна Домнал мак Мурекайн
-
 trp_knight_15_4_pl|Тиарна Домнал мак Мурекайн
 trp_knight_15_5|Тиарна Кербал мак Мурекайн
 trp_knight_15_5_pl|Тиарна Кербал мак Мурекайн
@@ -887,13 +853,10 @@ trp_knight_16_2_pl|Ард Тиарна Дуб Лакнай мак Гуалу
 trp_knight_16_3|Тиарна Фогартак мак Суин
 trp_knight_16_3_pl|Тиарна Фогартак мак Суин
 trp_knight_16_4|Тиарна Лонгбортан мак Финакта
-
 trp_knight_16_4_pl|Тиарна Лонгбортан мак Финакта
 trp_knight_16_5|Тиарна Риктабра мак Бран Фин
-
 trp_knight_16_5_pl|Тиарна Риктабра мак Бран Фин
 trp_knight_16_6|Тиарна Колман мак Ционэйт
-
 trp_knight_16_6_pl|Тиарна Колман мак Ционэйт
 trp_knight_17_1|Маэль Конкобар мак Тайдж Мор
 trp_knight_17_1_pl|Руар Конкобар мак Тайдж Мор
@@ -904,10 +867,8 @@ trp_knight_17_3_pl|Тиарна Тадж мак Конкобар
 trp_knight_17_4|Тиарна Финшнекта мак Коркрай
 trp_knight_17_4_pl|Тиарна Финшнекта мак Коркрай
 trp_knight_17_5|Тиарна Добхайлен мак Гормгус
-
 trp_knight_17_5_pl|Тиарна Добхайлен мак Гормгус
 trp_knight_17_6|Тиарна Кэтэл мак Конкобар
-
 trp_knight_17_6_pl|Тиарна Кэтэл мак Конкобар
 trp_knight_18_1|Маэль Домнаил мак Аэда
 trp_knight_18_1_pl|Маэль Домнаил мак Аэда
@@ -1111,7 +1072,6 @@ trp_kingdom_15_lady_1|Мари
 trp_kingdom_15_lady_1_pl|Мари
 trp_kingdom_15_lady_2|Мэль
 trp_kingdom_15_lady_2_pl|Мэль
-
 trp_kingdom_15_lady_3|Теглаида
 trp_kingdom_15_lady_3_pl|Теглаида
 trp_kingdom_15_lady_4|Ласса
@@ -1142,7 +1102,6 @@ trp_kingdom_17_lady_6|Альма
 trp_kingdom_17_lady_6_pl|Альма
 trp_kingdom_18_lady_1|Федельма
 trp_kingdom_18_lady_1_pl|Федельма
-
 trp_kingdom_18_lady_2|Айла
 trp_kingdom_18_lady_2_pl|Айла
 trp_kingdom_18_lady_3|Кондадиль
@@ -1167,10 +1126,8 @@ trp_kingdom_20_lady_1|Колуима
 trp_kingdom_20_lady_1_pl|Колуима
 trp_kingdom_20_lady_2|Сабья Инген Гирик
 trp_kingdom_20_lady_2_pl|Сабья Инген Гирик
-
 trp_kingdom_20_lady_3|Инген Бруде
 trp_kingdom_20_lady_3_pl|Инген Бруде
-
 trp_kingdom_20_lady_4|Инген Домлек
 trp_kingdom_20_lady_4_pl|Инген Домлек
 trp_kingdom_20_lady_5|Инген Гвидд
@@ -1641,6 +1598,7 @@ trp_angle_multiplayer_pl|Геаната
 trp_briton_multiplayer|Милвр
 trp_briton_multiplayer_pl|Милвр
 trp_irish_multiplayer|Клмартайр
+trp_irish_multiplayer_pl|Cliarthairi
 trp_scotch_multiplayer|Бруйд
 trp_scotch_multiplayer_pl|Бруйд
 trp_norse_capitan|Дворянин
@@ -1650,6 +1608,7 @@ trp_norse_elite_pl|Элитные воины
 trp_saxon_capitan|Дворянин
 trp_saxon_capitan_pl|Дворяне
 trp_saxon_elite|Телохранитель
+trp_saxon_elite_pl|Телохранители
 trp_angle_capitan|Дворянин
 trp_angle_capitan_pl|Дворяне
 trp_angle_elite|Телохранитель
