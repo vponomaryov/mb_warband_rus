@@ -225,59 +225,59 @@ mno_ayudar_infiltrados|Приказать: отправьте им на помо
 mno_leave_men|Оставьте их на проивол судьбы, они знали на что шли.
 menu_traicion_resultado3|Ваши люди справились с заданием. Предатель поджог амбар и скоро покинет {s4} и присоединится к вашей армии. Враг потеряет много запасов еды из-за этого.
 mno_back_to_siege|Хорошо.
-menu_traicion_resultado4|Ваши люди справились с заданием. They report there is a traitor who knows the routines of the garrison, and he is willing to lead a small force to ambush the enemy when they come to the water supplies, a nearby stream outside the walls...
-mno_atacar_emboscada_player|Go yourself with your closest companions.
-mno_atacar_emboscada|Order: send a group of men with the traitor to carry out the ambush.
+menu_traicion_resultado4|Ваши люди справились с заданием. Они докладывают, что нашелся предатель, который знает маршруты гарнизона, и он хочет возглавить засаду на врага во время водного снабжения у ручья, недалеко от стены...
+mno_atacar_emboscada_player|Отправиться лично со своими компаньонами.
+mno_atacar_emboscada|Приказать: отправить группу людей вместе с предателем, чтобы те побеспокоились о засаде.
 menu_emboscada_player|Moving through the vegetation, you have taken your enemies by surprise and have given a good account of yourselves. Now the garrison will think twice before sending men out.
-mno_emboscada_playerok|Victory!
-menu_emboscada_nada|Your men move under the cover of the vegetation, away from the watchful eyes on the wall, but when they come to the meeting point, there is nobody. The alleged traitor has been discovered or has repented. Your men return disappointed.
-mno_emboscada_nanai|Do not worry, there will be another chance.
-menu_emboscada_lose|Alarm! Treason! The alleged traitor led your men into an ambush. They are fighting desperately, leaving many men on the field.
-mno_regreso_lucha|Your worst fears have come true.
-menu_emboscada_victory|The traitor lead your men through the night to a hill which controls the path to a well. Your men took up positions in the vegetation, in silence, their faces stained black. At daybreak, a large group of enemies are spotted by the water.^^A battle cry fills the valley as your soldiers fall like a tide of death on the enemy... killing many.
-menu_traicion_resultado5|When your men come back, they tell you they have contacted a man who is in control of rations, and he has promised to raise the price of food to his fellow citizens to sow discontent, making them more likely to abandon the fortress.
-mno_traicion_moral|Perfect!
-menu_traicion_lucha|Your men and the enemy fight to the death at the foot of the wall, where everything is unfavorable to your troops. You watch them fighting and retreating towards you. Many bodies are left behind.^^Your casualties: {s8}^^Enemy casualties: {s9}
-menu_infiltracion_resultado1|They returned without news. They were unable to enter the settlement.
-menu_infiltracion_resultado2|Sir! Our men have been discovered in {s4}. Unfortunately, none have returned. They were all killed or captured.
-mno_muertos_infiltrado|Terrible news.
-menu_infiltracion_resultado3|Victory! They have managed to burn several food stores. The enemy is demoralized. Perhaps it is time to request their surrender.
-menu_infiltracion_resultado3_c|Victory! They killed many cattle and contaminated the water reserves. The enemy is demoralized and their lord has lost some renown. Perhaps it is time to request their surrender.
-menu_infiltracion_resultado4|Your men have returned. They said that some warriors are dissatisfied, and some were persuaded to switch to your side. If you agree, they will leave the city at night and join your army. Before they leave, they promise to cause unrest to facilitate the surrender of the place.
+mno_emboscada_playerok|Победа!
+menu_emboscada_nada|Ваши люди продвигались по зарослям, вдали от взглядов охраны, но когда они пришли на место встречи, там никого не оказалось. Мнимый предатель был либо обнаружен, либо передумал... Ваши люди вернулись разочарованными.
+mno_emboscada_nanai|Не страшно, еще будет шанс.
+menu_emboscada_lose|Тревога! Предательство! Мнимый предатель завел ваших людей в засаду. Они отчаяно сражаются, много людей полегло.
+mno_regreso_lucha|Ваши самые страшные страхи воплотились в реальность.
+menu_emboscada_victory|Предатель провел ваших людей под покровом ночи на склон, с которого контролируется путь к стене. Ваши люди засели в зарослях, и затихли, их лица окрашены в черный цвет. Во время дневного перерыва, большая группа врагов была замечена у воды.^^Боевой клич заполнил сердца ваших солдат, которые обрушились на врага как волна смерти... для многих из врагов это был последний водопой.
+menu_traicion_resultado5|Когда ваши люди вернулись, они сказали вам, что они вышли на контакт с человеком, который контролирует продовольственные поставки, и он пообещал поднять цены на еду, чтобы посеять недовольство, таким образом подталкивая их на покидание крепости.
+mno_traicion_moral|Отлично!
+menu_traicion_lucha|Ваши люди сражаются с врагом у стены, где у врага огромное преимущество. Вы видите как они сражаются и потом отступают. Много людей полегло.^^Ваши потери: {s8}^^Потери врага: {s9}
+menu_infiltracion_resultado1|Они вернулись ни с чем. Им не удалось проникнуть в поселение.
+menu_infiltracion_resultado2|Сэр! Наших людей обнаружили в {s4}. К несчастью, никто не вернулся. Они все либо погибли, либо были схвачены.
+mno_muertos_infiltrado|Ужасные новости.
+menu_infiltracion_resultado3|Победа! Им удалось сжечь несколько продовольственных магазинов. Враг деморализован. Возможно, самое время предложить им сдаться.
+menu_infiltracion_resultado3_c|Победа! Они убили большое поголовье скота и загрязнили воду. Враг деморализован и их лорд потерял часть славы. Возможно, самое время предложить им сдаться.
+menu_infiltracion_resultado4|Ваши люди вернулись. Они сообщают, что некоторые воины недовольны, и некоторые были убеждены перейти на вашу сторону. Если вы согласны, они покинут город в ночи и присоединяться к вашей армии. Перед отходом, они собираются устроить беспорядки чтобы повысить шансы взятия.
 mno_aceptar_si|They are welcome.
-menu_infiltracion_resultado4_c|Your men have returned. They said that they poisoned the water of some wells and nearby streams. This should sicken many in the garrison.
-mno_aceptar_ok|That's good news. It will leave less men to defend the wall.
-menu_infiltracion_resultado5|Oh, sir. The enemy has sent a bag with the heads of your men. Some of our soldiers have seen it, and fear runs through the camp.
-mno_infiltracion_moral|Cowards! How can a couple of heads sink the morale of an army? Are they cattle or men?
-menu_campos_cercanos1|Sir, crops and farms were burned, but since this is not the harvest season, it wasn't possible to get food.
-mno_back_behind_d|Well done, do not worry.
-menu_campos_cercanos2|Sir, crops and farms were burned, and as it is the harvest season, we found an abundance of food.
-mno_back_behind_c|Well done, food is always welcome.
-menu_campos_cercanos2_c|Sir, crops and farms were burned, The grain is still green, but edible. We found an abundance of food.
-menu_campos_cercanos3|Sir, we burned the fields, but as it is after the harvest time, there was no grain left. However, the farmers have left some of their cattle behind.
-mno_back_behind_b|Food is always welcome.
-menu_campos_cercanos4|We have encountered problems. The fields were burned but the farmers struck back with support from some members of the garrison.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_back_behind_a|Terrible news!
-menu_poner_escaleras|Your vanguard advances, bringing ladders, shovels and other useful siege equipment... A display of men armed with ranged weapons go forth, attracting the enemy's missiles. Your heart races in its bony cage. Somehow all battles seem to be the first.^The thrill, terror and sweat is there, always. You noticed how your men made a shield formation and advanced over the walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_back_behind_esc1|Your men have been met, it's your time...
-menu_poner_escaleras_mantlets|Your vanguard advances, bringing ladders, mantlets, shovels and other useful siege equipment... A display of men armed with ranged weapons go forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow all battles seem to be the first.^The thrill, terror and sweat is there, always. You noticed how your men made a shield formation and advanced over the walls. Using the mantles saved many lives.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_back_behind_esc2|Your men have been met, it's your time...
-menu_informacion_ciudad|The scout stops in front of you: '{s11}^^{s12} {s1} {s5}^^{s17}
+menu_infiltracion_resultado4_c|Ваши люди вернулись. Они сказали, что они отравили воду в ручьях и водоемах. Это должно привести к болезни среди гарнизона врага.
+mno_aceptar_ok|Отличные новости. Меньше людей останется на защиту стены.
+menu_infiltracion_resultado5|Ох, сэр. Враг прислал мешок с отрубленными головами наших людей. Наши солдаты заметили это, и страх поселился в наших рядах.
+mno_infiltracion_moral|Трусы! Как могла парочка людей так обрушить боевой дух целой армии? Они люди или скоты?
+menu_campos_cercanos1|Сэр, посевы и фермы были сожжены, но так как это не сезон урожая не удалось раздобыть продовольствие.
+mno_back_behind_d|Хорошо, не беспокойтесь.
+menu_campos_cercanos2|Сэр, посевы и фермы были сожжены, и так как это сезон урожая, нашли изобилие продовольствия.
+mno_back_behind_c|Отлично, продовольствие нам пригодится.
+menu_campos_cercanos2_c|Сэр, посевы и фермы были сожжены, The grain is still green, but edible. We found an abundance of food.
+menu_campos_cercanos3|Сэр, мы сожгли поля, но так как это послеурожайный сезон, зерна не было. Однако, фермеры покинули некоторое поголовье скота.
+mno_back_behind_b|Отлично, это нам пригодится.
+menu_campos_cercanos4|Мы столкнулись с проблемами. Поля были выжжены, но фермеры организовали ответный удар с помощью части гарнизона.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_back_behind_a|Ужасные новости!
+menu_poner_escaleras|Ваши войска наступают, поднимая лестницы и используя другие осадные орудия... Стрелки продвинулись дальше, атакуя вражеские катапульты. Каким-то образом, все сражения кажутся первыми.^Дрожь, террор и пот всегда там. Вы заметили как ваши люди построились в формацию щита и пошли на стены...^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_back_behind_esc1|Your men have been met, настал ваш час...
+menu_poner_escaleras_mantlets|Ваши войска наступают, поднимая лестницы, подводя манталеты и используя другие осадные орудия... A display of men armed with ranged weapons go forth, guarded by mantlets, attracting the enemy's missiles. Your heart races in its bony cage. Somehow all battles seem to be the first.^The thrill, terror and sweat is there, always. You noticed how your men made a shield formation and advanced over the walls. Using the mantles saved many lives.^^Your casualties: {s8}^^Enemy casualties: {s9}
+mno_back_behind_esc2|Your men have been met, настал ваш час...
+menu_informacion_ciudad|Разведчик остановился перед вами: '{s11}^^{s12} {s1} {s5}^^{s17}
 menu_castle_besiege_inner_battle|{s1}
-menu_build_mantles2|The mantlets help protect your men when they have to use assault equipment. They save many lives. As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build mantlets.
-mno_build_mantles|Do it.
-menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough equipment for the assault.
-mno_build_ladders_cont|Do it.
-menu_construct_siege_tower|As the party member with the highest Engineer skill, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower and other equipment for assault will take {reg4} hours.
-mno_build_siege_tower_cont|Start building.
-menu_castle_attack_walls_simulate|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}
-menu_castle_attack_walls_with_allies_simulate|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
-menu_castle_taken_by_friends|Nothing to see here.
-menu_castle_taken|The battle for {s60} is almost over. Your troops are eager to start plundering the {reg2?town:fort}. {s10}^{s4}
-mno_saqueo_noallowed|Conquer the {reg2?town:fort} and forbid plundering.
-mno_saqueo_normal|Plunder the {reg2?town:fort} and leave it alone.
-mno_saqueo_total|Devastate the place and leave it alone.
-menu_castle_taken_plunder|The {reg2?town:fort} is plundered. You have collected {reg7} penings.
+menu_build_mantles2|Манталеты защищают бойцов во время пользования осадными орудиями. Они сохраняют много жизней. Как член отряда с наибольшим навыком Инженерии, ({reg2}), {reg3?вы оцениваете:{s3} оценивает}, что постройка манталетов займет {reg4} часов.
+mno_build_mantles|Приступить.
+menu_construct_ladders|Как член отряда с наибольшим навыком Инженерии ({reg2}), {reg3?вы оцениваете:{s3} оценивает}, что сооружение достаточного числа осадных приспособлений займет {reg4} часов.
+mno_build_ladders_cont|Приступить.
+menu_construct_siege_tower|Как член отряда с наибольшим навыком Инженерии, ({reg2}), {reg3?вы оцениваете:{s3} оценивает}, что строительство осадной башни и других осадных приспособлений для осады займет {reg4} часов.
+mno_build_siege_tower_cont|Начать строительство.
+menu_castle_attack_walls_simulate|{s4}^^Ваши потери: {s8}^^Потери врага: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Ваши потери: {s8}^^Потери союзников: {s9}^^Потери врага: {s10}
+menu_castle_taken_by_friends|Нечего больше тут смотреть.
+menu_castle_taken|Битва за {s60} почти закончилась. Ваши войска готовы приступить к грабежу {reg2?города:крепости}. {s10}^{s4}
+mno_saqueo_noallowed|Захватить {reg2?город:крепость} и запретить разграбление.
+mno_saqueo_normal|Разграбить {reg2?город:крепость} и покинуть.
+mno_saqueo_total|Разорить и покинуть.
+menu_castle_taken_plunder|{reg2?Город разграблен:Крепость разграблена}. Вы набрали {reg7} шиллингов.
 menu_castle_taken_native|{s3} has fallen to your troops, and you now have full control of the {reg2?town:fort}. {reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
 menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the fort. It is time to send word to {s9} about your victory. {s5}
 mno_castle_taken_claim|Request that {s3} be awarded to you.
