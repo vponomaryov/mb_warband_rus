@@ -440,175 +440,175 @@ mno_bet_5_denars|5 шиллингов.
 menu_tournament_bet_confirm|Если вы поставите {reg1} шиллингов, вы получите {reg2} шиллингов в случае победы в турнире. Согласны?
 mno_tournament_bet_accept|Да.
 mno_tournament_bet_cancel|Забудьте.
-menu_tournament_participants|You ask one of the criers for the names of the tournament participants. They are:^{s11}
-menu_collect_taxes|As the party member with the highest trade skill ({reg2}), {reg3?you expect:{s1} expects} that collecting taxes from here will take {reg4} days...
-mno_start_collecting|Start collecting.
-mno_collect_later|Put it off until later.
-menu_collect_taxes_complete|You've collected {reg3} penings in taxes from {s3}. {s19} will be expecting you to take the money to him.
-menu_collect_taxes_rebels_killed|Your quick action and strong arm have successfully put down the revolt. Surely, anyone with a mind to rebel against you will think better of it after this.
-menu_collect_taxes_failed|You could collect only {reg3} penings as tax from {s3} before the revolt broke out. {s1} won't be happy, but some silver will placate him better than nothing at all...
-menu_monasterio_saqueado|The monks' blood soaks the ground and their bodies are fed to the crows. An easy victory, a great reward ... but you have created new enemies among Christians.
-menu_collect_taxes_revolt_warning|The people of {s3} are outraged at your demands and decry it as nothing more than extortion. They're getting very restless, and they may react badly if you keep pressing them.
-mno_continue_collecting_taxes|Ignore them and continue.
-mno_halve_taxes|Agree to reduce your collection by half. ({s1} may be upset)
-menu_collect_taxes_revolt|You are interrupted while collecting the taxes at {s3}. A large band of angry {reg9?peasants:townsmen} is marching nearer, shouting about the exorbitant taxes and waving torches and weapons. It looks like they aim to fight you!
-menu_train_peasants_against_bandits|As the party member with the highest training skill ({reg2}), {reg3?you expect:{s1} expects} that getting some peasants ready for practice will take {reg4} hours.
-mno_make_preparation|Train them.
-mno_train_later|Put it off until later.
-menu_train_peasants_against_bandits_ready|You put the peasants through the basics of soldiering, discipline and obedience. You think {reg0} of them {reg1?have:has} fully grasped the training and {reg1?are:is} ready for some practice.
-mno_peasant_start_practice|Start the practice fight.
+menu_tournament_participants|Вы просите у одного из глашатаев список участников турнира. Вот их имена:^{s11}
+menu_collect_taxes|Будучи лучшим торговцем в отряде, ({reg2} очков навыка), {reg3?вы ожидаете:{s1} ожидает}, что сбор налогов с этого владения займет {reg4} дней...
+mno_start_collecting|Начать сбор.
+mno_collect_later|Отложить на потом.
+menu_collect_taxes_complete|Вы собрали налогов на {reg3} шиллингов в {s3}. {s19} ожидает, что вы доставите эти деньги ему.
+menu_collect_taxes_rebels_killed|Благодаря вашим решительным действиям бунт был успешно подавлен. Само собой, теперь недовольные дважды подумают, прежде чем восставать против вас.
+menu_collect_taxes_failed|Вам удалось собрать в {s3} лишь {reg3} шиллингов налогов до того, как поднялся бунт. {s1}, конечно, будет недоволен, но лучше хоть немного серебра, чем вообще ничего...
+menu_monasterio_saqueado|Кров монахов залила всю землю и их тела теперь кормят ворон. Легкая победа, большая награда ... но у вас появились новые враги среди христиан.
+menu_collect_taxes_revolt_warning|Жители {s3} в ярости от ваших требований и зовут вас не иначе как грабителем. Они могут подняться против вас, если продолжать на них давить.
+mno_continue_collecting_taxes|Проигнорировать и продолжить.
+mno_halve_taxes|Согласиться на половину суммы. ({s1} может рассердиться).
+menu_collect_taxes_revolt_warning|Жители {s3} в ярости от ваших требований и зовут вас не иначе как грабителем. Они могут подняться против вас, если продолжать на них давить.
+menu_train_peasants_against_bandits|Будучи лучшим учителем в отряде, ({reg2} очков навыка), {reg3?вы ожидаете:{s1} ожидает}, что начальная подготовка крестьян займет около {reg4} часов...
+mno_make_preparation|Обучить их.
+mno_train_later|Отложить на потом.
+menu_train_peasants_against_bandits_ready|Вы обучаете крестьян основам солдатской службы, дисциплины и повиновения. Вы считаете, что {reg0} из них полностью {reg1?усвоили:усвоил} урок и {reg1?готовы:готов} к тренировочному бою.
+mno_peasant_start_practice|Начать тренировочный бой.
 menu_train_peasants_against_bandits_training_result|{s0}
-menu_train_peasants_against_bandits_attack|As you get ready to continue the training, a sentry from the village runs up to you, shouting alarms. The bandits have been spotted on the horizon, riding hard for {s3}. The local leader begs that you organize your newly-trained militia and face them.
-mno_peasants_against_bandits_attack_resist|Prepare for a fight!
+menu_train_peasants_against_bandits_attack|Когда вы готовы продолжить занятия с ополченцами, из деревни с тревожными криками прибегает стражник. На горизонте заметили бандитов, которые быстро скачут в сторону {s3}. Староста деревни умоляет, чтобы вы выступили против бандитов с только что обученными ополченцами.
+mno_peasants_against_bandits_attack_resist|Приготовиться к бою!
 menu_train_peasants_against_bandits_attack_result|{s9}
-menu_train_peasants_against_bandits_success|The bandits are broken! Those few who remain run off with their tails between their legs, terrified of the peasants and their new champion. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find to show their gratitude.
-menu_loot_options|The battle is over. What do you want to do with the loot?
+menu_train_peasants_against_bandits_success|Разбойники повержены! Немногие оставшиеся в живых убегают, поджав хвосты, в ужасе перед крестьянами и их новым защитником. У жителей деревни осталось немного ценного, но они предлагают вам все, что им удается собрать, чтобы выразить свою благодарность.
+menu_loot_options|Битва окончена. Как вы собираетесь поступить с трофеями?
 mno_loot_0|Order to share the loot like it is common.
 mno_loot_1|Lay claim to see all the loot first.
-mno_loot_2|Leave all the loot for your men.
-mno_loot_3|Leave the loot, but use the time to bury the dead.
-menu_landing_point_encounter|Do you wish to disembark?
-mno_disembark_no|No.
-menu_landet_ships_encounter|Do you wish to embark?
-mno_reembark_no|No.
-menu_ferry_encounter|The ferry captain will carry you to the other side for {reg7} penings.
-mno_back|Back.
-menu_port_encounter|You encounter the port of {s2}. {s3}
-mno_attack|Attack.
-mno_merge|Merge the fleets.
-menu_port_encounter_2|You encounter the port of {s2}. You are not welcome in this town.^^{s7}
-mno_coastal_assault|Land the ships and raid the place.
-menu_after_sea_raid|You and your man fight, gather plunder and quickly get back in the ships to leave the place. From the silver and other valuables that are found, you get your share: {reg1} penings' worth.
-menu_sea_raid_defeat|They managed to push you back into the sea.
+mno_loot_2|Отдать все трофеи отряду.
+mno_loot_3|Оставить добычу, но использовать время для сожжения мертвых but use the time to bury the dead.
+menu_landing_point_encounter|Хотите ли вы высадиться?
+mno_disembark_no|Нет.
+menu_landet_ships_encounter|Хотите ли вы взойти на палубу?
+mno_reembark_no|Нет.
+menu_ferry_encounter|Паромный капитан согласен перевезти вас на другой берег за {reg7} шиллингов.
+mno_back|Назад.
+menu_port_encounter|Вы приближаетесь к порту {s2}. {s3}
+mno_attack|Атаковать.
+mno_merge|Объединить флот.
+menu_port_encounter_2|Вы приближаетесь к порту {s2}. Вам не рады в этом городе.^^{s7}
+mno_coastal_assault|Высадиться и совершить налет.
+menu_after_sea_raid|Вы и ваши люди атакуете, собираете добычу и быстро возвращаетесь на корабли. Среди серебра и других ценностей, ваша доля составляет {reg1} шиллингов.
+menu_sea_raid_defeat|Им удалось отбить вашу атаку.
 menu_port_new|Welcome to the port of {s1}. As you wander the streets of the port district, you feel the wind coming from the sea, bringing smells of salt and distant lands. The squawks of gulls and the voices of sailors in several different languages seem to transport you to another world...
-mno_town_port_new|Visit the town port.
-mno_buy_a_ship|Buy or sell a ship.
-mno_reset_town_ships|CHEAT: Give towns new ships.
-mno_spawn_enemy_ship|CHEAT: Spawn Dena pirates next to town.
-mno_sail_from_port|Sail from port.
-mno_go_to_town|Go to town.
-menu_camp_on_sea|You stop your ships in the sea. What do you want to do?^^{s1}
-mno_epic_sea_battle|B. Epic sea battle!
-mno_d_day1|C. D-day! (200 ships)
+mno_town_port_new|Посетить городской порт.
+mno_buy_a_ship|Купить или продать корабль.
+mno_reset_town_ships|CHEAT: добавить кораблей городу.
+mno_spawn_enemy_ship|CHEAT: возродить Dena-пиратов рядом с городом.
+mno_sail_from_port|Отплыть из порта.
+mno_go_to_town|Пойти в город.
+menu_camp_on_sea|Вы останавливаете ваши корабли в море. Что желаете предпринять?^^{s1}
+mno_epic_sea_battle|B. Эпическая морская битва!
+mno_d_day1|C. D-day! (200 кораблей)
 mno_testdrive2|mega sea battle... select enemy 0
-mno_see_ships|Take a look at your ships. (WIP)
-menu_center_reports|Town Name: {s1}^Rent Income: {reg1} penings^Tariff Income: {reg2} penings^Food Stocks: for {reg3} days
-mno_to_price_and_productions|Show prices and production.
-menu_price_and_production|Goods produced are:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}
-menu_town_trade|You head towards the marketplace.
-mno_assess_prices|Assess the local prices.
-mno_trophies|Redeem your battle trophies.
-mno_trade_with_arms_merchant|Trade with the weaponsmith.
-mno_trade_with_armor_merchant|Trade with the armorer.
-mno_trade_with_horse_merchant|Trade with the horse merchant.
-mno_trade_with_goods_merchant|Trade with the goods merchant.
-mno_back_to_town_menu|Head back.
-menu_trophy_premium|The battle trophies are coveted goods. Exchange them for money and experience.
-mno_premium_a|Exchange battle trophy.
-mno_premium_b|Exchange war trophy.
-mno_premium_c|Exchange epic trophy
-menu_town_trade_assessment_begin|You overhear several discussions about the price of trade goods across the local area.^You listen closely, trying to work out the best deals around.
-menu_town_trade_assessment|As the party member with the highest trade skill ({reg2}), {reg3?you try to figure out:{s1} tries to figure out} the best goods to trade in. {s2}
-menu_sneak_into_town_suceeded|Disguised in the garments of a poor pilgrim, you fool the guards and make your way into the town.
-menu_sneak_into_town_caught|As you try to sneak in, one of the guards recognizes you and raises the alarm! You must flee back through the gates before all the guards in the town come down on you!
-mno_sneak_caught_fight|Try to fight your way out!
-mno_sneak_caught_surrender|Surrender.
-menu_sneak_into_town_caught_dispersed_guards|You drive off the guards and cover your trail before running off, easily losing your pursuers in the maze of streets.
-menu_sneak_into_town_caught_ran_away|You make your way back through the gates and quickly retreat to the safety of the countryside.{s11}
-menu_enemy_offer_ransom_for_prisoner|The {s2} offers you a sum of {reg12} penings for {s1}.
-mno_ransom_accept|Accept the offer.
-mno_ransom_reject|Reject the offer.
-menu_training_ground|You approach a training field where you can practice your martial skills. What kind of training do you want to do?
-mno_camp_trainer|Speak with the trainer.
-mno_camp_train_melee|Sparring practice.
-mno_camp_train_archery|Ranged weapon practice.
-mno_camp_train_mounted|Horseback practice.
-menu_training_ground_selection_details_melee_1|How many opponents will you go against?
-mno_camp_train_melee_num_men_1|One.
-mno_camp_train_melee_num_men_2|Two.
-mno_camp_train_melee_num_men_3|Three.
-mno_camp_train_melee_num_men_4|Four.
-menu_training_ground_selection_details_melee_2|Choose your opponent #{reg1}:
-mno_training_ground_selection_details_melee_random|Choose randomly.
-menu_training_ground_selection_details_mounted|What kind of weapon do you want to train with?
-mno_camp_train_mounted_details_1|One-handed weapon.
-mno_camp_train_mounted_details_2|Polearm.
-mno_camp_train_mounted_details_3|Bow.
-mno_camp_train_mounted_details_4|Thrown weapon.
-menu_training_ground_selection_details_ranged_1|What kind of ranged weapon do you want to train with?
-mno_camp_train_ranged_weapon_bow|Bow and arrows.
-mno_camp_train_ranged_weapon_crossbow|Javelins.
-mno_camp_train_ranged_weapon_thrown|Throwing Knives.
-menu_training_ground_selection_details_ranged_2|What range do you want to practice at?
-mno_camp_train_ranged_details_1|10 yards.
-mno_camp_train_ranged_details_2|20 yards.
-mno_camp_train_ranged_details_3|30 yards.
-mno_camp_train_ranged_details_4|40 yards.
-mno_camp_train_ranged_details_5|50 yards.
-mno_camp_train_ranged_details_6|60 yards.
-mno_camp_train_ranged_details_7|70 yards.
+mno_see_ships|Взглянуть на ваши корабли. (WIP)
+menu_center_reports|Название города: {s1}^Доход от земельной ренты: {reg1} шиллингов^Доход от сборов и пошлин: {reg2} шиллингов^Припасов: на {reg3} дней
+mno_to_price_and_productions|Показать производимые товары и цены.
+menu_price_and_production|Перечень производимых товаров:^(Внимание: база/модификатор сырья/измененные материалами и благосостояние)^{s1}^^{s1}^^Факторы, определяющие цену:^{s2}
+menu_town_trade|Вы направляетесь к рыночной площади.
+mno_assess_prices|Узнать здешние цены.
+mno_trophies|Продать трофеи.
+mno_trade_with_arms_merchant|Поговорить с торговцем оружием.
+mno_trade_with_armor_merchant|Поговорить с торговцем доспехами.
+mno_trade_with_horse_merchant|Поговорить с торговцем лошадьми.
+mno_trade_with_goods_merchant|Поговорить с торговцем разным товаром.
+mno_back_to_town_menu|Назад.
+menu_trophy_premium|Боевые трофеи являются уникальным видом товаров, которые можно обменять не только на деньги, но и на опыт.
+mno_premium_a|Обменять боевой трофей
+mno_premium_b|Обменять военный трофей.
+mno_premium_c|Обменять эпический трофей.
+menu_town_trade_assessment_begin|Вам удается услышать разговоры о здешних ценах на товары.^Вы слушаете очень внимательно, чтобы заключить как можно более выгодную сделку.
+menu_town_trade_assessment|Будучи лучшим торговцем в отряде ({reg2} очков навыка), {reg3?вы пытаетесь сообразить:{s1} пытается сообразить}, какими товарами будет выгоднее всего торговать. {s2}
+menu_sneak_into_town_suceeded|Замаскировавшись под бедного паломника, вы обманываете стражу и входите в город.
+menu_sneak_into_town_caught|Когда вы пытаетесь проникнуть внутрь, один из стражников узнает вас и поднимает тревогу! Вам нужно бежать обратно через ворота, пока на вас не набросилась вся городская стража!
+mno_sneak_caught_fight|Попробуем прорваться силой!
+mno_sneak_caught_surrender|Сдаться.
+menu_sneak_into_town_caught_dispersed_guards|Вы обманываете стражей и заметаете следы, прежде чем сбежать, окончательно оторвавшись от преследователей в лабиринте улиц.
+menu_sneak_into_town_caught_ran_away|Вы проходите обратно через ворота и быстро отступаете в безопасные холмы.{s11}
+menu_enemy_offer_ransom_for_prisoner|{s2} предлагает Вам {reg12} динаров серебром, если {s1} будет отпущен на свободу.
+mno_ransom_accept|Принять предложение.
+mno_ransom_reject|Отклонить предложение.
+menu_training_ground|Вы приближаетесь к тренировочной площадке, где можно повысить свои боевые навыки. Чем бы вы хотели позаниматься?
+mno_camp_trainer|Поговорить с тренером.
+mno_camp_train_melee|Пофехтовать.
+mno_camp_train_archery|Поупражняться с оружием дальнего боя.
+mno_camp_train_mounted|Позаниматься верховой ездой.
+menu_training_ground_selection_details_melee_1|Со сколькими противниками вы будете сражаться?
+mno_camp_train_melee_num_men_1|С одним.
+mno_camp_train_melee_num_men_2|С двумя.
+mno_camp_train_melee_num_men_3|С тремя.
+mno_camp_train_melee_num_men_4|С четырьмя.
+menu_training_ground_selection_details_melee_2|Выбрать противника #{reg1}:
+mno_training_ground_selection_details_melee_random|Случайный выбор.
+menu_training_ground_selection_details_mounted|С каким оружием вы хотели бы поупражняться?
+mno_camp_train_mounted_details_1|Одноручное оружие.
+mno_camp_train_mounted_details_2|Древковое оружие.
+mno_camp_train_mounted_details_3|Лук.
+mno_camp_train_mounted_details_4|Метательное оружие.
+menu_training_ground_selection_details_ranged_1|C каким оружием дальнего боя вы хотите поупражняться?
+mno_camp_train_ranged_weapon_bow|Лук и стрелы.
+mno_camp_train_ranged_weapon_crossbow|Метательные копья.
+mno_camp_train_ranged_weapon_thrown|Метательные ножи.
+menu_training_ground_selection_details_ranged_2|C какого расстояния вы хотите вести стрельбу?
+mno_camp_train_ranged_details_1|10 ярдов.
+mno_camp_train_ranged_details_2|20 ярдов.
+mno_camp_train_ranged_details_3|30 ярдов.
+mno_camp_train_ranged_details_4|40 ярдов.
+mno_camp_train_ranged_details_5|50 ярдов.
+mno_camp_train_ranged_details_6|60 ярдов.
+mno_camp_train_ranged_details_7|70 ярдов.
 menu_training_ground_description|{s0}
 menu_training_ground_training_result|{s7}{s2}
-menu_marshal_selection_candidate_ask|{s15} will soon select a new marshal for the {s23}. Some of the lords have suggested your name as a likely candidate.
-mno_marshal_candidate_accept|Let {s15} know that you are willing to serve as marshal.
-mno_marshal_candidate_reject|Tell everyone that you are too busy these days.
-menu_captivity_avoid_wilderness|Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have left you for dead and left you there. However, it seems that none of your wound were lethal, and although you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party.
+menu_marshal_selection_candidate_ask|{s15} скоро изберет нового маршала для {s23}. Некоторые из лордов предложили вашу кандидатуру.
+mno_marshal_candidate_accept|Уведомить {s15} о намерении стать маршалом.
+mno_marshal_candidate_reject|Сообщить, что у вас нет времени.
+menu_captivity_avoid_wilderness|Вдруг всё вокруг потемнело. Много часов спустя вы приходите в сознание и понимаете что лежите там где и упали. Должно быть ваши враги оставили вас там умирать. Однако, ни одна из ваших ран не была смертельной, хоть вы и чувствуете себя ужасно, но все-таки можете идти самостоятельно. Вы встаете и осматриваетесь, ища выживших из вашего отряда.
 menu_captivity_start_wilderness|Stub
 menu_captivity_start_wilderness_surrender|Stub
-menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.
+menu_captivity_start_wilderness_defeat|Ваши враги берут вас в плен.
 menu_captivity_start_castle_surrender|Stub
 menu_captivity_start_castle_defeat|Stub
-menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.
+menu_captivity_start_under_siege_defeat|Ваши враги берут вас в плен.
 menu_captivity_wilderness_taken_prisoner|{s2}
-mno_continue1|Continue...
+mno_continue1|Продолжить...
 menu_captivity_wilderness_check|stub
-menu_captivity_end_wilderness_escape|After painful days of being dragged about as a prisoner, you find a chance and escape from your captors!
-menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must wait away the miserable days of your captivity.
-menu_captivity_rescue_lord_taken_prisoner|You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...
+menu_captivity_end_wilderness_escape|После долгих и тяжких дней заключения вы сбегаете из плена!
+menu_captivity_castle_taken_prisoner|Стража окружает вас и отбирает оружие. С проклятиями и обвинениями они бросают вас в темницу, где вам придется коротать печальные дни заточения.
+menu_captivity_rescue_lord_taken_prisoner|Вы не раскрываете себя, пока возможно. Стражники вне себя от ярости, они жестоко избивают вас, прежде чем бросить вас снова в камеру бог знает на сколько...|You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...
 menu_captivity_castle_check|stub
-menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you for another prisoner.
-menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} penings of your hidden wealth. You decide to...
-mno_captivity_end_ransom_accept|Accept the offer.
-mno_captivity_end_ransom_deny|Refuse him and wait for something better.
-menu_captivity_castle_remain|More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more...
-menu_kingdom_army_quest_report_to_army|{s8} sends word that he wishes you to join {reg4?her:his} new military campaign. You need to bring at least {reg13} troops to the army, and are instructed to raise more men with all due haste if you do not have enough.
-menu_kingdom_army_quest_messenger|{s8} sends word that he wishes to speak with you about a task he needs performed. He requests you to come and see him as soon as possible.
-menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs.
-menu_kingdom_army_follow_failed|You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support.
-menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
-mno_faction_accept|Accept!
-mno_faction_reject|Decline the invitation.
-menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of the {s9} has sent a royal herald to bring you an invitation in his own hand. You would be granted the honour of becoming a vassal {reg59?lady:lord} of the {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, offering you the fief of {s2} for your loyal service. He will surely be offended if you do not take the offer...
-menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find him and give him your oath in person. {s5}
-menu_question_peace_offer|Truce^^The {s1} offers you a peace agreement. What is your answer?
-mno_peace_offer_accept|Accept
-mno_peace_offer_reject|Reject
-menu_notification_truce_expired|Truce Has Expired^^The truce between the {s1} and the {s2} has expired.
+menu_captivity_end_exchanged_with_prisoner|После долгих дней заключения вас наконец освобождают: ваши тюремщики обменяли вас на другого пленника.
+menu_captivity_end_propose_ransom|Вы проводите долгие часы во влажном сумраке подземелья - кажется, вы пробыли там целую вечность. Внезапно один из ваших пленителей входит в камеру с предложением: он готов освободить вас за {reg5} динаров из ваших тайных сбережений. Вы решаете...
+mno_captivity_end_ransom_accept|Принять предложение.
+mno_captivity_end_ransom_deny|Отказаться и подождать чего-нибудь получше.
+menu_captivity_castle_remain|Дни все идут и идут в вашей мрачной камере. Вы держитесь как можете, терпите ежедневные тычки и проклятия стражников, видите, как от недоедания ваше тело становится все более немощным...
+menu_kingdom_army_quest_report_to_army|{s8} послал сообщение, что хочет, чтобы вы присоединились к его новой военной кампании. Вы должны привести с собой минимум {reg13} воинов. Если у вас нет такого войска, вы должны срочно набрать новых людей.
+menu_kingdom_army_quest_messenger|{s8} послал сообщение, что хочет поговорить с вами об одной проблеме, которая должна быть решена. Он просит вас прибыть к нему как можно скорее.
+menu_kingdom_army_quest_join_siege_order|{s8} послал сообщение, что вы должны присоединиться к осаде {s9} и готовиться к полномасштабному штурму. Ваши войска обязаны взять {s9} любой ценой.
+menu_kingdom_army_follow_failed|Вы не подчинились приказам и не последовали за {s8}. В гневе он уволил вас из армии и строго предостерег вас, что подобные действия не забываются.
+menu_invite_player_to_faction_without_center|Вам предлагают стать вассалом!^^ {s8} из {s9} прислал к вам королевского герольда с персональным приглашением. Вам может быть оказана честь стать вассалом {повелителя/повелительницы} {s9}, а взамен {s8} просит вас принести клятву верности и сражаться в его военных походах. Впрочем, ни земли, ни титулов он не предлагает. Отказ может быть воспринят им как оскорбление...
+mno_faction_accept|Принять!
+mno_faction_reject|Отклонить приглашение.
+menu_invite_player_to_faction|Вам предлагают стать вассалом!^^ {s8} из {s9} прислал к вам королевского герольда с персональным приглашением. Вам может быть оказана честь стать вассалом {повелителя/повелительницы} {s9}, а взамен {s8} просит вас принести клятву верности и участвовать в военных походах. За вашу верную службу вам во владение предлагается {s2}. Отказ от такого предложения может быть воспринят как оскорбление...
+menu_invite_player_to_faction_accepted|Чтобы стать вассалом {s3}, нужно поклясться ему в верности. Вам нужно найти его и принести клятву лично. {s5}
+menu_question_peace_offer|Вам предложен мир^^{s1} предлагает вам заключить мирное соглашение. Каков будет ваш ответ?
+mno_peace_offer_accept|Принять.
+mno_peace_offer_reject|Отклонить.
+menu_notification_truce_expired|Время перемирия истекло^^Перемирие между {s1} и {s2} подошло к концу.
 menu_notification_feast_quest_expired|{s10}
-menu_notification_sortie_possible|Enemy Sighted: Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.
-menu_notification_casus_belli_expired|Kingdom Fails to Respond^^The {s1} has not responded to the {s2}'s provocations, and {s3} suffers a loss of face among {reg4?her:his} more bellicose subjects...^
-menu_notification_lord_defects|Defection: {s4} has abandoned the {s5} and joined the {s7}, taking {reg4?her:his} his fiefs with him
-menu_notification_treason_indictment|Treason Indictment^^{s9}
-menu_notification_border_incident|Border incident^^Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among the people of the {s4}, making it easier for them to go to war against the {s3}...
-menu_notification_player_faction_active|You now possess land in your name, without being tied to any kingdom. This makes you a monarch in your own right, with your court temporarily located at {s12}. However, the other kings in The Northlands will at first consider you a threat, for if any upstart warlord can grab a throne, then their own legitimacy is called into question.^^You may find it desirable at this time to pledge yourself to an existing kingdom. If you want to continue as a sovereign monarch, then your first priority should be to establish an independent right to rule. You can establish your right to rule through several means -- marrying into a high-born family, recruiting new lords, governing your lands, treating with other kings, or dispatching your companions on missions.^^At any rate, your first step should be to appoint a chief minister from among your companions, to handle affairs of state. Different companions have different capabilities.^You may appoint new ministers from time to time. You may also change the location of your court, by speaking to the minister.
-mno_appoint_spouse|Appoint your wife, {s10}...
-mno_appoint_npc1|Appoint {s10}
-mno_appoint_npc2|Appoint {s10}
-mno_appoint_npc3|Appoint {s10}
-mno_appoint_npc4|Appoint {s10}
-mno_appoint_npc5|Appoint {s10}
-mno_appoint_npc6|Appoint {s10}
-mno_appoint_npc7|Appoint {s10}
-mno_appoint_npc8|Appoint {s10}
-mno_appoint_npc9|Appoint {s10}
-mno_appoint_npc10|Appoint {s10}
-mno_appoint_npc11|Appoint {s10}
-mno_appoint_npc12|Appoint {s10}
-mno_appoint_npc13|Appoint {s10}
-mno_appoint_npc14|Appoint {s10}
-mno_appoint_npc15|Appoint {s10}
-mno_appoint_npc16|Appoint {s10}
-mno_appoint_default|Appoint a prominent citizen from the area...
+menu_notification_sortie_possible|Замечен враг: недалеко от стен {s4} замечены войска противника. {s5} и другие защитники готовятся к вылазке. Вы можете к ним присоединиться.
+menu_notification_casus_belli_expired|Королевство не приняло ответных мер^^Держава {s1} не отреагировала на провокации {s2}, что пошатнуло репутацию {s3} в глазах {reg4?ее:его} более воинственных подданных...^
+menu_notification_lord_defects|Измена: {s4} покинул {s5} и присоединился к {s7}, забрав {reg4?ее:его} владения с собой.
+menu_notification_treason_indictment|Обвинение в измене^^{s9}
+menu_notification_border_incident|Стычка на границе^^Вы узнали, что {s9}. Однако не зная правдивы ли слухи или нет, вы точно знаете что этот довольно малый инцидент сподвигнул людей из {s4} пойти на войну против {s3}...
+menu_notification_player_faction_active|Теперь вы владеете землей от собственного имени, и не связаны ни с одним государством. Это означает, что вы суверенный монарх, а ваш двор временно располагается в {s12}. Остальные правители Северных Земель сначала будут рассматривать вас как угрозу, если выскочке вроде вас удалось захватить трон, это ставит под вопрос всю феодальную систему.^^Возможно, сейчас вам будет проще попросить уже существующее королевство стать вашим сюзереном. Если же вы решите сохранить суверенность, первое, что вы должны сделать - это подтвердить ваше право на трон. Это можно сделать несколькими способами: заключив брак с благородным семейством, приняв на службу дворян и раздав им земли или заключив договоры с другими монархами.^^В любом случае, сначала назначьте кого-то из вашей команды главным советником - именно на него лягут заботы о делах государства, он же сможет в случае необходимости переместить ваш двор. Умения и таланты всех членов команды различны, помните об этом.^Время от времени вы можете назначать новых советников.
+mno_appoint_spouse|Назначить вашу жену {s10}...
+mno_appoint_npc1|Назначить {s10}
+mno_appoint_npc2|Назначить {s10}
+mno_appoint_npc3|Назначить {s10}
+mno_appoint_npc4|Назначить {s10}
+mno_appoint_npc5|Назначить {s10}
+mno_appoint_npc6|Назначить {s10}
+mno_appoint_npc7|Назначить {s10}
+mno_appoint_npc8|Назначить {s10}
+mno_appoint_npc9|Назначить {s10}
+mno_appoint_npc10|Назначить {s10}
+mno_appoint_npc11|Назначить {s10}
+mno_appoint_npc12|Назначить {s10}
+mno_appoint_npc13|Назначить {s10}
+mno_appoint_npc14|Назначить {s10}
+mno_appoint_npc15|Назначить {s10}
+mno_appoint_npc16|Назначить {s10}
+mno_appoint_default|Назначить почтенного местного жителя...
 menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult your minister periodically, to avoid the accumulation of unresolved issues that may sap your authority...
 menu_notification_court_lost|{s12}
 menu_notification_player_faction_deactive|Your kingdom no longer holds any land.
