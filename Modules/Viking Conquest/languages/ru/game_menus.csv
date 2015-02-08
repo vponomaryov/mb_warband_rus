@@ -631,7 +631,7 @@ mno_offer_reject|Отклонить
 menu_notification_faction_defeated|Фракция уничтожена^^{s1} больше не существует!
 menu_notification_rebels_switched_to_faction|Успешный бунт^^Ваш мятеж окончился победой! Теперь ваша фракция - единственный претендент на титул {s11}, а {s12} - единственный законный правитель.
 menu_notification_player_should_consult|Ваш советник пишет, что в оставленных без присмотра землях начинается брожение умов. Коли так пойдет и дальше, вы можете потерять авторитет. Постарайтесь встретиться с советником при первой же возможности.
-menu_banquete_moral|Прикажите своим людям отложить оружие на время и пригласите их на банкет в Великий Зал, сесть за стол вместе с вами. Где самые доверенные лица будут сидеть ближе всего к вам.^ Служанки подносят блюда в больших количествах. Вы потратили много денег на банкет, ибо вы считаете что ваши люди заслужили это.^ Они те, кто бок о бок сражается с вами, кто помог вам завоевать ваши текущие владения. Они ваши судьбоносные последователи.^ Вечер продолжался... Люди кутят, пьют и поют песни. Некоторым плохеет и другие дерутся как петухи для привлечения внимания девушек.^ Позади вас бард воспевает ваши великие свершения. Вы чувствуете себя лордом, вы и есть лорд... 'пастх людского стада.'
+menu_banquete_moral|Прикажите своим людям отложить оружие на время и пригласите их на банкет в Великий Зал, сесть за стол вместе с вами. Где самые доверенные лица будут сидеть ближе всего к вам.^ Служанки подносят блюда в больших количествах. Вы потратили много денег на банкет, ибо вы считаете что ваши люди заслужили это.^ Они те, кто бок о бок сражается с вами, кто помог вам завоевать ваши текущие владения. Они ваши судьбоносные последователи.^ Вечер продолжался... Люди кутят, пьют и поют песни. Некоторым плохеет и другие дерутся как петухи для привлечения внимания девушек.^ Позади вас бард воспевает ваши великие свершения. Вы чувствуете себя лордом, вы и есть лорд... 'пастух людского стада.'
 mno_banquete_ok|Вы пьете без меры, смеетесь и шумите как и другие.
 mno_banquete_ok2|Вы не пьете много, только дегустируете, не более чем достаточно.
 menu_comprar_cattle2|Есть {reg5} голов скота, каждая по {reg6} шиллингов. Сколько вы желаете купить?
@@ -783,9 +783,9 @@ mno_talk_to_siegemen|Поговорить с ними.
 menu_primer_barco|Вы обзавелись своим первым кораблём. Иметь корабль еще не значит запросто пересечь море. Это способствует обогащению, если участвовать в торговле на морских путях. Если вы будете совершать налёты на прибрежные поселения, то это сделает вас пугающим человеком. Вы прослывёте завоевателем, если будете захватывать далёкие земли. Северяне даже говорят, что это даже позволит вам обрести жизнь после смерти.^^Однако, путешествие на корабле также может быть опасным. Море будто огромная открытая могила под корпусом корабля, которая ожидает вас и ваших людей. Зимние штормы будут повреждать ваши корабли, но спокойная погода не особо лучше, ибо вашим людям надо будет грести. Чтобы избежать убытков на содержании команды, можно останавливаться на отдых на берегах на ночь.^^Корабль также является оцень ценной вещью. Владельцу всегда следует не спускать глаз с него.^^Возвращайтесь сюда, когда решите что пришло время отчаливать...
 menu_lugar_destruido|{s4}.
 mno_lugar_des|Выдвигаться.
-menu_banquete_moral_refuge|Order your men to leave their weapons outside and invite them to your great hall, to sit at your table by rank. The nearest and dearest sit closest to you. Some girls serve meat and mead in large quantities.^^You've spent a small fortune on this feast because your men deserve it. They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^^The evening progresses. Many men are as drunk as vats. They shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl. Behind you, a bard sings of your power and deeds.^^You act like a warlord. You are a warlord... a 'shepherd of men.'
+menu_banquete_moral_refuge|Прикажите своим людям отложить оружие на время и пригласите их на банкет в Великий Зал, сесть за стол вместе с вами. Где самые доверенные лица будут сидеть ближе всего к вам.^ Служанки подносят блюда в больших количествах. Вы потратили много денег на банкет, ибо вы считаете что ваши люди заслужили это.^ Они те, кто бок о бок сражается с вами, кто помог вам завоевать ваши текущие владения. Они ваши судьбоносные последователи.^ Вечер продолжался... Люди кутят, пьют и поют песни. Некоторым плохеет и другие дерутся как петухи для привлечения внимания девушек.^ Позади вас бард воспевает ваши великие свершения. Вы чувствуете себя лордом, вы и есть лорд... 'пастух людского стада.'
 mno_banquete_ok3|Вы созываете ваших людей и раздаёте им кольца и браслеты (2000 шиллингов).
-menu_player_lair_menus|{s10} Your very own refuge, a hidden retreat free from enemies, where you can hide when things go badly, rest from your travels, or save your most personal of treasures.^^{s11}^^{s13}
+menu_player_lair_menus|{s10} ваше собственное убежище, скрытое убежите свободное от врагов, тут вы можете спрятаться когда дела идут плохо, отдохнуть от путешествий, и сохранить самые ценные вещи.^^{s11}^^{s13}
 mno_banquete_refugemead|Мои люди заслужили банкет.
 mno_guarida_rename|Переименовать ваше убежище.
 mno_lair_interior|Направится в хол убежища.
@@ -811,45 +811,45 @@ menu_conversacion_companions2|После привала, ваши компань
 mno_talk_to_companions2|Выслушать их.
 menu_conversacion_companionsbodo_choice|После привала, ваши компаньоны подошли к вам, с Бодо во главе. Он хочет что-то сказать.
 mno_talk_to_bodochoice|Выслушать Бодо.
-menu_caio_entry|Вас уведомили, что пришел один человек, чтобы встретиться с вами. Это долговязый парень, выглядящий радостно. Определенно, это сын старого Римлянина.
+menu_caio_entry|Вас уведомили, что пришел человек, чтобы встретиться с вами. Это долговязый парень, выглядящий радостно. Определенно, это сын старого Римлянина.
 mno_talk_to_caio|Продолжить.
-menu_egil_conversacion|Your men have notified you that someone is coming towards you. It is a single figure, who advances without hiding and with full confidence. He is a tall man, robust and of proud bearing. When he arrives before your men, he shows open hands, so all can see that he is not armed. He seeks you with his eyes and walks towards you. One of your men stops him with his spear...
-mno_talk_to_egil|Continue.
-menu_aghatinos_conversacion|On one side of the road, a man is awaiting sitting on a big rock. He is thin, tall, and is dressed in poor clothing. He seems harmless enough. Calmly, the stranger waits until you come close to him. His eyes are searching through the faces of your men until they stop on you, then he gets up and walks to you.
-mno_talk_to_aghatinos|Talk to him.
-menu_egil_rebelion|It seems that something is wrong. You hear screaming and see that Egil is heading your way.
-mno_talk_to_egilreb|Listen to Egil.
-menu_egil_rebelion2|Egil's body lies at your feet, delivered to eternal sleep. Some of your followers take his body away for burial. Egil was a beloved member of your party, and his death weighs heavily among your warriors.
-mno_permitir1|Join the men who bury Egil and pay the costs of his burial.
-mno_permitir2|Allow them to bury Egil.
-menu_egil_duel|Egil moves toward you. The men close around the two of you. It's you or him...
-mno_fight_egilreb|Fight.
+menu_egil_conversacion|Вас уведомили, что пришел человек, чтобы встретиться с вами. Это одинокая фигура, которая приближается не скрываясь и с полной уверенностью. Это высокий, крепкий с хорошей осанкой человек. Приблизившись к охране, он показывает пустые руки, чтобы все видели что он невооружен. Он выглядывает вас и потом направляется в вашу сторону. Один и ваших людей преграждает ему путь копьём...
+mno_talk_to_egil|Продолжить.
+menu_aghatinos_conversacion|На обочине дороги сидит человек на камне в ожидании. Он худощавый, высокий и одет бедно. Он выглядит достаточно безобидно. Он спокойно ожидает, когда вы приблизитесь к нему. Его глаза бегают по лицам ваших людей пока не находят вас, после чего он встаёт и направляется к вам.
+mno_talk_to_aghatinos|Поговорить с ним.
+menu_egil_rebelion|Кажется что-то не так. Вы слышите крики и видите Эгила направляющегося в вашу сторону.
+mno_talk_to_egilreb|Выслушать Эгила.
+menu_egil_rebelion2|Тело Эгила лежит у ваших ног, навечно уснувшее. Ваши люди забирают его тело, чтобы похоронить. Эгил был уважаемым членом вашего отряда, и его смерть отразилаь грустью на лицах ваших воинов.
+mno_permitir1|Присоединиться к погребению Эгила и отдать почести усопшему.
+mno_permitir2|Разрешить им похоронить Эгила.
+menu_egil_duel|Эгил направляется к вам. Вокруг вас двоих живая стена из людей. Отсюда выйдет кто-то один, либо вы, либо он...
+mno_fight_egilreb|Сражаться.
 menu_backfrom_frankia|{s4}
-mno_choice_01_1frankia|Continue
-menu_cueva_odin|The smell of the sea is pervasive in this area, and the rumble of the waves crash against the cliffs resonates in your head like thunder. There is a path, very narrow at the end of a beach, where you distinguish traces of men. It is a difficult way that you can only follow on your own, so you order your people to wait behind while you investigate.
-mno_choice_doccingas|I need to recruit more men.
-menu_orm_duel|You move from the farm to a clearing, where Ulf's thralls are preparing a ritual circle of stones that mark the boundary of the dueling area. Around you, all the men from the farm and your men form another circle to cheer you on.^^In front of you, Orm The Black warms his oversized muscles. He seems confident. Perhaps, given his spotless record of wins, he can't be said to be too confident. Your companions give you pats on the back, advice and wishes for good luck. All but Reginhard, who is pessimistic and says he will record the runes on your gravestone. Suddenly, Egil points toward Orm. The berserker has ceased to warm up his muscles. His body convulses uncontrollably, and his mouth foams white. Suddenly, he lifts his head and, looking at you with bloodshot eyes, shouts something unintelligible. He launches himself towards you like a viper, much more quickly than one would expect from such a large man...
-mno_duel_orm|Jump to the fray.
-menu_orm_duel_win|Orm the Black's corpse lies at your feet. Your arms are sore from blocking the brutality of his attacks, and your mind keeps replaying the more desperate moments of the duel. You wonder at the fury of Orm and his apparent immunity to pain. There's no doubt you're lucky, for you have just survived a fight with a berserker!
-menu_viking_duel_win|The duel is over, and you have defeated {s1}. The skalds will talk about your victory, and the fame of your feat will spread by the word of mouth.
-menu_viking_duel_lose|{s1} was an opponent too skilled for you. You have been defeated. While {s1}'s fame will grow from the victory, thanks to the songs of the skalds, men will remember your name only as that of the beaten.
+mno_choice_01_1frankia|Продолжить
+menu_cueva_odin|Повсюду запах моря, и звуки волн, ударяющихся о скалы резонируют в вашей голове как гром. На краю пляжа есть очень узкая дорожка, там виднеются следы людей. Это очень узкое место, здесь получиться пройти только одному, вы приказываете вашим людям ожидать вас пока вы исследуете то место.
+mno_choice_doccingas|Нужно нанять больше людей.
+menu_orm_duel|Вы идёте с фермы на поляну, где рабы Ульфа готовят ритуальный круг из камней, который окаймляют границы дуэльного круга. Вокруг вас находятся люди с фермы и ваши бойцы, они формируют собой еще один круг, чтобы подбодрить вас.^^Перед вами воин, его имя Орм Черный, он спокойно разминается и выглядит достаточно самоуверенным. Пожалуй, учитывая его незапятнанный список побед, не выглядит таким уж самоуверенным. Ваши компаньоны похлопывают вас по спине, желая вам удачи. Все, кроме Регинхарда, он выглядит достаточно хмуро и говорит что выгравирует ваше имя на надгромном камне. Вдруг, Эгил выходит вперёд перед Ормом. Берсерк прекратил свою разминку. Его тело бьётся в конвульсиях, и у его рта появляется белая пена. Вдруг, он поднимает свою голову и, смотря на вас кровожадными глазами, выкрикивает что-то крайне непристойное. Он резко устремляется в вашу сторону как гадюка, гораздо быстрее, чем можно было бы ожидать от такого крупного человека...
+mno_duel_orm|Принять участие в драке.
+menu_orm_duel_win|Тело Орма черного лежит у ваших ног. Ваши руки болят от блокирования его мощных ударов, и ваш ум продолжает воспроизводить самые отчаянные моменты дуэли. Вы диву даётесь уровню ярости Орма и очевидной невосприимчивости к боли. Нет никаких сомнений что вам повезло, вы выжили в битве с берсерком!
+menu_viking_duel_win|Дуэль окончена, и вы победили {s1}. Поэты будут говорить о вашей победе, и слава вашего подвига распространится устами.
+menu_viking_duel_lose|{s1} оказался слишком сильным для вас. Вы потерпели поражение. Имя {s1} будет прославляться, как имя победителя, а ваше как одно из тех множества, кто потерпел поражение.
 menu_duel_troop_rebelion|{s4}
-mno_duel_rebelion|Accept the challenge.
-menu_duel_rebelion_win|The duel is over. Your enemy lies on the ground, defeated by your skill with weapons. You hope that this serves as a warning to other potential rivals. Now your mission is to restore confidence and improve your army's morale.
-menu_thething_messenger|A messenger approaches, beating his horse. He stops in front of you, takes a breath and shouts,^^'My King, Horik of Danmark, invites you to The Assembly being held near Ribe. Since it is going to be about your complaint with Sven Bull Neck and Sigurd Ragnarsson, you must go soon, or the judgement of The Assembly will go against you.'^^The messenger then kicks his mount and rides away.
-mno_choice_01_1thing|Continue
-menu_the_holmgang|A group of heavily armed men approach you. They are led by Harald Haraldsson, king's right hand, who reminds you of your promise at The Assembly. It is the hour of the holmgang and your opponent is already on Short Island. They surround your party and lead you to a nearby beach, where a gaunt old man waits in a small boat. You get in the boat, and two of Harald's men push it into the water. The old man, without a word to you, begins paddling toward an island on the horizon.
-mno_choice_01_1duel|Continue.
-menu_the_holmgang2|The water is gentle. The only sound you hear is that of the oars on the water, striking in a slow and deliberate rhythm. The old man is not so old, but wrinkles of a hard life at sea make him look like an elder. He wears a worn and salt-bleached tunic, and the skin of his hands look like hard leather. His eyes are blue and crystal clear and do not look directly at you even for a moment, but remain focused on the island. Up ahead awaits an opponent who once was a companion. The Assembly has decided that two go to Short Island, but only one return. The boat stops near a small beach, and after you get off, the old man paddles it a few tens of meters back into the ocean, where he stops and waits.
-mno_choice_01_2duel|Duel.
-menu_the_holmgang3|'Two went to the island, but only one returns.'^^You have been victorious, but at the cost of killing an old companion. In your mind, you remember the phrase that you heard so often from Reginhard: Gaed a wyrd swa hio scel!, Fate always goes as she must!^^The old man takes the boat back to where your warriors await in Danmark. When you arrive, they pick up their things and say nothing, aware of the gravity of the moment. Soon they are ready to go. Harald and his men have already left. It's time to look for The Assembly judge called Asbjorn in the mead hall of Ribe.
-menu_the_thing|In a setting reminiscent of times past, when men lifted huge rocks to venerate their dead or glorify their gods, meets The Assembly. As you approach, you hear more clearly hundreds of voices, distinguish the tents, and smell the food from the merchant stands. The Assembly, or The Thing, is not just a meeting where issues are discussed and judgements are made but also an event where people around go to exchange news or sell their products.
-mno_enter_thing|Approach.
-mno_encounter_leavethething|Leave.
-menu_partida_ribe_fleet|Finally, after you prepared yourself carefully for the long journey, the fleet rows out of Ribe, leaving Danmark behind to follow the Whale Route.
-menu_partida_ribe_fleet2|By now the differences between Sven Bull Neck, protected by Jarl Sigurd, and Harald Haraldsson, protected by King Horik, are so clear that the fleet progresses divided in two, depending on who supports which commander.^^But it's not the time for worry. The sea brings wind and the freedom of the waves, and your ship is heading for Englaland where rivers carry silver and men get fame. And now you're closer than ever to Sven Bull Neck. You just wait for your chance to kill him and rescue your mother... Fate always rewards the patient.
-menu_sven_attack_fleet|The journey from Ribe to Eoferwic or, as the Danish call it, Jorvik is three days with good weather, but with the slower knorrs, the trip will take a day or two more. The ships have spread out, but this is usual. When traveling with sail, the winds govern at will. The ships will reunite at their destination.^^A long trip like this requires a routine. Men take turns in the work of the boat, even at night, because the fleet never stops offshore. The smell of the crowded men is horrible, the water you drink and food you eat taste terrible, and it is always uncomfortable having to peer over the stern when you want to relieve yourself.^^Eventually, the rift between Harald and Sven becomes open. Each now meets separately with the captains who are faithful to him. Each part of the fleet proceeds separately. Harald has called you and the other captains to his boat for an emergency meeting. Apparently, one of the captains faithful to Sven Bull Neck has changed his allegiance to Harald and brings news.^^You look forward to the meeting as well. Maybe there is finally news of your mother.
-mno_choice_mettingcap|Captains' meeting.
+mno_duel_rebelion|Принять вызов.
+menu_duel_rebelion_win|Дуэль окончена. Ваш враг лежит на зелме бездыханный, пораженный вашим мечом. Вы надеетесь, что это послужит предупреждением другим потенциальным соперникам. Тепрь ваша задача заключается в восстановлении доверия и поднятии боевого духа своей армии.
+menu_thething_messenger|К вам приближается посыльный, пришпоривая свою лошадь. Он останавливается перед вами, переводит дыхание и кричит,^^'Мой король, Хорик из Дании, приглашает вас на Ассамблею, которая будет проходить около Райба. Т.к. речь пойдёт о вашем противостоянии со Свеном Бычьей Шеей и Зигурдом Рагнарсоном, вам следует поторопиться, или решение ассамблеи может быть принято не в вашу пользу.'^^Посыльный седлает своего коня и ускакивает прочь.
+mno_choice_01_1thing|Продолжить
+menu_the_holmgang|Группа тяжело вооруженных людей приближается к вам. Их возглавляет Гарольд Гарольдсон, правая рука короля, который, своим видом, напоминает вам данное вами обещание на Ассамблее. Время поединка и ваш оппонент уже на Коротком Острове. Они окружают ваш отряд и ведут вас на ближайший берег, где ожидает тощий старик в маленькой лодке. Вы забираетесь в лодку, и два человека Гарольда отталкивают лодку от берега. Старик, ни говоря ни слова, начиная грести по направлению к острову у горизонта.
+mno_choice_01_1duel|Продолжить.
+menu_the_holmgang2|Вода спокойная. Единственный звук, который вам слышен, это всплески вёсел по воде, плюхающие по воде в медленном ритме. Старик не так уж и стар, но морщины тяжелой жизни в море состарили его. Он одет в просоленую морской водой тюнику, кожа на его руках выглядит очень жесткой. Его глаза голубого цвета, они ни разу не взглянули на вас даже на мгновение, но продолжают быть сфокусированными на острове. Впереди ожидает оппонент, который когда-то был вашим компаньоном. Ассамлея решила, что на Короткий остров отправится два человека и вернётся только один. Лодка останавливается у маленького пляжа, и как только вы сходите с лодки, старик сразу отплывает обратно в море, где он останавливается на некотором расстоянии и ждёт.
+mno_choice_01_2duel|Дуэль.
+menu_the_holmgang3|'Двое отправились на остров, но только один вернётся.'^^Вы победили, но ценой убийства старого компаньона. В голове всплывает фраза так часто слышимая от Регинхарда: Gaed a wyrd swa hio scel!, Судьба всегда свершается так как задуманно!^^Старик гребёт обратно, туда, где находится ваше войско. Когда вы прибываете, они, ничего не говоря, собирают вещи, понимая всю серьёзность ситуации. Вскоре они готовы к пути. Гарольд только что ушли. Самое время навестить судью Ассамблеи - Асбьёрна в Райбе.
+menu_the_thing|Ассамблея напоминает былые времена, когда люди воздвигали камни для почтения усопших и прославления своих богов. С каждым шагом вы слышите всё больше голосов, вдыхаете запах еды с прилавков торговцев. Ассамблея, или Вещь, это не просто встреча, где обсуждаются проблемы и выносятся решения, это также событие, на которое стекаются многие люди ради торговли и обмена новостями.
+mno_enter_thing|Приблизиться.
+mno_encounter_leavethething|Уйти.
+menu_partida_ribe_fleet|Наконец-то, после тщательных преготовлений в долгий путь, флот отплывает из Райба, оставляя Данию позади следую Китовым Маршрутом.
+menu_partida_ribe_fleet2|Теперь разница между Свеном Бычьей Шеей, под покровительством Ярла Зигурда, и Гарольда Гарольдсона, под покровительством короля Хорика, настолько ясна, что флот продолжает разделяться на две части, в зависимости от того, какой из командиров поддерживается.^^Но не время для беспокойства. Море приносит ветер и свободу волн, ваш корабль направляется в Англию, где по рекам плавает серебро и люди прославляются. И сейчас вы близко к Свену Бычьей Шее как никогда. Вы просто ожидаете того момента, когда прикончите его и спасёте вашу мать... Судьба всегда награждает терпеливых.
+menu_sven_attack_fleet|Путешествие из Райба в Эофервик, или как датчане называют его, Йорвик в трёх днях пути при хорошей погоде, но с медленными торговыми суднами, называемыми "knorr"ами, путь займёт на день или два больше времени. Корабли растянулись, но это обычное дело. Ветра надувают паруса кораблей по-разному. Корабли воссоединяться в пункте назначения.^^Длительное путешествие требует наличие распорядка. Люди сменяют друг друга в гребле, даже по ночам, потому что флот никогда не останавливается в море. Запах людей в толпе ужасен, вода которые вы пьёте и еда которую едите на вкус ужасны, и нету места где можно было бы побыть одному.^^В конце концов, путь между Гаральдом и Свеном открыт. Каждый теперь отдельно беседует с верными ему капитанами. Оба флота продвигаются раздельно. Гарольд позвал вас и других капитанов на свою лодку на срочное собрание. По-видимому, один из капитанов, который некогда был верен Свену Бычьей Шее изменил свою позицию, и перешел на сторону Гарольда и у него есть новости.^^Вы с нетерпением ждёте встречи. Может быть наконец-то появятся новости о вашей матери.
+mno_choice_mettingcap|Отправить на встречу капитанов.
 menu_playerflee_svenattack|Behind you fades the battle, the pitiful cries of the wounded, and the clash of swords. You leave behind Harald Haraldsson's army while Sven Bull Neck's men massacre them. Your mission now is go to Englaland to find Rathbarth Ragnarsson to tell him what happened and how Sven Bull Neck betrayed the king's men.
 mno_choice_flee1|Flee.
 menu_way_to_douaranenez|You gather the fleet and immediately the sailors cast off the boats and pull the halyards to raise the sails. The cloth is stirred, moved by the morning breeze, and the ships begin to move while the captains shout orders to the crew, which start to row. Moved by sail and oars, the fleet leaves the harbor to sail in open water.
@@ -1232,21 +1232,21 @@ menu_event_17_normal|A group of bandits approaches your camp. As your men reach 
 mno_choice_26_1|Of course! My party always welcomes bloodthirsty men!
 mno_choice_26_2|I'm sorry, we have no room for your kind!
 mno_choice_26_3|Prove yourselves worthy by raiding a village and bringing me the chief's head!
-mno_choice_26_4|Kill them all!
-menu_event_18_normal|You come across the grave of an old forgotten warlord.
-mno_choice_32_1|Rifle it for loot!
-mno_choice_32_2|Leave the place.
-mno_choice_32_3|Tend to the grave and pay your respects.
-menu_event_19_normal|You come across unguarded cattle from a nearby village
-mno_choice_36_1|Return the animals to the village and ask for no reward.
-mno_choice_36_2|I will return the animals -- and demand a reward.
-mno_choice_36_3|Dinner! Round up and slaughter the animals.
+mno_choice_26_4|Убить их всех!
+menu_event_18_normal|Вы проходите мимо могилы старого и забытого полководца.
+mno_choice_32_1|Разграбить!
+mno_choice_32_2|Покинуть это место.
+mno_choice_32_3|Отдать почести у могилы.
+menu_event_19_normal|Вы проходите стадо ни кем не охраняемое возле ближайшей деревни
+mno_choice_36_1|Вернуть животных в деревню и не просить награды.
+mno_choice_36_2|Вернуть животных и потребовать награду.
+mno_choice_36_3|Обед! Оглядеться и прикончить животных.
 menu_season_change|{s1}
-menu_troop_camp|A small camp is established for troops you want to leave in this place for the moment.
-mno_station_troops|Take a look at the troops.
+menu_troop_camp|Установлен маленький лагерь для войска, которые вы хотите оставить здесь пока что.
+mno_station_troops|Оглядеть войска.
 menu_player_trait|{s3}
-menu_start_beda_final|FINAL 
-menu_ship_capture|You are able to capture one of the enemy's ships. It's a {s2}. But due to the fight the '{s1}' is in a bad condition. Do you want to add this ship to your fleet?
-mno_capture|Add the ship to your fleet.
-menu_sandboxmode_ok|Go to Sandbox mode?
-menu_start_sea_travel|You are starting a sea travel.
+menu_start_beda_final|ФИНАЛ 
+menu_ship_capture|Вы можете захватить один из кораблей врага. Это {s2}. Но после боя '{s1}' находится в плохом состоянии. Хотите ли вы добавить этот корабль в ваш флот?
+mno_capture|Добавить корабль в ваш флот.
+menu_sandboxmode_ok|Включить режим песочницы?
+menu_start_sea_travel|Вы отправляетесь в морское путешествие.
