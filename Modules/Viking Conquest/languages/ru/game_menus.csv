@@ -609,104 +609,104 @@ mno_appoint_npc14|Назначить {s10}
 mno_appoint_npc15|Назначить {s10}
 mno_appoint_npc16|Назначить {s10}
 mno_appoint_default|Назначить почтенного местного жителя...
-menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult your minister periodically, to avoid the accumulation of unresolved issues that may sap your authority...
+menu_minister_confirm|{s9} бывает при вашем дворе в {s12}. Вам следует регулярно беседовать, чтобы важные дела не накапливались. Помните: нерешенные вопросы могут подорвать ваш авторитет...
 menu_notification_court_lost|{s12}
-menu_notification_player_faction_deactive|Your kingdom no longer holds any land.
-menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been completed and that your presence is expected imminently .
+menu_notification_player_faction_deactive|Вы больше не владеете землями.
+menu_notification_player_wedding_day|{s8} хочет рассказать, что подготовка к вашей свадьбе в {s10} завершена. Вам следует срочно туда явиться.
 menu_notification_player_kingdom_holds_feast|{s11}
-menu_notification_center_under_siege|{s1} has been besieged by {s2} of the {s3}!^^The settlement is surrounded and besieged, its warriors have stocked weapons and stones, and they hope to resist the enemy.
-menu_notification_village_raided|Enemies have Laid Waste to a Fief^^{s1} has been raided by {s2} of the {s3}!
-menu_notification_village_raid_started|Your Village is under Attack!^^{s2} of the {s3} is laying waste to {s1}.
-menu_notification_one_faction_left|The Northlands Conquered by One Kingdom^^The {s1} has defeated all rivals and stands as the sole kingdom.^^You are BRYTENWALDA!
-menu_notification_oath_renounced_faction_defeated|Your Old Faction was Defeated^^You won the battle against the {s1}! This ends your struggle which started after you renounced your oath to them.
-menu_notification_center_lost|An Estate was Lost^^You have lost {s1} to the {s2}.
-menu_notification_troop_left_players_faction|Betrayal!^^{s1} has left the {s2} and joined the {s3}.
-menu_notification_troop_joined_players_faction|Good news!^^{s1} has left the {s2} and joined the {s3}.
-menu_notification_war_declared|Declaration of War^^The {s1} has declared war against the {s2}!^{s57}^^Blacksmiths have stopped manufacturing plows to forge swords and spears. War has been declared!
-menu_notification_peace_declared|Peace Agreement^^The {s1} and the {s2} have made peace!^{s57}^^These two peoples have stopped fighting. It may only be a temporary truce that some of them take to prepare for another war, or perhaps peace is sincere and lasting.
-menu_notification_alliance_declared|Alliance Agreement^^The {s1} and the {s2} have entered into an alliance!^{s57}^^Both kingdoms have joined their fate and are certainly stronger now.
-menu_notification_alliance_offer|The {s1} offers to enter into an alliance with you. What is your answer?
-mno_offer_accept|Accept
-mno_offer_reject|Reject
-menu_notification_faction_defeated|Faction Eliminated^^The {s1} is no more!
-menu_notification_rebels_switched_to_faction|Rebellion Success^^Your rebellion is victorious! Your faction now has the sole claim to the title of the {s11}, with {s12} as the single ruler.
-menu_notification_player_should_consult|Your minister sends word that there are problems brewing in the realm which, if left untreated, could sap your authority. You should consult with him at your earliest convenience.
-menu_banquete_moral|Order your men to leave their weapons outside and invite them to your Great Hall, to sit at your table by rank. The nearest and dearest sit close to you.^ Some girls serve meat and mead in large quantities. You've spent a lot of money on this feast because your men deserve it.^ They are the ones who bleed with you, who have helped you conquer your domains. They are your faithful followers.^ The evening progresses. Many men, drunk as vats, shout and sing. Some run off to vomit and others fight like gamecocks to attract the attention of a girl.^ Behind you a bard sings of your power and deeds. You act like a lord, you are a lord... a 'shepherd of men.'
-mno_banquete_ok|You drink, laugh and shout as they come.
-mno_banquete_ok2|You stay sober, taste the drink, but no more than necessary.
-menu_comprar_cattle2|There are {reg5} head of cattle, each for {reg6} penings. How many do you want to buy?
-mno_cattle_ok|One.
-mno_cattle_ok2|Five.
-mno_cattle_ok3|Forget it.
-menu_notification_player_feast_in_progress|Feast in Preparation^^Your wife has started preparations for a feast in your hall in {s11}.
-menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
+menu_notification_center_under_siege|{s2} из {s3} осадил {s1}!
+menu_notification_village_raided|Враги разорили владение^^{s2} из {s3} разграбил {s1}!
+menu_notification_village_raid_started|На вашу деревню напали!^^{s2} из {s3} разоряет {s1}.
+menu_notification_one_faction_left|Северные Земли завоёваны одним королевством^^{s1} победил всех соперников и теперь является единственным королевством.^^И это БРИТЕНВАЛЬДА!
+menu_notification_oath_renounced_faction_defeated|Ваша прежняя фракция потерпела поражение^^Вы выиграли сражение против {s1}! Это окончание вашего противостояния, которое началось после отмены вашей присяги им.
+menu_notification_center_lost|Потеря владения^^{s2} захватил {s1}.
+menu_notification_troop_left_players_faction|Предательство!^^{s1} покинул {s2} и объединился с {s3}.
+menu_notification_troop_joined_players_faction|Хорошие новости!^^{s1} покинул {s2} и объединился с {s3}.
+menu_notification_war_declared|Объявление войны^^The {s1} объявляет войну, и начинает наступление на {s2}!^{s57}^^Кузнецы теперь производят мечи и копья вместо плугов и вил. Война была обьявлена!
+menu_notification_peace_declared|Мирное соглашение^^{s1} и {s2} согласились заключить мир!^{s57}^^Это может быть только временное перемирие, которое позволит кому-то из них подготовиться к другой войне, а возможно мир искренен и окончателен.
+menu_notification_alliance_declared|Соглашение об альянсе^^{s1} и {s2} организовали альянс!^{s57}^^Оба королевства обьединили свои судьбы и вместе они теперь сильнее.
+menu_notification_alliance_offer|{s1} предлагает альянс с вами. Каков ваш ответ?
+mno_offer_accept|Принять
+mno_offer_reject|Отклонить
+menu_notification_faction_defeated|Фракция уничтожена^^{s1} больше не существует!
+menu_notification_rebels_switched_to_faction|Успешный бунт^^Ваш мятеж окончился победой! Теперь ваша фракция - единственный претендент на титул {s11}, а {s12} - единственный законный правитель.
+menu_notification_player_should_consult|Ваш советник пишет, что в оставленных без присмотра землях начинается брожение умов. Коли так пойдет и дальше, вы можете потерять авторитет. Постарайтесь встретиться с советником при первой же возможности.
+menu_banquete_moral|Прикажите своим людям отложить оружие на время и пригласите их на банкет в Великий Зал, сесть за стол вместе с вами. Где самые доверенные лица будут сидеть ближе всего к вам.^ Служанки подносят блюда в больших количествах. Вы потратили много денег на банкет, ибо вы считаете что ваши люди заслужили это.^ Они те, кто бок о бок сражается с вами, кто помог вам завоевать ваши текущие владения. Они ваши судьбоносные последователи.^ Вечер продолжался... Люди кутят, пьют и поют песни. Некоторым плохеет и другие дерутся как петухи для привлечения внимания девушек.^ Позади вас бард воспевает ваши великие свершения. Вы чувствуете себя лордом, вы и есть лорд... 'пастх людского стада.'
+mno_banquete_ok|Вы пьете без меры, смеетесь и шумите как и другие.
+mno_banquete_ok2|Вы не пьете много, только дегустируете, не более чем достаточно.
+menu_comprar_cattle2|Есть {reg5} голов скота, каждая по {reg6} шиллингов. Сколько вы желаете купить?
+mno_cattle_ok|Одну.
+mno_cattle_ok2|Пять.
+mno_cattle_ok3|Забудьте.
+menu_notification_player_feast_in_progress|Подготовка к пиру^^Ваша жена начала готовить ваши покои в {s11} к празднику.
+menu_notification_lady_requests_visit|К вашей группе подошла женщина и передала одному из воинов запечатанное воском письмо. Оказалось, что послание предназначено вам. Сломав печать, вы узнали почерк {s15}. "Прошлый раз был великолепен. {s14}. Приезжайте в {s10} как можно скорее.{s12}
 menu_garden|{s12}
-mno_nurse|Go with the nurse
-menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley.  This will surely be your best opportunity to attack him.
+mno_nurse|Пойти с нянюшкой.
+menu_kill_local_merchant_begin|Вы замечаете свою жертву и начинаете преследование. Ни о чем не подозревая, он сворачивает за угол в темную аллею. У вас появляется отличная возможность для нападения.
 menu_debug_alert_from_s65|DEBUG ALERT: {s65}
 menu_auto_return_to_map|stub
 menu_bandit_lair|{s3}
-mno_continue_1|Attack the hideout...
-mno_trade_withbandits|Sell spoils to bandits.
-mno_leave_no_attack|Leave...
-mno_leave_victory|Continue...
-mno_leave_defeat|Continue...
-menu_notification_player_faction_political_issue_resolved|After consulting with the peers of the realm, {s10} has decided to confer {s11} on {s12}.
-menu_notification_player_faction_political_issue_resolved_for_player|After consulting with the peers of the realm, {s10} has decided to confer {s11} on you. You may decline the honor, but it will probably mean that you will not receive other awards for a little while.{s12}
-mno_accept|Accept the honor
-mno_decline|Decline the honor
+mno_continue_1|Напасть на убежище...
+mno_trade_withbandits|Продать добычу бандитам.
+mno_leave_no_attack|Уйти...
+mno_leave_victory|Продолжить...
+mno_leave_defeat|Продолжить...
+menu_notification_player_faction_political_issue_resolved|Посовещавшись с вельможами королевства, {s10} решил что {s12} заслужил забрать {s11} под свое управление.
+menu_notification_player_faction_political_issue_resolved_for_player|Посовещавшись с вельможами королевства, {s10} решил пожаловать вам {s11}. Вы можете отклонить честь, но возможно, после этого вы некоторое время не получите других наград.
+mno_accept|Принять честь
+mno_decline|Отклонить честь
 menu_start_phase_3|{s1}
 menu_start_phase_4|{s11}
 menu_lost_tavern_duel|{s11}
-menu_establish_court|Establishing {s4} as your court will require a small refurbishment. In particular, you will need a set of tools and some silver. It may also take a short while for some of your followers to relocate here. Do you wish to proceed?
-mno_establish|Establish {s4} as your court
-menu_notification_relieved_as_marshal|{s4} wishes to inform you that your services as marshal are no longer required. In honor of valiant efforts on behalf of the realm over the last {reg4} days, however, {reg8?she:he} offers you a purse of {reg5} penings.
-menu_monasterio_visit|You arrive at a monastery. The place stretches out wide, with a church, rooms for the monks and their servants, and large gardens with livestock pens. This place certainly treasures wealth!^^{s13}
-mno_enter_interior|Visit the abbot.
-mno_enter_interior_door|To the Abbot.
-mno_enter_door|Leave.
-mno_monasterio_recruit|Ask if somebody wants to join you.
-mno_donate|Make a donation to the monastery (500 penings).
-mno_aprender_leer|Learn how to read (4000 penings).
-mno_convertir|Convert to Christianity.
-mno_pillage_monastery|Pillage the monastery.
-menu_saquear_monasterio|Blood and treasure. Those of your men with fewer scruples are sent towards {s3}, killing anyone in their path and plundering its riches. The fire and death sweeping the place are rampant. You plunder spoils of war worth {reg3} penings.^^{s7}^^{s4}^
-mno_spoils_woden|Sacrifice some monks in honor of Odin and keep the booty.
-mno_spoils_alls|Sacrifice some monks and keep the booty.
-mno_spois_share|I want to participate in the looting.
-menu_refugee_recruit_troops12|There are some widows and orphans interested in joining and trying to find a new life with your soldiers.
-mno_acept_them|Hire them (20 penings)
-menu_refugee_recruit_troops22|Nobody wants to join you.
-menu_refugee_recruit_troops32|There are some shepherds and farmers interested in joining your army.
-menu_refugee_recruit_troops42|There are a cleric and some young warriors interested in joining your army.
-menu_panel_comandante|Before the battle begins...
-mno_choice_1|Impassion your men with a rousing speech.
-mno_choice_2|Call your enemy forward for a duel of honour.
-mno_choice_3|Skirmishers: Send your men to hinder the enemy's advance.
-mno_choice_4|Make a sacrifice to the gods.
-mno_choice_5|Do nothing.
-menu_escaramuza_1|Sir, the enemy commander overcame your tactical skills. Before we were prepared, we were surprised by enemy missile troops. They caused numerous casualties.^^Your casualties: {s8}
-mno_defendiendo_1|Damn!
-menu_escaramuza_2|Our men were deployed in time and closed with the enemy, causing them heavy casualties, before returning.^^Enemy casualties: {s9}
-mno_defendiendo_2|Well Done.
+menu_establish_court|Чтобы сделать {s4} вашим основным городом, придется провести там некоторый ремонт. В частности, вам понадобится набор инструментов и серебро. Для ваших последователей переезд займет некоторое время. Хотите ли вы продолжить?
+mno_establish|Сделать {s4} вашим основным городом.
+menu_notification_relieved_as_marshal|{s4} уведомляет вас, что ваши услуги в качестве маршала больше не требуются. В честь доблестных усилий от имени королевства в течение последних {reg4} дней, однако, {reg8?она:он} предлагает вам кошель с {reg5} шиллингами внутри.
+menu_monasterio_visit|Вы прибыли в монастырь. Это место довольно большое, с церковью, комнатами для монахов и ихними служками, а также садами. Это место сияет богатством!^^{s13}
+mno_enter_interior|Навестить аббата.
+mno_enter_interior_door|В аббатство.
+mno_enter_door|Уйти.
+mno_monasterio_recruit|Спросить, хочет ли кто-нибудь присоединиться к вам.
+mno_donate|Сделать пожертвование в пользу монастыря (500 шиллингов).
+mno_aprender_leer|Learn how to read (4000 шиллингов).
+mno_convertir|Обратить в Христианство.
+mno_pillage_monastery|Разграбить монастырь.
+menu_saquear_monasterio|Кровь и богатство. Самые хладнокровные из ваших людей отправляются в {s3}, грабя и убивая каждого на своём пути. Огонь и смерть витают вокруг. Вы награбили трофеев и ценностей на {reg3} шиллингов.^^{s7}^^{s4}^
+mno_spoils_woden|Пожертвовать несколько монахов во имя Одина и оставить себе добычу.
+mno_spoils_alls|Пожертвовать несколько монахов и оставить себе добычу.
+mno_spois_share|Я хочу участвовать в грабеже.
+menu_refugee_recruit_troops12|Некоторые вдовы и сироты желают присоединиться к вашему отряду, т.к. их больше ничего не держит там и они ищут новой жизни.
+mno_acept_them|Нанять их (20 шиллингов)
+menu_refugee_recruit_troops22|Никто не хочет к вам присоединиться.
+menu_refugee_recruit_troops32|Некоторые пастухи и фермеры хотят присоединиться к вам.
+menu_refugee_recruit_troops42|Священник и молодые воины желают присоединиться к вашей армии.
+menu_panel_comandante|Перед началом битвы...
+mno_choice_1|Произнести воодушевляющую речь
+mno_choice_2|Вызвать ваша врага на дуэль чести
+mno_choice_3|Застрельщики: Отправить ваших людей людей для воспрепятствования продвижения врага.
+mno_choice_4|Сделать пожертвование богам.
+mno_choice_5|Ничего не делать.
+menu_escaramuza_1|Сэр, вражеский коммнадир превзошел вас в тактике. Прежде чем мы успели подготовиться, нас уже были атакованы ихними стрелковыми отрядами. Это привело к серьезным потерям.^^Ваши потери: {s8}
+mno_defendiendo_1|Черт!
+menu_escaramuza_2|Наши люди во время заняли свои позиции и атаковали врага нанеся ему огромный урон.^^Потери врага: {s9}
+mno_defendiendo_2|Отлично.
 menu_escaramuza_3|Upon approaching the enemy, our men found the enemy commander had deployed missile troops to protect his army's advance. To avoid losing men, your soldiers did not attack and returned.
-mno_defendiendo_3|Right.
-menu_lucha_2_no|There seems to be no one willing to duel.
-mno_defendiendo_4|Back.
-menu_lucha_1_d|An enemy warrior moves towards your army and stops a stone's throw away. He takes a lamb skin filled with mead from around his neck and throws it to the ground. You see him jump to warm up his muscles. He casts aside his cloak, removes his robe and boots and stands naked, equipped only with spear and shield. He is their champion, and he points to your army challenging your men to face him.^^Before you can speak, a boy runs out from the ranks. He isn't a veteran or the most capable of your troops, but he's certainly brave.^^Your warrior, your champion, advances to the enemy. They circle each other, studying each other's moves. Your warrior's nerves fail, and he gives a jab with his spear, lowering his shield. The enemy champion seizes the opportunity and swiftly plunges the blade of his spear into the heart of your warrior...^^You have lost the duel.
-mno_defendiendo_5|Back.
-menu_lucha_2_v|One of your men breaks away from the ranks and saunters towards the enemy, then turns, pulls his coat halfway up, and shows his ass. An enemy champion runs towards him, enraged, and tosses a javelin. It is a wild shot that falls a few feet from your warrior. The enemy then draws his sword and charges with a cry.^^Your man quickly prepares himself and stands his ground, waiting with a spear rocking in his hand. Each champion batters the other's shield in an effort to hit home.^^Watching closely, you observe the first blood spilled, and then the last as your champion thrusts his spear through the mouth of his opponent. After catching his breath, your champion turns around and shouts to your men: 'I was too big a mouthful!'^^You have won the duel.
-mno_defendiendo_6|Back.
-menu_lucha_1_p|The chief of your enemies stands out in front of his army and points towards you, inviting you to a duel.
-mno_defendiendo_7|Accept.
-mno_defendiendo_8|Back.
-menu_sacrificio_off|The gods remain mute to your prayers and sacrifices.
-mno_sacri_1|Back.
-menu_sacrificio_1|The viscera of the slaughtered animals are full of worms: a bad omen.^^Maybe you should not fight today.
-menu_sacrificio_2|As you look down at the blood of the slaughtered animal, one of your men points to the horizon where an eagle takes flight with a snake in its claws. A good omen indeed.^^The time is ripe to attack the enemy.
-menu_sacrificio_3|As you thrust the sacrificial knife into the neck of the animal, it escapes from your hands and runs a few yards before collapsing, facing the enemy. It can only be a bad omen.^^Maybe you should not fight today.
-menu_sacrificio_4|Digging into the intestines of the slaughtered animal, you discover a silver pendant ring. It can only be a good omen.^^You're ready for battle.
-menu_discurso_off|You also step forward and try to make condescending remarks, but it's not convincing. Your nerves betray you, and you are unable to articulate a single word.
+mno_defendiendo_3|Правильно.
+menu_lucha_2_no|Похоже никто не желает выйти на дуэль.
+mno_defendiendo_4|Назад.
+menu_lucha_1_d|Вражеский воин выступает вперед к вашей армии и  останавливается неподалеку. Он снимает кожу ягненка со своих плеч и бросает ее на землю. Вы наблюдаете как он разминается. Он сбрасывает свой плащ, снимает одежду и обувь став при этом полностью голым, и только копье и щит находятся в его руках. Это их лучший боец, и он бросает вызов людям с вашей стороны.^^Не успев сказать и слова вперед выбежал паренек из строя. Он не ветеран и не самый способный в вашем отряде, но он определенно очень смел.^^Ваш боец пошел вперед к ожидающему врагу. Они двигаются по кругу, оценивая движения соперника. Нервы врага не выдерживают, и он делает выпад копьем. Вражеский боец воспользовался возможностью и вонзает лезвие копья прямо в сердце вашего бойца...^^Вы проиграли дуэль.
+mno_defendiendo_5|Назад.
+menu_lucha_2_v|Один из ваших людей выходит из строя и направляется к врагу, потом разворачивается, снимает портки и показывает свой голый зад врагу. Вражейский боец бежит на него, разгневанный, и метает копье. Это спонтанный бросок, копье приземляется в метре от вашего бойца. Потом враг обнажает свой меч.^^Ваш боец быстро приготавливается к бою и вот он уже ожидает врага крутя копье в руках. Each champion batters the other's shield in an effort to hit home.^^Присмотревшись внимательно, вы видите что пролилась первая кровь, и в конечном итоге ваш боец вонзает своё копье врагу прямо в глотку. Переведя вздох, ваш боец поворачивается и кричит в сторону вас и вашей армии: 'Я оказался не по зубам!'^^Вы выиграли дуэль.
+mno_defendiendo_6|Назад.
+menu_lucha_1_p|Вражеский командир выходит вперёд своей армии призывая вас сделать тоже самое, вызывая вас на дуэль.
+mno_defendiendo_7|Принять.
+mno_defendiendo_8|Назад.
+menu_sacrificio_off|Боги не отвечают на ваши молитвы и пожертвования.
+mno_sacri_1|Назад.
+menu_sacrificio_1|Внутренности убитых животных полны червей: плохой знак.^^Возможно, сегодня лучше не сражаться.
+menu_sacrificio_2|Вы смотрите как стекает кровь убитого животного, кто-то указывает в сторону горизонта где летит орел со змеей в когтях. Это определенно хороший знак.^^Пришел час атаковать врага.
+menu_sacrificio_3|Как только вы вонзаете нож в горло животного, оно вырывается из ваших рук и убегает вперед и падает перед врагом. Это определённо плохой знак.^^Возможно, сегодня лучше не сражаться.
+menu_sacrificio_4|Покопавшись в кишках убитого животного, вы находите серебрянное кольцо. Это определенно хороший знак.^^Вы готовы к битве.
+menu_discurso_off|Вы также выходите вперед и пытаетесь делать снисходительные замечания, но это неубедительно. Ваши нервы подводят вас, и вы не можете владеть мечом.
 menu_discurso_1|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'When the young men and beautiful women of your village ask you where you got your battle scars, you can tell them, 'under arms in the greatest army, with the greatest general that Britannia and Hibernia have ever seen!'
 menu_discurso_2|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'When the young men and beautiful women of your village ask you where you got your battle scars, you can tell them, 'under arms in the greatest army, with the greatest general that Britannia and Hibernia have ever seen!'
 menu_discurso_3|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'And to think that right now, across Bryten, cowards and old men are herding their goats, tending their crops, toiling and sweating for nothing! Yet here we freemen stand. Our own toil is about to begin. Our own sweat and blood are poised to run. For what? For honor! For glory! For wealth!'
@@ -720,14 +720,14 @@ menu_discurso_10|You inspect the troops and move among them. While speaking to t
 menu_discurso_11|You inspect the troops and move among them.  While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'Let us go out from this burning place into the open and stand up to our enemies. He who dies shall be with our god. He who dies not, his name will be honoured. I go first, and what I do, you do. May God be my witness, I will never leave you, my brothers and fellow knights!'.
 menu_discurso_12|You inspect the troops and move among them. While speaking to them, you look each man in the eye, seeking to convey the significance of the moment:^^'The sun will set on our enemy this evening, but we shall shine as the rays of the sun on a spring day. You may be nervous and trembling now, but your shaking hands are nothing compared to theirs. They are but autumn leaves in the wind; we are the howling storm that will scatter them across the meadows, never to be seen again. Brandish your spears. Be the thunder that topples their tree. This land is ours -- these woods, these hills, these fields -- and so shall it be season after season, year after year, forever and ever!'
 menu_doccinga_messenger|A farmer approaches, beating a squalid mule. He stops in front of you, takes a breath and shouts,^^'Sven Bull Neck is advancing on Doccinga with three ships! Thonkrik sent me to warn you. {s4} won't come; he has left us to luck!^I will give the news to the other jarls, but they are Danish and do not worry about Frisians. Please, we need your help. Save our people!'^^The farmer kicks his mule and rides away from you. His desperate words, 'Save our people,' remain in your mind, an echo of distress.
-mno_choice_01_1|Continue
+mno_choice_01_1|Продолжить
 menu_doccinga_messenger2|A messenger approaches, galloping. He stops in front of you, takes a breath and shouts:^^'Thonkrik seeks your presence in Doccinga, {playername}. He has captured a prisoner from Sven Bull Neck's Viking raiders in the recent battle.^He thinks you'll be interested in interrogating him and requests that you go to see him as soon as you can.Thonkrik  does not know how long he can hold the prisoner before the king or jarl claims him.'
 menu_doccinga_c_assault|From a hill near Doccinga, you can see that the townspeople are fleeing. Some of the braver ones and a few of the king's men are trying to form a shield-wall at the beach, ready to defend their possessions or, in the worst case, to protect their loved ones' escape.^^Far off, in the sea, you distinguish three Viking warships. You cannot see them well from this far, but it isn't hard to imagine that they are full of warriors.^^Your mind cannot help but return to memories of that naval battle where Sven Bull Neck attacked your ship. Now, finally, the big Viking is again within a reach.^^From Doccinga, you notice that a man leaves, running. He looks like a warrior. Noticing you, he heads towards you...
 mno_choice_01_1d|Advance to help Doccinga and meet the warrior.
-mno_choice_doccinga|I need to recruit more men.
+mno_choice_doccinga|Нужно нанять больше людей.
 mno_encounter_save|I will return later. Doccinga can wait.
 menu_doccinga_c_assaultnoche|It's late at night, and your men need some rest. Come back in the morning.
-mno_choice_01_3d|Continue.
+mno_choice_01_3d|Продолжить.
 menu_doccinga_c_assault2|As you approach the village, you see the queue of refugees fleeing Doccinga. They walk loaded with all their belongings and pull heavy wagons, so they move very slowly. If you don't stop the Vikings on the beach, all the refugees will die at their swords.
 mno_choice_01_1e|Enter Doccinga.
 menu_doccinga_victory|Blood drips from your hand to your elbow. Around you there is only death, and your ears are filled with the groans of the dying.^^The Vikings, defeated, have returned to the sea, leaving behind many dead and wounded, but the cost has been very high.^^Sven Bull Neck was not among the assailants, and that surprises you, as the boats were his. Where then is your hated enemy?^^Thonkrik's words resonate in your mind. Perhaps it is time to pay a visit to the jarl of Kennemer. He has some explanations to give.
