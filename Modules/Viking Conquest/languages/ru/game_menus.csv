@@ -899,58 +899,58 @@ mno_the_speech|Присоединиться к ним.
 menu_thetravel_danisharmy_l|Датская армия, Великая Летня Армия, добралась до Аэсиздуна. Король Этельред разделил своё войско на две части: одной он командовал лично, а другой командовал его брат, юный Альфред. Каждая из частей защищала свою сторону древней дороги, Риджвэй. Пока викинги подходили, Этельред решил помолиться перед боем и отказывается пошевелиться пока не закончит. Но датское войско приближалось быстро, оно тоже разделилось на две части...
 menu_mega_battle_ashdown|Саксонская армия занимала самую выгодную позицию на двух холмах. На одном холме войско Этельреда, а на другом Альфреда. Датчане передвигаются быстро, быстрее ожидаемого, не останавливаясь на отдых или перегруппировку. Этого Этельред не ожидал. Он по-прежнему погружен в свои молитвы и приказал не беспокоить его пока он не закончит. Датчане не ждали. Они разделили своё войско на два. Одна часть под предводительством Ярла Хальфдана и Короля Багсега, прямо направлялась к войску Этельреда. Другая, под руководством других пяти ярлов, направлялась в сторону войска Альфреда. Они начинают занимать высокие позиции на холме над позициями саксонцев. Если он завершат развертывание, у них будет серьезное преимущество перед врагом...^^{s2} У вас есть {reg10} бойцов готовых к битве против их {reg11}.
 mno_encounter_attackasc|Битва за Аэсиздун.
-menu_svenbn_hunting|On the way down the battlefield, all you've seen are the remains of weapons, corpses, wounded men, looters, priests giving final unction to the dying, and you feel something inside that mixes the euphoria of remaining alive with strong sense of desolation. Above all, you ask one recurring question: why? Why am I alive when so many others died?^^But your thoughts and fate walk in different directions. {s4}
+menu_svenbn_hunting|Идя по полю битвы, всё что вы видели, это обломки оружия, трупы, раненых, мародеров, священников отпускающих грехи умирающим, и вы чувствуете что-то внутри, что-то, что является смесью эйфории выжившего и сильного чувства опустошения. Кроме ранее упомянутого вы задаетесь повторяющимся вопросом: почему? Почему я всё еще жив, когда столько людей погибло вокруг?^^Но ваши мысли и судьба следуют разным направлениями. {s4}
 mno_talk_to_leader|Поговорить с ним.
-menu_followers_camp_begin|Attracted by the growth of your army, some priests and women have joined you lately, and now even some merchants are asking for permission to follow you.^^Although this means easy access to many services that undoubtedly will improve the morale of your men, you should know that groups like that move slow and will in turn make your army slower.^^The followers' services are accessible from within your camp area.
+menu_followers_camp_begin|Привлеченные ростом вашей армии, несколько священников и женщин присоединились к вам, и теперь даже некоторые торговцы спрашивают разрешения сопровождать вас.^^Это конечно упрощает получение некоторого набора услуг что повысит боевой дух, но такие вещи сильно замедляют ваше войско.^^Услуги последователей доступны из меню лагеря.
 mno_followers_yes|Конечно. Им всегда рады.
 mno_followers_no|Нет. Это армия, а не кукольный спектакль.
-menu_followers_camp_leave|Recent events and the drastic reduction in the number of your men have caused your camp followers disperse...
-mno_follw_yes|Damn.
-menu_followers_remove|Are you sure you want to disperse your followers? This will make your followers stop accompanying your army. This may mean a strong negative impact on the morale of your men.
+menu_followers_camp_leave|Недавние события и серьезное уменьшение численности вашего войска привело к тому, что ваши последователи покинули лагерь...
+mno_follw_yes|Черт!
+menu_followers_remove|Вы уверены, что хотите распустить ваших последователей? Это приведет к тому, что последователи будут более недоступны и боевой дух отряда понизится.
 mno_remove_yes|Да.
 mno_remove_no|Нет.
-menu_sven_bullneck_readingum|The site has good defenses and moat, and there are still remnants of the previous battle, when the Saxons tried to expel the Danish. It is a good position to defend.^^{s4}
+menu_sven_bullneck_readingum|В этом месте хорошие укрепления и рвы, также еще остались следы предыдущей битвы, в которой саксонцы пытались изгнать датчан. Это хорошая позиция для обороны.^^{s4}
 mno_talk_to_leadermen|Поговорить с ним.
 mno_enter_to_talk_sven|Подойти ближе к Редингуму.
 mno_svenreadingum_attack|В атаку!
 mno_encounter_savereadingum|Уйти.
-menu_sven_halllatest|The slaughter continues in Readingum, your men still fighting against the remnants of the Sven's troops, but that is not the battle you seek. Sven Bull Neck has barricaded himself in the mead hall of Readingum, taking your mother and a few men with him. It's time to end this party...
-mno_fight_svhall|Enter the mead hall.
-menu_mother_death|Sven Bull Neck finally lies dead. You have accomplished your revenge, but you are left with a bitter taste in your mouth, because your mother's dead body is laying not far from Sven's. The woman who raised you, and for who you left everything behind to seek a healer in Friese. Her last words of love resonate in your mind, like a distant echo.^^Sven Bull Neck and your mother have been the energy that has driven you so far, but both are now dead. You feel a void, as if part of you went with them.^^After everything that happened, all you have left are memories...
-mno_mother_funeral|Hold a funeral.
-menu_event_siege_01|One of your advisers tells you that he has found rats in the provisions that your men are eating. This could have been avoided with some sanitation preventions!
+menu_sven_halllatest|В Редингуме резня продолжается, ваши люди сражаются с остатками войск Свена, но это не та битва, которую вы ищите. Свен Бычья Шея забарикадировался в таверне Редингума, удерживая вашу мать с несколькими людьми. Настал час положить этому конец...
+mno_fight_svhall|Войти в таверну.
+menu_mother_death|Свен Бычья Шея наконец-таки помер. Вы исполнили свою месть, но вы отнюдь не рады, ибо тело вашей умершей матери лежит не так далеко от тела Свена. Женщина, которая вырастила вас, и ради которой вы оставили всё ради поисков лекаря во Фризе. Её последние слова, слова любви резонируют у вас в голове, как дальнее эхо.^^Свен Бычья Шея и ваша мать были источниками энергии которая завела вас так далеко, но они теперь оба мертвы. Вы чувствуете себя опустошенным, как-будто часть вас ушла вместе с ними.^^После всего, что случилось, всё что у вас осталось это ваши воспоминания...
+mno_mother_funeral|Провести похороны.
+menu_event_siege_01|Один из ваших советников сказал вам, что нашел крыс в припасах. Этого можно было бы избежать уделяя внимание санитарии!
 mno_choice_01_2a|Я не могу оставить своих людей без пропитания. Убивайте крыс столько, сколько возможно.
 menu_ratas_siege|Прежде чем крыс вывели, многие из ваших людей заболели и умерли.^^Ваши потери: {s8}
-mno_back_to_siegea|Done.
+mno_back_to_siegea|Ок.
 menu_event_siege_02|Отсутствие гигиены привело к вспышке дизентерии в вашем лагере. Люди начали помирать на каждом углу. Этого можно было бы избежать с применением санитарных мероприятий!
 mno_choice_02_1b|Нанять лекаря, который бы помогал больным (1000 шиллингов).
 mno_choice_02_2b|Я ничего не могу поделать.
 mno_choice_02_3b|Помолиться богам.
 mno_choice_02_4b|Я или мои компаньоны можем вылечить их.
-menu_enfermedad_siege|Death governs your camp. Many of your men are sick and dying.^^Your casualties: {s8}
-mno_back_to_siegeb|Damn.
-menu_enfermedad2_siege|Some men die from the disease, but most manage to recover thanks to the physician you hired.^^Your casualties: {s8}
-menu_enfermedad3_siege|Death governs your camp. Many of your men are sick and dying. Perhaps your god has saved some lives.^^Your casualties: {s8}
-mno_back_to_sieged|Done.
-menu_enfermedad4_siege|Thanks to your healing abilities, you manage to save many men, but some still die.^^Your casualties: {s8}
-mno_back_to_siegee|Back to siege.
-menu_event_siege_03|There is so much garbage, vermin and other nasties that your camp seems more of a pigsty. Your men are unhappy. This could have been avoided with some sanitation preventions!
-mno_choice_03_4c|I will give an inspiring speech to gain time while I take measures.
-mno_choice_03_2c|I will see what I can do.
-menu_event_siege_04|Some enemies have managed to infiltrate at night and burn some of your supplies. Part of your food was destroyed.
-mno_choice_04_1d|To set an example, punish the men who were on duty that night.
-mno_choice_04_2d|No, do nothing!
-menu_event_siege_05|During the night, your men captured and executed a group of enemies who tried to infiltrate and burn supplies.
-mno_choice_05_1e|Congratulate them for doing their job well.
-mno_choice_05_2e|Reward each one of them with a warrior bracelet (300 penings).
-mno_choice_05_3e|Reward them with a night off and money to spend at the nearest brothel (200 penings).
-mno_choice_05_4e|Do nothing. You are a firm leader, and will not show weakness.
-menu_event_siege_06|Sir, our food supply routes may be in danger. Our scouts have discovered enemy raiders behind our lines.^We could avoid such problems by blockading the place.
-mno_choice_06_1f|Send men to protect the routes and pursue the enemy (Troops will be taken from your main army).
-mno_choice_06_2f|Send messengers to pay them not to attack your supply routes (500 penings but no guarantees).
-mno_choice_06_3f|Do nothing (lose part of your food but save your men's lives).
-menu_encuentro_avituallamiento|Dispatch a group of men to protect and pursue the enemies that plague your supply routes. Your men attempt to corner the enemy to force him to fight until death. There are some losses, but your men manage to win the battle and secure the supply routes.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_back_to_siegeg|Well done.
+menu_enfermedad_siege|Смерть заполонила ваш лагерь. Много людей болеют и умирают.^^Ваши потери: {s8}
+mno_back_to_siegeb|Черт.
+menu_enfermedad2_siege|Несколько человек умерло, но благодаря нанятому лекарю многие выздоровели.^^Ваши потери: {s8}
+menu_enfermedad3_siege|Смерть заполонила ваш лагерь. Много людей болеют и умирают. Возможно ваши боги сохранили чьи-то жизни.^^Ваши потери: {s8}
+mno_back_to_sieged|Ок.
+menu_enfermedad4_siege|Благодаря вашим лекарским способностям, вам удалось многих спасти, но не всех.^^Ваши потери: {s8}
+mno_back_to_siegee|Вернуться к осаде.
+menu_event_siege_03|В вашем лагере столько мусора, паразитов и других гадостей, что он больше напоминает свинарник. Ваши люди несчастны. Этого можно было бы избежать уделяя внимание санитарии!
+mno_choice_03_4c|Я произнесу вдохновляющую речь, чтобы выиграть время, пока я приму меры.
+mno_choice_03_2c|Посмотрим что я могу сделать.
+menu_event_siege_04|Врагам удалось проникнуть ночью в лагерь и сжечь часть ваших запасов продовольствия.
+mno_choice_04_1d|Показать пример и наказать людей, ответственных за охрану этой ночью.
+mno_choice_04_2d|Нет, ничего не надо делать!
+menu_event_siege_05|В ночи, ваши люди схватили и казнили группу врагов которые пытались проникнуть в лагерь и сжечь продовольствие.
+mno_choice_05_1e|Поздравить их с успешным выполнением работы.
+mno_choice_05_2e|Наградить каждого из них воинскими браслетами (300 шиллингов).
+mno_choice_05_3e|Наградить их выходным с оплатой услуг в ближайшем борделе (200 шиллингов).
+mno_choice_05_4e|Ничего не делать. Вы строгий лидер, и не покажите свою слабость.
+menu_event_siege_06|Сэр, наши маршруты поставок продовольствия могут быть в опасности. Наши разведчики обнаружили налетчиков позади нас.^Мы могли бы избежать таких проблем организовав блокаду.
+mno_choice_06_1f|Отправить людей на защиту маршрутов от врагов (Войска будут взяты из вашей армии).
+mno_choice_06_2f|Отправить посыльных с деньгами, которые заплатят им ради ненападения на обозы (500 шиллингов, но никаких гарантий).
+mno_choice_06_3f|Ничего не делать (потерять часть продовольствия, но не терять жизни ваших людей).
+menu_encuentro_avituallamiento|Отправить группу бойцов на защиту поставок. Ваши люди попытались загнать врага в угол и заставить его сразиться. Вашим людям удалось выиграть битву и защитить поставки, но некоторые потери все-таки есть.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_back_to_siegeg|Отлично.
 menu_encuentro_avituallamiento2|{s4}
 menu_event_siege_07|Our scouts have found that the defenders have poisoned the water with dead animals.
 mno_choice_07_1g|Buy water and ask the merchants to bring it via our supply route (600 penings).
