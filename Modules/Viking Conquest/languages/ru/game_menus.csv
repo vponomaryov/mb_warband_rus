@@ -952,80 +952,80 @@ mno_choice_06_3f|Ничего не делать (потерять часть п�
 menu_encuentro_avituallamiento|Отправить группу бойцов на защиту поставок. Ваши люди попытались загнать врага в угол и заставить его сразиться. Вашим людям удалось выиграть битву и защитить поставки, но некоторые потери все-таки есть.^^Ваши потери: {s8}^^Потери врага: {s9}
 mno_back_to_siegeg|Отлично.
 menu_encuentro_avituallamiento2|{s4}
-menu_event_siege_07|Our scouts have found that the defenders have poisoned the water with dead animals.
-mno_choice_07_1g|Buy water and ask the merchants to bring it via our supply route (600 penings).
-mno_choice_07_2g|Ration water and digging of wells.
-mno_choice_07_3g|Without water the siege can not continue. Abandon the siege.
-menu_sed_siege|Water is running out, and your men are weakened. Driven by the madness of thirst, some of them drink poisoned water and die. Finally, a well is completed and you get water for the time being. You can continue the siege.^^Your casualties from poisoned water:{s8}
-mno_back_to_siegeh|Fate is inexorable.
-menu_event_siege_08|Bad news: one of our men has deserted to the enemy. It may be because of his low morale or because they have offered him money. Whatever it is, the enemy may know our plans.
-mno_choice_08_1h|Offer 400 penings to the army to raise morale. I don't want more desertions.
-mno_choice_08_2h|Do not worry. I can always change plans.
-menu_event_siege_09|A deserter from the enemy has joined our ranks. He has informed us that {s2}.
-mno_choice_09_1i|He is welcome to our ranks.
-mno_choice_09_2i|I do not want deserters among my men. Kill him.
-mno_choice_09_3i|I'm sure he's a spy. Return him to the enemy.
-menu_event_siege_10|Our men and the enemy do not insult each other as much any more, and sometimes talk to each other. This can affect their fighting spirit when we attack. What shall we do?
-mno_choice_10_1j|Allow it. The enemy's fighting spirit is also affected.
-mno_choice_10_2j|What? Forbid it and punish the offenders.
-menu_event_siege_11|The cold of winter always takes its toll when it comes. Some men have died of cold, flu and other minor illnesses.^^Your casualties: {s8}
-mno_choice_11_1j|Requiescat in pace.
-menu_event_siege_12|A farmer comes to you and says that one of your men has raped his daughter, who lives in a village near your siege camp. The farmer wishes wergild (compensation) of 100 penings. What do you do?
-mno_choice_12_1j|Pay the wergild.
-mno_choice_12_2j|Refuse to pay for damage done to the Enemy.
-mno_choice_12_3j|Kill the farmer and his daughter.
-menu_no_paymentandkill|In revenge the men of the nearby villages joined together and attacked your foraging parties.^^Your casualties: {s8}
-menu_event_siege_13|A group of enemies attacked our men by surprise and then quickly withdrew.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_13_1b|This is common. Be cautious. (Blockade the place, and the problem will go away immediately).
-menu_event_siege_14|While foraging, a group of enemy riders encountered a group of our men.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_14_1b|This is common. Be cautious. (Blockade the place, and the problem will go away immediately).
-menu_event_siege_15|We were attacked by an enemy force while raiding neighboring villages. The villagers joined the enemy, causing us many casualties.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_15_1b|This is common. Be cautious. (Blockade the place, and the problem will go away immediately).
-menu_event_siege_16|The enemy and our men came upon each other near a river, and the fight for water caused numerous casualties on both sides.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_16_1b|This is common. Be cautious. (Blockade the place, and the problem will go away immediately).
-menu_event_siege_17|The enemy sallied out through a secret passage, attacking us before swiftly retreating back to the protection of their walls.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_17_1b|This is common. Be cautious. (Blockade the place, and the problem will go away immediately).
-menu_event_siege_18|Some of your men have abducted women from the surrounding villages and brought them to the siege camp for fun.
-mno_choice_18_1b|You allow it and ask for the most beautiful woman.
-mno_choice_18_2b|Order your men to release the women and punish the kidnappers.
-menu_event_siege_19|The enemy is trying to break our blockade, and our men are trying to contain them.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_19_1b|Send some men to reinforce the wall, while I make a threat of assault. This will force them to withdraw.
-mno_choice_19_2b|Quick. Send all the men to protect that part of the circumvallation.
-mno_choice_19_3b|Do not worry, our wall is strong.
-menu_no_defendiendo|The enemy has overcome our defenses and burned our small camps and checkpoints, breaking our blockade.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_defendiendo_1b|We must build the blockade again.
-menu_defendiendo_circunvallation|We have managed to repel the enemy, who returned to the protection of his walls...^^Your casualties: {s8}^^Enemy casualties: {s9}
-menu_defendiendo_mal|Another group of enemies took advantage of our troops being here and set fire to another part of our blockade.^^Your casualties: {s8}^^Enemy casualties: {s9}
-menu_event_siege_20|The enemy is trying to burn our assault equipment.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_choice_20_1b|Hurry up. I want to send a detachment of men to reinforce the equipment zone while making a threat of assault, forcing them to withdraw.
-mno_choice_20_2b|Quickly. Send all men to protect the equipment.
-mno_choice_20_3b|Do not worry. Our men will guard it.
-menu_no_defendiendo_equip|The enemy has overcome our defenses and burned down our equipment.^^Your casualties: {s8}^^Enemy casualties: {s9}
-menu_defendiendo_equip|We have managed to repel the enemy, who returned to the protection of his walls.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_defendiendo_1h|Well done.
-menu_defendiendo_mal_equip|Another group of enemies has surrounded our positions and burned down our siege equipment on the other side.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_defendiendo_1v|Damn!
-menu_event_siege_21|Your guards discovered several men trying to sneak out at night to escape your blockade.
-mno_choice_21_1b|Allow them to escape.
-mno_choice_21_2b|Kill them.
-menu_event_siege_22|At night, your guards let you know that they have seen a group of enemies dressed in sheepskins. Right now enemies are filling bottles along the river to bring water to the settlement.
-mno_atacar_emboscada_player2|Go there with any companions who want to join.
-mno_choice_22_1b|Ambush the enemy in sheepskins.
-mno_choice_22_2b|Do nothing.
-menu_victoria_ovejas|Your soldiers surrounded the enemy in sheepskins and fell upon them by surprise, spreading death.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_defendiendo_1l|Perfect!
-menu_derrota_ovejas|It's a trap! Sir, the men dressed in sheepskins were a decoy to bring out our men and ambush them. Many were killed before returning to the protection of our circumvallation.^^Your casualties: {s8}^^Enemy casualties: {s9}
-mno_defendiendo_1p|That is terrible.
-menu_tablas_ovejas|Your soldiers were deployed to surround the enemy, but they were too slow and noisy. The men in sheepskins sensed the threat and returned to the settlement quickly.
-mno_defendiendo_1o|Well, next time.
-menu_event_siege_23|Today a mercenary who wants to join our ranks came to our camp. He says he is an exile from the place that we are besieging, and he wants revenge.
-mno_choice_23_1b|Accept him.
-mno_choice_23_2b|I don't need more men.
-menu_event_siege_24|We have accumulated the heads of enemies and dead peasants. Do you want to launch them over the walls to undermine the morale of the enemy and cause disease?
-mno_choice_24_1b|What? You're a crazy maniac. Do not do that!
-mno_choice_24_2b|Sure, it will be useful when negotiating their surrender.
-menu_cabezas_moral|The heads are launched into the settlement. From the outside, you hear the cries and tears of the citizens when they recognize a loved one. War is merciless, and you've proven you're the most terrible of foes.
-mno_defendiendo_1q|This will help them give up... or die...
+menu_event_siege_07|Наши разведчики обнаружили, что защитники отравили воду тушами животных.
+mno_choice_07_1g|Купите воды и попросите торговцев доставить ее по нашему маршруту снабжения (600 шиллингов).
+mno_choice_07_2g|Нормируйте раздачу воды и начните копать колодцы.
+mno_choice_07_3g|Осада не может продолжаться без воды. Снять осаду.
+menu_sed_siege|Вода заканчивается и ваши люди ослаблены. Под сильным чувством жажды, некоторые впадают в безумие и напиваются отравленой воды и умирают. Наконец-то, колодец выкопан и вы теперь можете пополнять запасы воды. Вы можете продолжить осаду.^^Ваши потери от отравленной воды:{s8}
+mno_back_to_siegeh|Судьба непоколебима.
+menu_event_siege_08|Плохие новости: один из бойцов дезертировал. Это может быть либо из-за низкого боевого духа или из-за того что они ему заплатили деньги. Что бы это ни было, враг может знать наши планы.
+mno_choice_08_1h|Предложите 400 шиллингов армии для поднятия боевого духа. Я не хочу чтобы появились еще дезертиры.
+mno_choice_08_2h|Не беспокойтесь, я всегда могу поменять планы.
+menu_event_siege_09|Вражеский дезертир присоединился к нашим рядам. Он сообщил нам, что {s2}.
+mno_choice_09_1i|Сообщите ему что он принят.
+mno_choice_09_2i|Я не желаю, чтобы среди моих бойцов были дезертиры. Убейте его.
+mno_choice_09_3i|Я уверен что он шпион. Верните его врагу.
+menu_event_siege_10|Наши люди и враг больше не враждуют как раньше, иногда они даже общаются. Это может повлиять на боевой дух когда начнется атака. Что нам делать?
+mno_choice_10_1j|Пусть так. Боевой дух врага тоже снизится.
+mno_choice_10_2j|Что? Запретить и наказать нарушителей.
+menu_event_siege_11|Холодная зима всегда берет свое. Несколько людей умерли от морозов, гриппа и других болезней.^^Ваши потери: {s8}
+mno_choice_11_1j|Requiescat in pace (Пусть покоятся с миром).
+menu_event_siege_12|К вам пришел фермер и заявляет что один из ваших людей изнасиловал его дочь, в деревне неподалеку от вашего лагеря. Фермер хочет компенсацию в размере 100 шиллингов. Что будете делать?
+mno_choice_12_1j|Заплатить компенсацию.
+mno_choice_12_2j|Отказаться платить за причиненный ущерб.
+mno_choice_12_3j|Убить фермера и его дочь.
+menu_no_paymentandkill|В отместку собрались люди из соседних деревень и атаковали ваши продовольственные части.^^Ваши потери: {s8}
+menu_event_siege_13|Группа людей внезапно атаковала наших людей и затем быстро исчезли ушла.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_13_1b|Обычное дело. Будьте осторожны. (Блокировать это место, и проблема решится сразу же).
+menu_event_siege_14|Во время фуражировки, группа вражеских всадников атаковала группу наших людей.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_14_1b|Обычное дело. Будьте осторожны. (Блокировать это место, и проблема решится сразу же).
+menu_event_siege_15|Мы были атакованы вражескими силами во время налетов на соседние деревни. Селяне присоединились к врагу причив нам немалый ущерб.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_15_1b|Обычное дело. Будьте осторожны. (Блокировать это место, и проблема решится сразу же).
+menu_event_siege_16|Враг и наши люди столкнулись у реки, и битва за воду привела к большим потерям с обоих сторон.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_16_1b|Обычное дело. Будьте осторожны. (Блокировать это место, и проблема решится сразу же).
+menu_event_siege_17|Враг вышел из укромного места, и атаковал нас прежде чем без проблем вернуться к защите своих стен.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_17_1b|Обычное дело. Будьте осторожны. (Блокировать это место, и проблема решится сразу же).
+menu_event_siege_18|Некоторые из ваших людей похитили женщин из соседних деревень и принесли их в осадный лагерь для развлечений.
+mno_choice_18_1b|Вы позволяете это и запрашиваете самую красивую из них.
+mno_choice_18_2b|Приказать отпустить женщин и наказать похитителей.
+menu_event_siege_19|Враг пытается прорвать нашу блокаду, и наши люди пытаются их сдержать.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_19_1b|Пошлите им людей в подкрепление, пока разрабатывается план атаки. Это заставит их отступить.
+mno_choice_19_2b|Быстро. Пошлите всех людей на защиту той части укреплений.
+mno_choice_19_3b|Не беспокойтесь, наши укрепления достаточно прочны.
+menu_no_defendiendo|Враг преодолел наши укрепления и сжег наши маленькие лагеря, прорывая нашу блокаду.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_defendiendo_1b|Нужно соорудить блокаду снова.
+menu_defendiendo_circunvallation|Нам удалось отбросить противника, ему пришлось вернуться на стены...^^Ваши потери: {s8}^^Потери врага: {s9}
+menu_defendiendo_mal|Другая группа врагов превзошла наших на этой стороне и провела огонь по другой части нашей блокады.^^Ваши потери: {s8}^^Потери врага: {s9}
+menu_event_siege_20|Враг пытается сжечь наши осадные орудия.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_choice_20_1b|Поспешите. Я хочу послать отряд для усиления зоны с оборудованием пока готовится атака, нужно заставить их отступить.
+mno_choice_20_2b|Быстро. Пошлите всех людей на защиту оборудования.
+mno_choice_20_3b|Не беспокойтесь. Наши люди выстоят.
+menu_no_defendiendo_equip|Враг преодолел наши укрепления и сжег наше оборудование.^^Ваши потери: {s8}^^Потери врага: {s9}
+menu_defendiendo_equip|Нам удалось отбросить противника, ему пришлось вернуться на стены.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_defendiendo_1h|Отлично.
+menu_defendiendo_mal_equip|Другая группа врагов окружила наши позиции и сожгла наши осадные орудия на другой стороне.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_defendiendo_1v|Черт!
+menu_event_siege_21|Ваша стража обнаружила, что несколько людей пытаются выскользнуть из блокады и убежать.
+mno_choice_21_1b|Позволить им спастись.
+mno_choice_21_2b|Убить их.
+menu_event_siege_22|Ночью, ваша стража уведомляет вас что они видели группу врагов одетых в овечьи шкуры. Сейчас они наполняют бутыли с водой, чтобы отнести их в поселение.
+mno_atacar_emboscada_player2|Отправиться туда с компаньонами, которые пожелают присоединиться.
+mno_choice_22_1b|Устроить им засаду.
+mno_choice_22_2b|Ничего не делать.
+menu_victoria_ovejas|Ваши солдаты окружили врагов и нанесли им внезапный удар сея смерть вокруг.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_defendiendo_1l|Великолепно!
+menu_derrota_ovejas|Это ловушка! Сэр, люди в овечьей шкуре были приманкой, чтобы выманить наших людей и атаковать их. Многих убили, прежде чем бойцы смогли вернуться на наши позиции.^^Ваши потери: {s8}^^Потери врага: {s9}
+mno_defendiendo_1p|Это ужасно.
+menu_tablas_ovejas|Ваши солдаты расположились вокруг врага, что были слишком медлительны и шумны. Люди в овечьих шкурах почувствовали опасность и быстро вернулись в поселение.
+mno_defendiendo_1o|Ладно, в следующий раз достанем.
+menu_event_siege_23|Сегодня к нам в лагерь пришел наемник, который хочет присоединиться к нам. Он говорит что он изгнанник из места, которое мы осаждаем и он жаждет мести.
+mno_choice_23_1b|Принять его.
+mno_choice_23_2b|Мне не нужны пополнения сейчас.
+menu_event_siege_24|Мы собрали головы врагов и мертвых крестьян. Прикажите запустить их через стены для подрыва боевого духа врага и угрозы распространения болезней?
+mno_choice_24_1b|Что? Вы сумасшедший маньяк. Не делайте этого!
+mno_choice_24_2b|Конечно, это нам очень поможет при переговорах о их капитуляции.
+menu_cabezas_moral|Головы запущены в поселение. Издалека вам слышны крики и слезы осажденных горожан когда они узнают погибших. Война беспощадна, и вы доказали что вы самый ужасный из врагов.
+mno_defendiendo_1q|Это поможет им сдаться... или умереть...
 menu_event_siege_25|A merchant offers a group of dancers to entertain your men during the night.
 mno_choice_25_1b|I need my men ready for action, not distracted or tired.
 mno_choice_25_2b|Hire dancers just for yourself (100 penings).
